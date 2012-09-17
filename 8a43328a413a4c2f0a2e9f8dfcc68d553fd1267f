@@ -1,0 +1,327 @@
+{
+  "comments": [
+    {
+      "key": {
+        "uuid": "AAAAYX//+Y4\u003d",
+        "filename": "AndroidManifest.xml",
+        "patchSetId": 5
+      },
+      "lineNbr": 8,
+      "author": {
+        "id": 1078
+      },
+      "writtenOn": "2012-09-17T18:09:17Z",
+      "side": 1,
+      "message": "Whitespace",
+      "revId": "8a43328a413a4c2f0a2e9f8dfcc68d553fd1267f",
+      "serverId": "1ec6b3db-b2c1-4fa4-84a2-4c7efe89ba71",
+      "unresolved": false
+    },
+    {
+      "key": {
+        "uuid": "AAAAYX//+Y0\u003d",
+        "filename": "res/layout-land/main.xml",
+        "patchSetId": 5
+      },
+      "lineNbr": 35,
+      "author": {
+        "id": 1078
+      },
+      "writtenOn": "2012-09-17T18:09:17Z",
+      "side": 1,
+      "message": "Spacing. Should use 4 space indentation (from parent and to children) and have matching spacing between start of tag and attributes as the rest of the file.",
+      "revId": "8a43328a413a4c2f0a2e9f8dfcc68d553fd1267f",
+      "serverId": "1ec6b3db-b2c1-4fa4-84a2-4c7efe89ba71",
+      "unresolved": false
+    },
+    {
+      "key": {
+        "uuid": "AAAAYX//+Yw\u003d",
+        "filename": "res/layout-land/main.xml",
+        "patchSetId": 5
+      },
+      "lineNbr": 96,
+      "author": {
+        "id": 1078
+      },
+      "writtenOn": "2012-09-17T18:09:17Z",
+      "side": 1,
+      "message": "Whitespace",
+      "revId": "8a43328a413a4c2f0a2e9f8dfcc68d553fd1267f",
+      "serverId": "1ec6b3db-b2c1-4fa4-84a2-4c7efe89ba71",
+      "unresolved": false
+    },
+    {
+      "key": {
+        "uuid": "AAAAYX//+Yo\u003d",
+        "filename": "res/layout-port/main.xml",
+        "patchSetId": 5
+      },
+      "lineNbr": 45,
+      "author": {
+        "id": 1078
+      },
+      "writtenOn": "2012-09-17T18:09:17Z",
+      "side": 1,
+      "message": "Whitespace.",
+      "revId": "8a43328a413a4c2f0a2e9f8dfcc68d553fd1267f",
+      "serverId": "1ec6b3db-b2c1-4fa4-84a2-4c7efe89ba71",
+      "unresolved": false
+    },
+    {
+      "key": {
+        "uuid": "AAAAYX//+Yk\u003d",
+        "filename": "src/com/android/calculator2/Calculator.java",
+        "patchSetId": 5
+      },
+      "lineNbr": 86,
+      "author": {
+        "id": 1078
+      },
+      "writtenOn": "2012-09-17T18:09:17Z",
+      "side": 1,
+      "message": "Whitespace.",
+      "revId": "8a43328a413a4c2f0a2e9f8dfcc68d553fd1267f",
+      "serverId": "1ec6b3db-b2c1-4fa4-84a2-4c7efe89ba71",
+      "unresolved": false
+    },
+    {
+      "key": {
+        "uuid": "AAAAYX//+Yg\u003d",
+        "filename": "src/com/android/calculator2/Calculator.java",
+        "patchSetId": 5
+      },
+      "lineNbr": 298,
+      "author": {
+        "id": 1078
+      },
+      "writtenOn": "2012-09-17T18:09:17Z",
+      "side": 1,
+      "message": "Else lines should in general be on the same as the previous \"}\".",
+      "revId": "8a43328a413a4c2f0a2e9f8dfcc68d553fd1267f",
+      "serverId": "1ec6b3db-b2c1-4fa4-84a2-4c7efe89ba71",
+      "unresolved": false
+    },
+    {
+      "key": {
+        "uuid": "AAAAYX//+Yc\u003d",
+        "filename": "src/com/android/calculator2/CalculatorEditText.java",
+        "patchSetId": 5
+      },
+      "lineNbr": 210,
+      "author": {
+        "id": 1078
+      },
+      "writtenOn": "2012-09-17T18:09:17Z",
+      "side": 1,
+      "message": "Spacing between \"\u003e\".\n\nreturn paste.length() \u003e 0;",
+      "revId": "8a43328a413a4c2f0a2e9f8dfcc68d553fd1267f",
+      "serverId": "1ec6b3db-b2c1-4fa4-84a2-4c7efe89ba71",
+      "unresolved": false
+    },
+    {
+      "key": {
+        "uuid": "AAAAYX//+YY\u003d",
+        "filename": "src/com/android/calculator2/ColorButton.java",
+        "patchSetId": 5
+      },
+      "lineNbr": 32,
+      "author": {
+        "id": 1078
+      },
+      "writtenOn": "2012-09-17T18:09:17Z",
+      "side": 1,
+      "message": "Space between Button and {",
+      "revId": "8a43328a413a4c2f0a2e9f8dfcc68d553fd1267f",
+      "serverId": "1ec6b3db-b2c1-4fa4-84a2-4c7efe89ba71",
+      "unresolved": false
+    },
+    {
+      "key": {
+        "uuid": "AAAAYX//+YU\u003d",
+        "filename": "src/com/android/calculator2/EventListener.java",
+        "patchSetId": 5
+      },
+      "lineNbr": 50,
+      "author": {
+        "id": 1078
+      },
+      "writtenOn": "2012-09-17T18:09:17Z",
+      "side": 1,
+      "message": "Whitespace",
+      "revId": "8a43328a413a4c2f0a2e9f8dfcc68d553fd1267f",
+      "serverId": "1ec6b3db-b2c1-4fa4-84a2-4c7efe89ba71",
+      "unresolved": false
+    },
+    {
+      "key": {
+        "uuid": "AAAAYX//+YQ\u003d",
+        "filename": "src/com/android/calculator2/EventListener.java",
+        "patchSetId": 5
+      },
+      "lineNbr": 68,
+      "author": {
+        "id": 1078
+      },
+      "writtenOn": "2012-09-17T18:09:17Z",
+      "side": 1,
+      "message": "Mix of context/mContext?\n\nShould probably use single resources once anyway.\n\nfinal Resources res \u003d context.getResources();\nres.getString(...)",
+      "revId": "8a43328a413a4c2f0a2e9f8dfcc68d553fd1267f",
+      "serverId": "1ec6b3db-b2c1-4fa4-84a2-4c7efe89ba71",
+      "unresolved": false
+    },
+    {
+      "key": {
+        "uuid": "AAAAYX//+YM\u003d",
+        "filename": "src/com/android/calculator2/Graph.java",
+        "patchSetId": 5
+      },
+      "lineNbr": 3,
+      "author": {
+        "id": 1078
+      },
+      "writtenOn": "2012-09-17T18:09:17Z",
+      "side": 1,
+      "message": "Whitespace",
+      "revId": "8a43328a413a4c2f0a2e9f8dfcc68d553fd1267f",
+      "serverId": "1ec6b3db-b2c1-4fa4-84a2-4c7efe89ba71",
+      "unresolved": false
+    },
+    {
+      "key": {
+        "uuid": "AAAAYX//+YI\u003d",
+        "filename": "src/com/android/calculator2/Graph.java",
+        "patchSetId": 5
+      },
+      "lineNbr": 59,
+      "author": {
+        "id": 1078
+      },
+      "writtenOn": "2012-09-17T18:09:17Z",
+      "side": 1,
+      "message": "Spaces instead of tabs.",
+      "revId": "8a43328a413a4c2f0a2e9f8dfcc68d553fd1267f",
+      "serverId": "1ec6b3db-b2c1-4fa4-84a2-4c7efe89ba71",
+      "unresolved": false
+    },
+    {
+      "key": {
+        "uuid": "AAAAYX//+YE\u003d",
+        "filename": "src/com/android/calculator2/HistoryTextView.java",
+        "patchSetId": 5
+      },
+      "lineNbr": 18,
+      "author": {
+        "id": 1078
+      },
+      "writtenOn": "2012-09-17T18:09:17Z",
+      "side": 1,
+      "message": "Whitespace",
+      "revId": "8a43328a413a4c2f0a2e9f8dfcc68d553fd1267f",
+      "serverId": "1ec6b3db-b2c1-4fa4-84a2-4c7efe89ba71",
+      "unresolved": false
+    },
+    {
+      "key": {
+        "uuid": "AAAAYX//+YA\u003d",
+        "filename": "src/com/android/calculator2/Logic.java",
+        "patchSetId": 5
+      },
+      "lineNbr": 96,
+      "author": {
+        "id": 1078
+      },
+      "writtenOn": "2012-09-17T18:09:17Z",
+      "side": 1,
+      "message": "Whitespace",
+      "revId": "8a43328a413a4c2f0a2e9f8dfcc68d553fd1267f",
+      "serverId": "1ec6b3db-b2c1-4fa4-84a2-4c7efe89ba71",
+      "unresolved": false
+    },
+    {
+      "key": {
+        "uuid": "AAAAYX//+X4\u003d",
+        "filename": "src/com/android/calculator2/Logic.java",
+        "patchSetId": 5
+      },
+      "lineNbr": 154,
+      "author": {
+        "id": 1078
+      },
+      "writtenOn": "2012-09-17T18:09:17Z",
+      "side": 1,
+      "message": "Mix of context/mContext.\n\nShould use:\n\nfinal Resources res \u003d context.getResources();",
+      "revId": "8a43328a413a4c2f0a2e9f8dfcc68d553fd1267f",
+      "serverId": "1ec6b3db-b2c1-4fa4-84a2-4c7efe89ba71",
+      "unresolved": false
+    },
+    {
+      "key": {
+        "uuid": "AAAAYX//+X0\u003d",
+        "filename": "src/com/android/calculator2/Logic.java",
+        "patchSetId": 5
+      },
+      "lineNbr": 358,
+      "author": {
+        "id": 1078
+      },
+      "writtenOn": "2012-09-17T18:09:17Z",
+      "side": 1,
+      "message": "Shouldn\u0027t use ifs without {}. Much clearer with them.",
+      "revId": "8a43328a413a4c2f0a2e9f8dfcc68d553fd1267f",
+      "serverId": "1ec6b3db-b2c1-4fa4-84a2-4c7efe89ba71",
+      "unresolved": false
+    },
+    {
+      "key": {
+        "uuid": "AAAAYX//+Xw\u003d",
+        "filename": "src/com/android/calculator2/Logic.java",
+        "patchSetId": 5
+      },
+      "lineNbr": 404,
+      "author": {
+        "id": 1078
+      },
+      "writtenOn": "2012-09-17T18:09:17Z",
+      "side": 1,
+      "message": "Spacing between the for parameters.",
+      "revId": "8a43328a413a4c2f0a2e9f8dfcc68d553fd1267f",
+      "serverId": "1ec6b3db-b2c1-4fa4-84a2-4c7efe89ba71",
+      "unresolved": false
+    },
+    {
+      "key": {
+        "uuid": "AAAAYX//+Xk\u003d",
+        "filename": "src/com/android/calculator2/WolframAlpha.java",
+        "patchSetId": 5
+      },
+      "lineNbr": 22,
+      "author": {
+        "id": 1078
+      },
+      "writtenOn": "2012-09-17T18:09:17Z",
+      "side": 1,
+      "message": "This should probably be an xml config?",
+      "revId": "8a43328a413a4c2f0a2e9f8dfcc68d553fd1267f",
+      "serverId": "1ec6b3db-b2c1-4fa4-84a2-4c7efe89ba71",
+      "unresolved": false
+    },
+    {
+      "key": {
+        "uuid": "AAAAYX//+Xo\u003d",
+        "filename": "src/com/android/calculator2/WolframAlpha.java",
+        "patchSetId": 5
+      },
+      "lineNbr": 23,
+      "author": {
+        "id": 1078
+      },
+      "writtenOn": "2012-09-17T18:09:17Z",
+      "side": 1,
+      "message": "Whitespace",
+      "revId": "8a43328a413a4c2f0a2e9f8dfcc68d553fd1267f",
+      "serverId": "1ec6b3db-b2c1-4fa4-84a2-4c7efe89ba71",
+      "unresolved": false
+    }
+  ]
+}
