@@ -107,6 +107,42 @@
     },
     {
       "key": {
+        "uuid": "AAAAYn///Ys\u003d",
+        "filename": "res/values-nl/strings.xml",
+        "patchSetId": 1
+      },
+      "lineNbr": 74,
+      "author": {
+        "id": 2597
+      },
+      "writtenOn": "2012-09-30T12:38:38Z",
+      "side": 1,
+      "message": "Done",
+      "parentUuid": "AAAAYn///Y8\u003d",
+      "revId": "ace3657108a3c74ae253f61e73608df2a359e5aa",
+      "serverId": "1ec6b3db-b2c1-4fa4-84a2-4c7efe89ba71",
+      "unresolved": false
+    },
+    {
+      "key": {
+        "uuid": "AAAAYn///Yw\u003d",
+        "filename": "res/values-nl/strings.xml",
+        "patchSetId": 1
+      },
+      "lineNbr": 74,
+      "author": {
+        "id": 2597
+      },
+      "writtenOn": "2012-09-30T12:38:38Z",
+      "side": 1,
+      "message": "Done",
+      "parentUuid": "AAAAYn///aw\u003d",
+      "revId": "ace3657108a3c74ae253f61e73608df2a359e5aa",
+      "serverId": "1ec6b3db-b2c1-4fa4-84a2-4c7efe89ba71",
+      "unresolved": false
+    },
+    {
+      "key": {
         "uuid": "AAAAYn///ZU\u003d",
         "filename": "res/values-nl/strings.xml",
         "patchSetId": 1
@@ -118,6 +154,24 @@
       "writtenOn": "2012-09-30T12:30:07Z",
       "side": 1,
       "message": "dit mag ook wel zonder punt\n\n- Det",
+      "revId": "ace3657108a3c74ae253f61e73608df2a359e5aa",
+      "serverId": "1ec6b3db-b2c1-4fa4-84a2-4c7efe89ba71",
+      "unresolved": false
+    },
+    {
+      "key": {
+        "uuid": "AAAAYn///Yo\u003d",
+        "filename": "res/values-nl/strings.xml",
+        "patchSetId": 1
+      },
+      "lineNbr": 75,
+      "author": {
+        "id": 2597
+      },
+      "writtenOn": "2012-09-30T12:38:38Z",
+      "side": 1,
+      "message": "Done",
+      "parentUuid": "AAAAYn///ZU\u003d",
       "revId": "ace3657108a3c74ae253f61e73608df2a359e5aa",
       "serverId": "1ec6b3db-b2c1-4fa4-84a2-4c7efe89ba71",
       "unresolved": false
@@ -152,6 +206,24 @@
       "writtenOn": "2012-09-30T12:30:07Z",
       "side": 1,
       "message": "Als je de app opent zie je dat dit niet gaat passen",
+      "parentUuid": "AAAAYn///as\u003d",
+      "revId": "ace3657108a3c74ae253f61e73608df2a359e5aa",
+      "serverId": "1ec6b3db-b2c1-4fa4-84a2-4c7efe89ba71",
+      "unresolved": false
+    },
+    {
+      "key": {
+        "uuid": "AAAAYn///Yk\u003d",
+        "filename": "res/values-nl/strings.xml",
+        "patchSetId": 1
+      },
+      "lineNbr": 76,
+      "author": {
+        "id": 2597
+      },
+      "writtenOn": "2012-09-30T12:38:38Z",
+      "side": 1,
+      "message": "Ook in het Engels is dit een afkorting",
       "parentUuid": "AAAAYn///as\u003d",
       "revId": "ace3657108a3c74ae253f61e73608df2a359e5aa",
       "serverId": "1ec6b3db-b2c1-4fa4-84a2-4c7efe89ba71",
@@ -194,6 +266,24 @@
     },
     {
       "key": {
+        "uuid": "AAAAYn///Yg\u003d",
+        "filename": "res/values-nl/strings.xml",
+        "patchSetId": 1
+      },
+      "lineNbr": 78,
+      "author": {
+        "id": 2597
+      },
+      "writtenOn": "2012-09-30T12:38:38Z",
+      "side": 1,
+      "message": "- Inwendig (dus zoals het nu is)",
+      "parentUuid": "AAAAYn///ZQ\u003d",
+      "revId": "ace3657108a3c74ae253f61e73608df2a359e5aa",
+      "serverId": "1ec6b3db-b2c1-4fa4-84a2-4c7efe89ba71",
+      "unresolved": false
+    },
+    {
+      "key": {
         "uuid": "AAAAYn///ak\u003d",
         "filename": "res/values-nl/strings.xml",
         "patchSetId": 1
@@ -222,6 +312,24 @@
       "writtenOn": "2012-09-30T12:30:07Z",
       "side": 1,
       "message": "of \"Kruisproduct\" met als afkorting \"Kruis\"\n\nhttp://nl.wikipedia.org/wiki/Vector_(wiskunde)#Kruisproduct",
+      "parentUuid": "AAAAYn///ak\u003d",
+      "revId": "ace3657108a3c74ae253f61e73608df2a359e5aa",
+      "serverId": "1ec6b3db-b2c1-4fa4-84a2-4c7efe89ba71",
+      "unresolved": false
+    },
+    {
+      "key": {
+        "uuid": "AAAAYn///Yc\u003d",
+        "filename": "res/values-nl/strings.xml",
+        "patchSetId": 1
+      },
+      "lineNbr": 79,
+      "author": {
+        "id": 2597
+      },
+      "writtenOn": "2012-09-30T12:38:38Z",
+      "side": 1,
+      "message": "- Uitwendig (raakte in de war met http://nl.wikipedia.org/wiki/Kruislings_vermenigvuldigen)",
       "parentUuid": "AAAAYn///ak\u003d",
       "revId": "ace3657108a3c74ae253f61e73608df2a359e5aa",
       "serverId": "1ec6b3db-b2c1-4fa4-84a2-4c7efe89ba71",
@@ -264,6 +372,42 @@
     },
     {
       "key": {
+        "uuid": "AAAAYn///YY\u003d",
+        "filename": "res/values-nl/strings.xml",
+        "patchSetId": 1
+      },
+      "lineNbr": 82,
+      "author": {
+        "id": 2597
+      },
+      "writtenOn": "2012-09-30T12:38:38Z",
+      "side": 1,
+      "message": "Done",
+      "parentUuid": "AAAAYn///ag\u003d",
+      "revId": "ace3657108a3c74ae253f61e73608df2a359e5aa",
+      "serverId": "1ec6b3db-b2c1-4fa4-84a2-4c7efe89ba71",
+      "unresolved": false
+    },
+    {
+      "key": {
+        "uuid": "AAAAYn///YU\u003d",
+        "filename": "res/values-nl/strings.xml",
+        "patchSetId": 1
+      },
+      "lineNbr": 82,
+      "author": {
+        "id": 2597
+      },
+      "writtenOn": "2012-09-30T12:38:38Z",
+      "side": 1,
+      "message": "Done",
+      "parentUuid": "AAAAYn///ZE\u003d",
+      "revId": "ace3657108a3c74ae253f61e73608df2a359e5aa",
+      "serverId": "1ec6b3db-b2c1-4fa4-84a2-4c7efe89ba71",
+      "unresolved": false
+    },
+    {
+      "key": {
         "uuid": "AAAAYn///ac\u003d",
         "filename": "res/values-nl/strings.xml",
         "patchSetId": 1
@@ -292,6 +436,42 @@
       "writtenOn": "2012-09-30T12:30:07Z",
       "side": 1,
       "message": "En ook enkelvoud\n\nhttp://nl.wikipedia.org/wiki/Eigenwaarde_(wiskunde)\n\n- Eigenwaarde",
+      "parentUuid": "AAAAYn///ac\u003d",
+      "revId": "ace3657108a3c74ae253f61e73608df2a359e5aa",
+      "serverId": "1ec6b3db-b2c1-4fa4-84a2-4c7efe89ba71",
+      "unresolved": false
+    },
+    {
+      "key": {
+        "uuid": "AAAAYn///YM\u003d",
+        "filename": "res/values-nl/strings.xml",
+        "patchSetId": 1
+      },
+      "lineNbr": 87,
+      "author": {
+        "id": 2597
+      },
+      "writtenOn": "2012-09-30T12:38:38Z",
+      "side": 1,
+      "message": "Done",
+      "parentUuid": "AAAAYn///ZA\u003d",
+      "revId": "ace3657108a3c74ae253f61e73608df2a359e5aa",
+      "serverId": "1ec6b3db-b2c1-4fa4-84a2-4c7efe89ba71",
+      "unresolved": false
+    },
+    {
+      "key": {
+        "uuid": "AAAAYn///YQ\u003d",
+        "filename": "res/values-nl/strings.xml",
+        "patchSetId": 1
+      },
+      "lineNbr": 87,
+      "author": {
+        "id": 2597
+      },
+      "writtenOn": "2012-09-30T12:38:38Z",
+      "side": 1,
+      "message": "Done",
       "parentUuid": "AAAAYn///ac\u003d",
       "revId": "ace3657108a3c74ae253f61e73608df2a359e5aa",
       "serverId": "1ec6b3db-b2c1-4fa4-84a2-4c7efe89ba71",
