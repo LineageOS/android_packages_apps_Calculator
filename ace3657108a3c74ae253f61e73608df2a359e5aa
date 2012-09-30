@@ -19,6 +19,24 @@
     },
     {
       "key": {
+        "uuid": "AAAAYn///Zc\u003d",
+        "filename": "res/values-nl/strings.xml",
+        "patchSetId": 1
+      },
+      "lineNbr": 44,
+      "author": {
+        "id": 2881
+      },
+      "writtenOn": "2012-09-30T12:30:07Z",
+      "side": 1,
+      "message": "Zijn allemaal beschrijvingen van de Constanten, worden alleen niet getoond in de app.",
+      "parentUuid": "AAAAYn///aU\u003d",
+      "revId": "ace3657108a3c74ae253f61e73608df2a359e5aa",
+      "serverId": "1ec6b3db-b2c1-4fa4-84a2-4c7efe89ba71",
+      "unresolved": false
+    },
+    {
+      "key": {
         "uuid": "AAAAYn///aY\u003d",
         "filename": "res/values-nl/strings.xml",
         "patchSetId": 1
@@ -30,6 +48,24 @@
       "writtenOn": "2012-09-30T10:58:47Z",
       "side": 1,
       "message": "Dit wordt altijd gewoon \u0027e\u0027 genoemd",
+      "revId": "ace3657108a3c74ae253f61e73608df2a359e5aa",
+      "serverId": "1ec6b3db-b2c1-4fa4-84a2-4c7efe89ba71",
+      "unresolved": false
+    },
+    {
+      "key": {
+        "uuid": "AAAAYn///Zg\u003d",
+        "filename": "res/values-nl/strings.xml",
+        "patchSetId": 1
+      },
+      "lineNbr": 62,
+      "author": {
+        "id": 2881
+      },
+      "writtenOn": "2012-09-30T12:30:07Z",
+      "side": 1,
+      "message": "Dit is de beschrijving, \"e\" is bij regel 36 al ingevuld.",
+      "parentUuid": "AAAAYn///aY\u003d",
       "revId": "ace3657108a3c74ae253f61e73608df2a359e5aa",
       "serverId": "1ec6b3db-b2c1-4fa4-84a2-4c7efe89ba71",
       "unresolved": false
@@ -53,6 +89,41 @@
     },
     {
       "key": {
+        "uuid": "AAAAYn///Y8\u003d",
+        "filename": "res/values-nl/strings.xml",
+        "patchSetId": 1
+      },
+      "lineNbr": 74,
+      "author": {
+        "id": 2881
+      },
+      "writtenOn": "2012-09-30T12:30:07Z",
+      "side": 1,
+      "message": "Yup:  http://nl.wikipedia.org/wiki/Inverse",
+      "parentUuid": "AAAAYn///aw\u003d",
+      "revId": "ace3657108a3c74ae253f61e73608df2a359e5aa",
+      "serverId": "1ec6b3db-b2c1-4fa4-84a2-4c7efe89ba71",
+      "unresolved": false
+    },
+    {
+      "key": {
+        "uuid": "AAAAYn///ZU\u003d",
+        "filename": "res/values-nl/strings.xml",
+        "patchSetId": 1
+      },
+      "lineNbr": 75,
+      "author": {
+        "id": 2881
+      },
+      "writtenOn": "2012-09-30T12:30:07Z",
+      "side": 1,
+      "message": "dit mag ook wel zonder punt\n\n- Det",
+      "revId": "ace3657108a3c74ae253f61e73608df2a359e5aa",
+      "serverId": "1ec6b3db-b2c1-4fa4-84a2-4c7efe89ba71",
+      "unresolved": false
+    },
+    {
+      "key": {
         "uuid": "AAAAYn///as\u003d",
         "filename": "res/values-nl/strings.xml",
         "patchSetId": 1
@@ -64,6 +135,24 @@
       "writtenOn": "2012-09-30T10:58:47Z",
       "side": 1,
       "message": "En dit eigenwaarde",
+      "revId": "ace3657108a3c74ae253f61e73608df2a359e5aa",
+      "serverId": "1ec6b3db-b2c1-4fa4-84a2-4c7efe89ba71",
+      "unresolved": false
+    },
+    {
+      "key": {
+        "uuid": "AAAAYn///ZY\u003d",
+        "filename": "res/values-nl/strings.xml",
+        "patchSetId": 1
+      },
+      "lineNbr": 76,
+      "author": {
+        "id": 2881
+      },
+      "writtenOn": "2012-09-30T12:30:07Z",
+      "side": 1,
+      "message": "Als je de app opent zie je dat dit niet gaat passen",
+      "parentUuid": "AAAAYn///as\u003d",
       "revId": "ace3657108a3c74ae253f61e73608df2a359e5aa",
       "serverId": "1ec6b3db-b2c1-4fa4-84a2-4c7efe89ba71",
       "unresolved": false
@@ -87,6 +176,24 @@
     },
     {
       "key": {
+        "uuid": "AAAAYn///ZQ\u003d",
+        "filename": "res/values-nl/strings.xml",
+        "patchSetId": 1
+      },
+      "lineNbr": 78,
+      "author": {
+        "id": 2881
+      },
+      "writtenOn": "2012-09-30T12:30:07Z",
+      "side": 1,
+      "message": "Moet zo kort mogelijk zijn, maar \"Inproduct\" is wel de beste vertaling dan. Toch past \"Inwendig\" beter.\n\nBron: http://nl.wikipedia.org/wiki/Vector_(wiskunde)#Inwendig_product",
+      "parentUuid": "AAAAYn///ao\u003d",
+      "revId": "ace3657108a3c74ae253f61e73608df2a359e5aa",
+      "serverId": "1ec6b3db-b2c1-4fa4-84a2-4c7efe89ba71",
+      "unresolved": false
+    },
+    {
+      "key": {
         "uuid": "AAAAYn///ak\u003d",
         "filename": "res/values-nl/strings.xml",
         "patchSetId": 1
@@ -98,6 +205,24 @@
       "writtenOn": "2012-09-30T10:58:47Z",
       "side": 1,
       "message": "En dit uitproduct, of uitwendig product",
+      "revId": "ace3657108a3c74ae253f61e73608df2a359e5aa",
+      "serverId": "1ec6b3db-b2c1-4fa4-84a2-4c7efe89ba71",
+      "unresolved": false
+    },
+    {
+      "key": {
+        "uuid": "AAAAYn///ZI\u003d",
+        "filename": "res/values-nl/strings.xml",
+        "patchSetId": 1
+      },
+      "lineNbr": 79,
+      "author": {
+        "id": 2881
+      },
+      "writtenOn": "2012-09-30T12:30:07Z",
+      "side": 1,
+      "message": "of \"Kruisproduct\" met als afkorting \"Kruis\"\n\nhttp://nl.wikipedia.org/wiki/Vector_(wiskunde)#Kruisproduct",
+      "parentUuid": "AAAAYn///ak\u003d",
       "revId": "ace3657108a3c74ae253f61e73608df2a359e5aa",
       "serverId": "1ec6b3db-b2c1-4fa4-84a2-4c7efe89ba71",
       "unresolved": false
@@ -121,6 +246,24 @@
     },
     {
       "key": {
+        "uuid": "AAAAYn///ZE\u003d",
+        "filename": "res/values-nl/strings.xml",
+        "patchSetId": 1
+      },
+      "lineNbr": 82,
+      "author": {
+        "id": 2881
+      },
+      "writtenOn": "2012-09-30T12:30:07Z",
+      "side": 1,
+      "message": "Mee eens",
+      "parentUuid": "AAAAYn///ag\u003d",
+      "revId": "ace3657108a3c74ae253f61e73608df2a359e5aa",
+      "serverId": "1ec6b3db-b2c1-4fa4-84a2-4c7efe89ba71",
+      "unresolved": false
+    },
+    {
+      "key": {
         "uuid": "AAAAYn///ac\u003d",
         "filename": "res/values-nl/strings.xml",
         "patchSetId": 1
@@ -132,6 +275,24 @@
       "writtenOn": "2012-09-30T10:58:47Z",
       "side": 1,
       "message": "Eigenwaarden is één woord",
+      "revId": "ace3657108a3c74ae253f61e73608df2a359e5aa",
+      "serverId": "1ec6b3db-b2c1-4fa4-84a2-4c7efe89ba71",
+      "unresolved": false
+    },
+    {
+      "key": {
+        "uuid": "AAAAYn///ZA\u003d",
+        "filename": "res/values-nl/strings.xml",
+        "patchSetId": 1
+      },
+      "lineNbr": 87,
+      "author": {
+        "id": 2881
+      },
+      "writtenOn": "2012-09-30T12:30:07Z",
+      "side": 1,
+      "message": "En ook enkelvoud\n\nhttp://nl.wikipedia.org/wiki/Eigenwaarde_(wiskunde)\n\n- Eigenwaarde",
+      "parentUuid": "AAAAYn///ac\u003d",
       "revId": "ace3657108a3c74ae253f61e73608df2a359e5aa",
       "serverId": "1ec6b3db-b2c1-4fa4-84a2-4c7efe89ba71",
       "unresolved": false
