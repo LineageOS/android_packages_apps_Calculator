@@ -1,0 +1,140 @@
+{
+  "comments": [
+    {
+      "key": {
+        "uuid": "AAAAYn///aU\u003d",
+        "filename": "res/values-nl/strings.xml",
+        "patchSetId": 1
+      },
+      "lineNbr": 44,
+      "author": {
+        "id": 4297
+      },
+      "writtenOn": "2012-09-30T10:58:47Z",
+      "side": 1,
+      "message": "Onderstaande strings kan ik in de app nergens vinden, ook niet met toetsen lang inhouden",
+      "revId": "ace3657108a3c74ae253f61e73608df2a359e5aa",
+      "serverId": "1ec6b3db-b2c1-4fa4-84a2-4c7efe89ba71",
+      "unresolved": false
+    },
+    {
+      "key": {
+        "uuid": "AAAAYn///aY\u003d",
+        "filename": "res/values-nl/strings.xml",
+        "patchSetId": 1
+      },
+      "lineNbr": 62,
+      "author": {
+        "id": 4297
+      },
+      "writtenOn": "2012-09-30T10:58:47Z",
+      "side": 1,
+      "message": "Dit wordt altijd gewoon \u0027e\u0027 genoemd",
+      "revId": "ace3657108a3c74ae253f61e73608df2a359e5aa",
+      "serverId": "1ec6b3db-b2c1-4fa4-84a2-4c7efe89ba71",
+      "unresolved": false
+    },
+    {
+      "key": {
+        "uuid": "AAAAYn///aw\u003d",
+        "filename": "res/values-nl/strings.xml",
+        "patchSetId": 1
+      },
+      "lineNbr": 74,
+      "author": {
+        "id": 4297
+      },
+      "writtenOn": "2012-09-30T10:58:47Z",
+      "side": 1,
+      "message": "Dit heet in het Nederlands ook inverse",
+      "revId": "ace3657108a3c74ae253f61e73608df2a359e5aa",
+      "serverId": "1ec6b3db-b2c1-4fa4-84a2-4c7efe89ba71",
+      "unresolved": false
+    },
+    {
+      "key": {
+        "uuid": "AAAAYn///as\u003d",
+        "filename": "res/values-nl/strings.xml",
+        "patchSetId": 1
+      },
+      "lineNbr": 76,
+      "author": {
+        "id": 4297
+      },
+      "writtenOn": "2012-09-30T10:58:47Z",
+      "side": 1,
+      "message": "En dit eigenwaarde",
+      "revId": "ace3657108a3c74ae253f61e73608df2a359e5aa",
+      "serverId": "1ec6b3db-b2c1-4fa4-84a2-4c7efe89ba71",
+      "unresolved": false
+    },
+    {
+      "key": {
+        "uuid": "AAAAYn///ao\u003d",
+        "filename": "res/values-nl/strings.xml",
+        "patchSetId": 1
+      },
+      "lineNbr": 78,
+      "author": {
+        "id": 4297
+      },
+      "writtenOn": "2012-09-30T10:58:47Z",
+      "side": 1,
+      "message": "Hier zou ik inproduct van maken of inwendig product van maken",
+      "revId": "ace3657108a3c74ae253f61e73608df2a359e5aa",
+      "serverId": "1ec6b3db-b2c1-4fa4-84a2-4c7efe89ba71",
+      "unresolved": false
+    },
+    {
+      "key": {
+        "uuid": "AAAAYn///ak\u003d",
+        "filename": "res/values-nl/strings.xml",
+        "patchSetId": 1
+      },
+      "lineNbr": 79,
+      "author": {
+        "id": 4297
+      },
+      "writtenOn": "2012-09-30T10:58:47Z",
+      "side": 1,
+      "message": "En dit uitproduct, of uitwendig product",
+      "revId": "ace3657108a3c74ae253f61e73608df2a359e5aa",
+      "serverId": "1ec6b3db-b2c1-4fa4-84a2-4c7efe89ba71",
+      "unresolved": false
+    },
+    {
+      "key": {
+        "uuid": "AAAAYn///ag\u003d",
+        "filename": "res/values-nl/strings.xml",
+        "patchSetId": 1
+      },
+      "lineNbr": 82,
+      "author": {
+        "id": 4297
+      },
+      "writtenOn": "2012-09-30T10:58:47Z",
+      "side": 1,
+      "message": "Bovenstaande 3 kunnen gewoon zonder \u0027.\u0027",
+      "revId": "ace3657108a3c74ae253f61e73608df2a359e5aa",
+      "serverId": "1ec6b3db-b2c1-4fa4-84a2-4c7efe89ba71",
+      "unresolved": false
+    },
+    {
+      "key": {
+        "uuid": "AAAAYn///ac\u003d",
+        "filename": "res/values-nl/strings.xml",
+        "patchSetId": 1
+      },
+      "lineNbr": 87,
+      "author": {
+        "id": 4297
+      },
+      "writtenOn": "2012-09-30T10:58:47Z",
+      "side": 1,
+      "message": "Eigenwaarden is één woord",
+      "revId": "ace3657108a3c74ae253f61e73608df2a359e5aa",
+      "serverId": "1ec6b3db-b2c1-4fa4-84a2-4c7efe89ba71",
+      "unresolved": false
+    }
+  ]
+}
