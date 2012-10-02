@@ -19,6 +19,24 @@
     },
     {
       "key": {
+        "uuid": "AAAAYn///Gg\u003d",
+        "filename": "res/values-nl/strings.xml",
+        "patchSetId": 1
+      },
+      "lineNbr": 19,
+      "author": {
+        "id": 2881
+      },
+      "writtenOn": "2012-10-02T04:27:28Z",
+      "side": 1,
+      "message": "Haha, raar dat niemand daar aan heeft gedacht. Mee eens!",
+      "parentUuid": "AAAAYn///WY\u003d",
+      "revId": "ace3657108a3c74ae253f61e73608df2a359e5aa",
+      "serverId": "1ec6b3db-b2c1-4fa4-84a2-4c7efe89ba71",
+      "unresolved": false
+    },
+    {
+      "key": {
         "uuid": "AAAAYn///aU\u003d",
         "filename": "res/values-nl/strings.xml",
         "patchSetId": 1
@@ -266,6 +284,24 @@
     },
     {
       "key": {
+        "uuid": "AAAAYn///GY\u003d",
+        "filename": "res/values-nl/strings.xml",
+        "patchSetId": 1
+      },
+      "lineNbr": 76,
+      "author": {
+        "id": 2881
+      },
+      "writtenOn": "2012-10-02T04:27:28Z",
+      "side": 1,
+      "message": "Zou ik niet doen. In het Engels is het ook gewoon Eigen.",
+      "parentUuid": "AAAAYn///Wg\u003d",
+      "revId": "ace3657108a3c74ae253f61e73608df2a359e5aa",
+      "serverId": "1ec6b3db-b2c1-4fa4-84a2-4c7efe89ba71",
+      "unresolved": false
+    },
+    {
+      "key": {
         "uuid": "AAAAYn///ao\u003d",
         "filename": "res/values-nl/strings.xml",
         "patchSetId": 1
@@ -384,6 +420,24 @@
       "side": 1,
       "message": "* uitwendigprod.\n* verctorieelprod.\n* kruisprod.\n\nAllemaal het zelfde maar ik heb het laatste eigelijk nog nooit ergens zien staan behalve op wiki. 2de is het duidelijkste vind ik.",
       "parentUuid": "AAAAYn///Yc\u003d",
+      "revId": "ace3657108a3c74ae253f61e73608df2a359e5aa",
+      "serverId": "1ec6b3db-b2c1-4fa4-84a2-4c7efe89ba71",
+      "unresolved": false
+    },
+    {
+      "key": {
+        "uuid": "AAAAYn///Gc\u003d",
+        "filename": "res/values-nl/strings.xml",
+        "patchSetId": 1
+      },
+      "lineNbr": 79,
+      "author": {
+        "id": 2881
+      },
+      "writtenOn": "2012-10-02T04:27:28Z",
+      "side": 1,
+      "message": "Past alleen nooit op die knop",
+      "parentUuid": "AAAAYn///Wc\u003d",
       "revId": "ace3657108a3c74ae253f61e73608df2a359e5aa",
       "serverId": "1ec6b3db-b2c1-4fa4-84a2-4c7efe89ba71",
       "unresolved": false
