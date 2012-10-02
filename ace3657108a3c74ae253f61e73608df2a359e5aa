@@ -444,6 +444,24 @@
     },
     {
       "key": {
+        "uuid": "AAAAYn///FE\u003d",
+        "filename": "res/values-nl/strings.xml",
+        "patchSetId": 1
+      },
+      "lineNbr": 79,
+      "author": {
+        "id": 2049
+      },
+      "writtenOn": "2012-10-02T06:27:38Z",
+      "side": 1,
+      "message": "Ik bedoelde iets met deze woorden en dat ze allemaal het zelde zijn. Verctorieel of uitwendig lijken mij beter dan kruis. Kruislings is wel fout.",
+      "parentUuid": "AAAAYn///Gc\u003d",
+      "revId": "ace3657108a3c74ae253f61e73608df2a359e5aa",
+      "serverId": "1ec6b3db-b2c1-4fa4-84a2-4c7efe89ba71",
+      "unresolved": false
+    },
+    {
+      "key": {
         "uuid": "AAAAYn///ag\u003d",
         "filename": "res/values-nl/strings.xml",
         "patchSetId": 1
