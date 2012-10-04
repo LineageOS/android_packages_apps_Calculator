@@ -1,0 +1,21 @@
+{
+  "comments": [
+    {
+      "key": {
+        "uuid": "AAAAYn//+Po\u003d",
+        "filename": "res/values-hu/strings.xml",
+        "patchSetId": 3
+      },
+      "lineNbr": 97,
+      "author": {
+        "id": 1573
+      },
+      "writtenOn": "2012-10-04T12:32:29Z",
+      "side": 1,
+      "message": "Determináns :)",
+      "revId": "f8c05148354b726c6551468cf559e7266865919c",
+      "serverId": "1ec6b3db-b2c1-4fa4-84a2-4c7efe89ba71",
+      "unresolved": false
+    }
+  ]
+}
