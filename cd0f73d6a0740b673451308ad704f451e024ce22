@@ -16,6 +16,24 @@
       "revId": "cd0f73d6a0740b673451308ad704f451e024ce22",
       "serverId": "1ec6b3db-b2c1-4fa4-84a2-4c7efe89ba71",
       "unresolved": false
+    },
+    {
+      "key": {
+        "uuid": "AAAAY3///iM\u003d",
+        "filename": "res/values-nl/strings.xml",
+        "patchSetId": 2
+      },
+      "lineNbr": 58,
+      "author": {
+        "id": 2049
+      },
+      "writtenOn": "2012-10-07T23:46:42Z",
+      "side": 1,
+      "message": "In het engels is dit Dot en Cross. Ook zonder \u0027product\u0027.\nIk denk dat dit knoppen zijn en we best zelfs Inw. en Uitw. gebruiken. Punt en Kruis zijn ook niet fout... .",
+      "parentUuid": "AAAAY3///i0\u003d",
+      "revId": "cd0f73d6a0740b673451308ad704f451e024ce22",
+      "serverId": "1ec6b3db-b2c1-4fa4-84a2-4c7efe89ba71",
+      "unresolved": false
     }
   ]
 }
