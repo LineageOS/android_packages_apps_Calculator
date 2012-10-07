@@ -1,0 +1,21 @@
+{
+  "comments": [
+    {
+      "key": {
+        "uuid": "AAAAY3///i0\u003d",
+        "filename": "res/values-nl/strings.xml",
+        "patchSetId": 2
+      },
+      "lineNbr": 58,
+      "author": {
+        "id": 4297
+      },
+      "writtenOn": "2012-10-07T23:09:17Z",
+      "side": 1,
+      "message": "Dit wordt altijd \"Inwendig product\" of \"Inproduct\" genoemd. Nooit \"Inwendig\". Inproduct is maar één teken langer, dus ik blijf erbij dat ik dat een betere vertaling vind. Het zelfde geldt voor het uitproduct.",
+      "revId": "cd0f73d6a0740b673451308ad704f451e024ce22",
+      "serverId": "1ec6b3db-b2c1-4fa4-84a2-4c7efe89ba71",
+      "unresolved": false
+    }
+  ]
+}
