@@ -2,6 +2,40 @@
   "comments": [
     {
       "key": {
+        "uuid": "AAAAY3///V8\u003d",
+        "filename": "res/values-nl/strings.xml",
+        "patchSetId": 2
+      },
+      "lineNbr": 49,
+      "author": {
+        "id": 2881
+      },
+      "writtenOn": "2012-10-08T20:57:48Z",
+      "side": 1,
+      "message": "X met hoofdletter",
+      "revId": "cd0f73d6a0740b673451308ad704f451e024ce22",
+      "serverId": "1ec6b3db-b2c1-4fa4-84a2-4c7efe89ba71",
+      "unresolved": false
+    },
+    {
+      "key": {
+        "uuid": "AAAAY3///V4\u003d",
+        "filename": "res/values-nl/strings.xml",
+        "patchSetId": 2
+      },
+      "lineNbr": 50,
+      "author": {
+        "id": 2881
+      },
+      "writtenOn": "2012-10-08T20:57:48Z",
+      "side": 1,
+      "message": "Y met hoofdletter",
+      "revId": "cd0f73d6a0740b673451308ad704f451e024ce22",
+      "serverId": "1ec6b3db-b2c1-4fa4-84a2-4c7efe89ba71",
+      "unresolved": false
+    },
+    {
+      "key": {
         "uuid": "AAAAY3///i0\u003d",
         "filename": "res/values-nl/strings.xml",
         "patchSetId": 2
@@ -31,6 +65,24 @@
       "side": 1,
       "message": "In het engels is dit Dot en Cross. Ook zonder \u0027product\u0027.\nIk denk dat dit knoppen zijn en we best zelfs Inw. en Uitw. gebruiken. Punt en Kruis zijn ook niet fout... .",
       "parentUuid": "AAAAY3///i0\u003d",
+      "revId": "cd0f73d6a0740b673451308ad704f451e024ce22",
+      "serverId": "1ec6b3db-b2c1-4fa4-84a2-4c7efe89ba71",
+      "unresolved": false
+    },
+    {
+      "key": {
+        "uuid": "AAAAY3///WA\u003d",
+        "filename": "res/values-nl/strings.xml",
+        "patchSetId": 2
+      },
+      "lineNbr": 58,
+      "author": {
+        "id": 2881
+      },
+      "writtenOn": "2012-10-08T20:57:48Z",
+      "side": 1,
+      "message": "Kruis kan nog wel, voor Kruisproduct\nMaar Punt kan niet, want het is niet Puntproduct.\n\nIk ben voor Inwendig/Uitwendig, Product wordt inderdaad ook weggelaten in het Engels en het zijn maar kleine vierkante knoppen, dus er moet zo min mogelijk op staan.",
+      "parentUuid": "AAAAY3///iM\u003d",
       "revId": "cd0f73d6a0740b673451308ad704f451e024ce22",
       "serverId": "1ec6b3db-b2c1-4fa4-84a2-4c7efe89ba71",
       "unresolved": false
