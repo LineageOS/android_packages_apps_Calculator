@@ -36,6 +36,24 @@
     },
     {
       "key": {
+        "uuid": "AAAAY3///DU\u003d",
+        "filename": "res/values-nl/strings.xml",
+        "patchSetId": 2
+      },
+      "lineNbr": 49,
+      "author": {
+        "id": 2597
+      },
+      "writtenOn": "2012-10-09T23:58:02Z",
+      "side": 1,
+      "message": "Horen altijd met kleine letters te zijn, en zelfs als begin van de zin blijft dat zo. Kijk maar eens naar de artikelen over de iApparaten.",
+      "parentUuid": "AAAAY3///V8\u003d",
+      "revId": "cd0f73d6a0740b673451308ad704f451e024ce22",
+      "serverId": "1ec6b3db-b2c1-4fa4-84a2-4c7efe89ba71",
+      "unresolved": false
+    },
+    {
+      "key": {
         "uuid": "AAAAY3///V4\u003d",
         "filename": "res/values-nl/strings.xml",
         "patchSetId": 2
@@ -82,6 +100,24 @@
       "side": 1,
       "message": "- Opl.",
       "parentUuid": "AAAAY3///R0\u003d",
+      "revId": "cd0f73d6a0740b673451308ad704f451e024ce22",
+      "serverId": "1ec6b3db-b2c1-4fa4-84a2-4c7efe89ba71",
+      "unresolved": false
+    },
+    {
+      "key": {
+        "uuid": "AAAAY3///DQ\u003d",
+        "filename": "res/values-nl/strings.xml",
+        "patchSetId": 2
+      },
+      "lineNbr": 57,
+      "author": {
+        "id": 2597
+      },
+      "writtenOn": "2012-10-09T23:58:02Z",
+      "side": 1,
+      "message": "Hieronder worden ook geen punten gebruikt.\n\n- Opl",
+      "parentUuid": "AAAAY3///Q8\u003d",
       "revId": "cd0f73d6a0740b673451308ad704f451e024ce22",
       "serverId": "1ec6b3db-b2c1-4fa4-84a2-4c7efe89ba71",
       "unresolved": false
@@ -195,6 +231,24 @@
     },
     {
       "key": {
+        "uuid": "AAAAY3///DM\u003d",
+        "filename": "res/values-nl/strings.xml",
+        "patchSetId": 2
+      },
+      "lineNbr": 58,
+      "author": {
+        "id": 2597
+      },
+      "writtenOn": "2012-10-09T23:58:02Z",
+      "side": 1,
+      "message": "Een teken gebruiken is niet echt een \u0027correcte\u0027 vertaling en ik vind persoonlijk ook niet dat dat de tekst zou zijn van een knop.\nAls zo\u0027n beslissing zou moeten worden gemaakt, dan zou dit in de Engelse vertaling moeten gebeuren en niet \u0027slechts\u0027 in de Nederlandse.\n\n- Inpr",
+      "parentUuid": "AAAAY3///Q4\u003d",
+      "revId": "cd0f73d6a0740b673451308ad704f451e024ce22",
+      "serverId": "1ec6b3db-b2c1-4fa4-84a2-4c7efe89ba71",
+      "unresolved": false
+    },
+    {
+      "key": {
         "uuid": "AAAAY3///Q0\u003d",
         "filename": "res/values-nl/strings.xml",
         "patchSetId": 2
@@ -206,6 +260,24 @@
       "writtenOn": "2012-10-09T02:02:28Z",
       "side": 1,
       "message": "- Uitpr.\n- \\u00D7",
+      "revId": "cd0f73d6a0740b673451308ad704f451e024ce22",
+      "serverId": "1ec6b3db-b2c1-4fa4-84a2-4c7efe89ba71",
+      "unresolved": false
+    },
+    {
+      "key": {
+        "uuid": "AAAAY3///DI\u003d",
+        "filename": "res/values-nl/strings.xml",
+        "patchSetId": 2
+      },
+      "lineNbr": 59,
+      "author": {
+        "id": 2597
+      },
+      "writtenOn": "2012-10-09T23:58:02Z",
+      "side": 1,
+      "message": "- Uitpr",
+      "parentUuid": "AAAAY3///Q0\u003d",
       "revId": "cd0f73d6a0740b673451308ad704f451e024ce22",
       "serverId": "1ec6b3db-b2c1-4fa4-84a2-4c7efe89ba71",
       "unresolved": false
