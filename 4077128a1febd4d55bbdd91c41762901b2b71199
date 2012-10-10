@@ -1,0 +1,123 @@
+{
+  "comments": [
+    {
+      "key": {
+        "uuid": "AAAAY3//+wA\u003d",
+        "filename": "res/values-fi/strings.xml",
+        "patchSetId": 1
+      },
+      "lineNbr": 156,
+      "author": {
+        "id": 1053
+      },
+      "writtenOn": "2012-10-10T23:17:08Z",
+      "side": 1,
+      "message": "The whole array is not traslatable!",
+      "revId": "4077128a1febd4d55bbdd91c41762901b2b71199",
+      "serverId": "1ec6b3db-b2c1-4fa4-84a2-4c7efe89ba71",
+      "unresolved": false
+    },
+    {
+      "key": {
+        "uuid": "AAAAY3//+wY\u003d",
+        "filename": "res/values-fi/strings.xml",
+        "patchSetId": 1
+      },
+      "lineNbr": 218,
+      "author": {
+        "id": 1053
+      },
+      "writtenOn": "2012-10-10T23:17:08Z",
+      "side": 1,
+      "message": "You shouldn\u0027t have non-translatable strings here!\nPlease remove it!",
+      "revId": "4077128a1febd4d55bbdd91c41762901b2b71199",
+      "serverId": "1ec6b3db-b2c1-4fa4-84a2-4c7efe89ba71",
+      "unresolved": false
+    },
+    {
+      "key": {
+        "uuid": "AAAAY3//+wU\u003d",
+        "filename": "res/values-fi/strings.xml",
+        "patchSetId": 1
+      },
+      "lineNbr": 223,
+      "author": {
+        "id": 1053
+      },
+      "writtenOn": "2012-10-10T23:17:08Z",
+      "side": 1,
+      "message": "same as above",
+      "revId": "4077128a1febd4d55bbdd91c41762901b2b71199",
+      "serverId": "1ec6b3db-b2c1-4fa4-84a2-4c7efe89ba71",
+      "unresolved": false
+    },
+    {
+      "key": {
+        "uuid": "AAAAY3//+wQ\u003d",
+        "filename": "res/values-fi/strings.xml",
+        "patchSetId": 1
+      },
+      "lineNbr": 224,
+      "author": {
+        "id": 1053
+      },
+      "writtenOn": "2012-10-10T23:17:08Z",
+      "side": 1,
+      "message": "same as above",
+      "revId": "4077128a1febd4d55bbdd91c41762901b2b71199",
+      "serverId": "1ec6b3db-b2c1-4fa4-84a2-4c7efe89ba71",
+      "unresolved": false
+    },
+    {
+      "key": {
+        "uuid": "AAAAY3//+wM\u003d",
+        "filename": "res/values-fi/strings.xml",
+        "patchSetId": 1
+      },
+      "lineNbr": 226,
+      "author": {
+        "id": 1053
+      },
+      "writtenOn": "2012-10-10T23:17:08Z",
+      "side": 1,
+      "message": "same as above",
+      "revId": "4077128a1febd4d55bbdd91c41762901b2b71199",
+      "serverId": "1ec6b3db-b2c1-4fa4-84a2-4c7efe89ba71",
+      "unresolved": false
+    },
+    {
+      "key": {
+        "uuid": "AAAAY3//+wI\u003d",
+        "filename": "res/values-fi/strings.xml",
+        "patchSetId": 1
+      },
+      "lineNbr": 241,
+      "author": {
+        "id": 1053
+      },
+      "writtenOn": "2012-10-10T23:17:08Z",
+      "side": 1,
+      "message": "please remove whitespace",
+      "revId": "4077128a1febd4d55bbdd91c41762901b2b71199",
+      "serverId": "1ec6b3db-b2c1-4fa4-84a2-4c7efe89ba71",
+      "unresolved": false
+    },
+    {
+      "key": {
+        "uuid": "AAAAY3//+wE\u003d",
+        "filename": "res/values-fi/strings.xml",
+        "patchSetId": 1
+      },
+      "lineNbr": 247,
+      "author": {
+        "id": 1053
+      },
+      "writtenOn": "2012-10-10T23:17:08Z",
+      "side": 1,
+      "message": "please remove whitspace",
+      "revId": "4077128a1febd4d55bbdd91c41762901b2b71199",
+      "serverId": "1ec6b3db-b2c1-4fa4-84a2-4c7efe89ba71",
+      "unresolved": false
+    }
+  ]
+}
