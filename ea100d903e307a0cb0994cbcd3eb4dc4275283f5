@@ -1,0 +1,123 @@
+{
+  "comments": [
+    {
+      "key": {
+        "uuid": "AAAAY3//+dc\u003d",
+        "filename": "res/values-de/strings.xml",
+        "patchSetId": 4
+      },
+      "lineNbr": 31,
+      "author": {
+        "id": 1683
+      },
+      "writtenOn": "2012-10-12T10:57:54Z",
+      "side": 1,
+      "message": "DEL",
+      "revId": "ea100d903e307a0cb0994cbcd3eb4dc4275283f5",
+      "serverId": "1ec6b3db-b2c1-4fa4-84a2-4c7efe89ba71",
+      "unresolved": false
+    },
+    {
+      "key": {
+        "uuid": "AAAAY3//+dY\u003d",
+        "filename": "res/values-de/strings.xml",
+        "patchSetId": 4
+      },
+      "lineNbr": 32,
+      "author": {
+        "id": 1683
+      },
+      "writtenOn": "2012-10-12T10:57:54Z",
+      "side": 1,
+      "message": "AC",
+      "revId": "ea100d903e307a0cb0994cbcd3eb4dc4275283f5",
+      "serverId": "1ec6b3db-b2c1-4fa4-84a2-4c7efe89ba71",
+      "unresolved": false
+    },
+    {
+      "key": {
+        "uuid": "AAAAY3//+dI\u003d",
+        "filename": "res/values-de/strings.xml",
+        "patchSetId": 4
+      },
+      "lineNbr": 58,
+      "author": {
+        "id": 1683
+      },
+      "writtenOn": "2012-10-12T10:57:54Z",
+      "side": 1,
+      "message": "Punkt-Produkt",
+      "revId": "ea100d903e307a0cb0994cbcd3eb4dc4275283f5",
+      "serverId": "1ec6b3db-b2c1-4fa4-84a2-4c7efe89ba71",
+      "unresolved": false
+    },
+    {
+      "key": {
+        "uuid": "AAAAY3//+dE\u003d",
+        "filename": "res/values-de/strings.xml",
+        "patchSetId": 4
+      },
+      "lineNbr": 59,
+      "author": {
+        "id": 1683
+      },
+      "writtenOn": "2012-10-12T10:57:54Z",
+      "side": 1,
+      "message": "Kreuz-Produkt",
+      "revId": "ea100d903e307a0cb0994cbcd3eb4dc4275283f5",
+      "serverId": "1ec6b3db-b2c1-4fa4-84a2-4c7efe89ba71",
+      "unresolved": false
+    },
+    {
+      "key": {
+        "uuid": "AAAAY3//+dU\u003d",
+        "filename": "res/values-de/strings.xml",
+        "patchSetId": 4
+      },
+      "lineNbr": 63,
+      "author": {
+        "id": 1683
+      },
+      "writtenOn": "2012-10-12T10:57:54Z",
+      "side": 1,
+      "message": "Hex",
+      "revId": "ea100d903e307a0cb0994cbcd3eb4dc4275283f5",
+      "serverId": "1ec6b3db-b2c1-4fa4-84a2-4c7efe89ba71",
+      "unresolved": false
+    },
+    {
+      "key": {
+        "uuid": "AAAAY3//+dQ\u003d",
+        "filename": "res/values-de/strings.xml",
+        "patchSetId": 4
+      },
+      "lineNbr": 64,
+      "author": {
+        "id": 1683
+      },
+      "writtenOn": "2012-10-12T10:57:54Z",
+      "side": 1,
+      "message": "Bin",
+      "revId": "ea100d903e307a0cb0994cbcd3eb4dc4275283f5",
+      "serverId": "1ec6b3db-b2c1-4fa4-84a2-4c7efe89ba71",
+      "unresolved": false
+    },
+    {
+      "key": {
+        "uuid": "AAAAY3//+dM\u003d",
+        "filename": "res/values-de/strings.xml",
+        "patchSetId": 4
+      },
+      "lineNbr": 65,
+      "author": {
+        "id": 1683
+      },
+      "writtenOn": "2012-10-12T10:57:54Z",
+      "side": 1,
+      "message": "Dez",
+      "revId": "ea100d903e307a0cb0994cbcd3eb4dc4275283f5",
+      "serverId": "1ec6b3db-b2c1-4fa4-84a2-4c7efe89ba71",
+      "unresolved": false
+    }
+  ]
+}
