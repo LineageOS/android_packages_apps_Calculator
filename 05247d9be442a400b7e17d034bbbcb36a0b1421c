@@ -1,0 +1,38 @@
+{
+  "comments": [
+    {
+      "key": {
+        "uuid": "AAAAY3//9Wc\u003d",
+        "filename": "res/values-de/strings.xml",
+        "patchSetId": 5
+      },
+      "lineNbr": 58,
+      "author": {
+        "id": 1683
+      },
+      "writtenOn": "2012-10-15T11:35:45Z",
+      "side": 1,
+      "message": "Punkt-Produkt",
+      "revId": "05247d9be442a400b7e17d034bbbcb36a0b1421c",
+      "serverId": "1ec6b3db-b2c1-4fa4-84a2-4c7efe89ba71",
+      "unresolved": false
+    },
+    {
+      "key": {
+        "uuid": "AAAAY3//9WY\u003d",
+        "filename": "res/values-de/strings.xml",
+        "patchSetId": 5
+      },
+      "lineNbr": 59,
+      "author": {
+        "id": 1683
+      },
+      "writtenOn": "2012-10-15T11:35:45Z",
+      "side": 1,
+      "message": "Kreuz-Produkt",
+      "revId": "05247d9be442a400b7e17d034bbbcb36a0b1421c",
+      "serverId": "1ec6b3db-b2c1-4fa4-84a2-4c7efe89ba71",
+      "unresolved": false
+    }
+  ]
+}
