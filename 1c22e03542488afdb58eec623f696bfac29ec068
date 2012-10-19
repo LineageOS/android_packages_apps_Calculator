@@ -55,6 +55,24 @@
     },
     {
       "key": {
+        "uuid": "AAAAaH///NU\u003d",
+        "filename": "res/values-nl/strings.xml",
+        "patchSetId": 3
+      },
+      "lineNbr": 53,
+      "author": {
+        "id": 4297
+      },
+      "writtenOn": "2012-10-19T01:37:07Z",
+      "side": 1,
+      "message": "Alleen x en y zijn variabelen. Ik ben het met Kasper eens dat het het zelfde moet zijn als in het Engels, dus ik zou dit maar gewoon zo laten. A t/m F zijn 10 t/m 15 hexadecimaal. Dit wordt altijd met een hoofdletter geschreven.",
+      "parentUuid": "AAAAaH///Ng\u003d",
+      "revId": "1c22e03542488afdb58eec623f696bfac29ec068",
+      "serverId": "1ec6b3db-b2c1-4fa4-84a2-4c7efe89ba71",
+      "unresolved": false
+    },
+    {
+      "key": {
         "uuid": "AAAAY3//9N8\u003d",
         "filename": "res/values-nl/strings.xml",
         "patchSetId": 3
@@ -119,6 +137,24 @@
       "side": 1,
       "message": "Bij de tabel op http://en.wikipedia.org/wiki/Modulo_operation#Remainder_calculation_for_the_modulo_operation staat vaker \u0027mod\u0027, en bij de ander \u0027abs\u0027.\nIk hou het dan liever op \u0027mod\u0027.",
       "parentUuid": "AAAAY3//9N4\u003d",
+      "revId": "1c22e03542488afdb58eec623f696bfac29ec068",
+      "serverId": "1ec6b3db-b2c1-4fa4-84a2-4c7efe89ba71",
+      "unresolved": false
+    },
+    {
+      "key": {
+        "uuid": "AAAAaH///NQ\u003d",
+        "filename": "res/values-nl/strings.xml",
+        "patchSetId": 3
+      },
+      "lineNbr": 63,
+      "author": {
+        "id": 4297
+      },
+      "writtenOn": "2012-10-19T01:37:07Z",
+      "side": 1,
+      "message": "Er is een verschil tussen de bewerking \u0027mod\u0027 en \u0027abs\u0027. Als je een grafiek gaat tekenen is een abs een veel logischere bewerking, maar als je hexadecimaal gaat rekenen is mod een logischere bewerking. Kan in dit geval dus beide zijn. Daarom vroeg ik me af welke van die twee het is, voor de goede vertaling",
+      "parentUuid": "AAAAaH///Nc\u003d",
       "revId": "1c22e03542488afdb58eec623f696bfac29ec068",
       "serverId": "1ec6b3db-b2c1-4fa4-84a2-4c7efe89ba71",
       "unresolved": false
