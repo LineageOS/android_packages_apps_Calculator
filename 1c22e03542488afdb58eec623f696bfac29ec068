@@ -212,6 +212,24 @@
       "revId": "1c22e03542488afdb58eec623f696bfac29ec068",
       "serverId": "1ec6b3db-b2c1-4fa4-84a2-4c7efe89ba71",
       "unresolved": false
+    },
+    {
+      "key": {
+        "uuid": "AAAAaH///Ko\u003d",
+        "filename": "res/values-nl/strings.xml",
+        "patchSetId": 3
+      },
+      "lineNbr": 63,
+      "author": {
+        "id": 4297
+      },
+      "writtenOn": "2012-10-19T17:06:03Z",
+      "side": 1,
+      "message": "Ik heb de code door zitten kijken en volgens mij is dit een modulo (mod). Hier staat de source van deze app: \nhttps://github.com/CyanogenMod/android_packages_apps_Calculator/tree/jellybean/src/com/android/calculator2\n\nAlle vertalingen worden terug vertaald naar het Engels, waarna ermee gerekend wordt. En in het Engels is dit volgens mij ook een modulo. Ik zou de vertaling dus zo laten.\n\nDe makkelijkste manier om dit zeker te weten is te wachten totdat dit gemerged is:\nhttp://review.cyanogenmod.com/#/c/24440/",
+      "parentUuid": "AAAAaH///LE\u003d",
+      "revId": "1c22e03542488afdb58eec623f696bfac29ec068",
+      "serverId": "1ec6b3db-b2c1-4fa4-84a2-4c7efe89ba71",
+      "unresolved": false
     }
   ]
 }
