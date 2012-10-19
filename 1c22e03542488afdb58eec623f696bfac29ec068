@@ -37,6 +37,24 @@
     },
     {
       "key": {
+        "uuid": "AAAAaH///Ng\u003d",
+        "filename": "res/values-nl/strings.xml",
+        "patchSetId": 3
+      },
+      "lineNbr": 53,
+      "author": {
+        "id": 2597
+      },
+      "writtenOn": "2012-10-19T01:25:00Z",
+      "side": 1,
+      "message": "Als dit allemaal letters zijn die gebruikt worden als variabelen, dan moeten ze allemaal met kleine letters geschreven worden.",
+      "parentUuid": "AAAAY3//9L0\u003d",
+      "revId": "1c22e03542488afdb58eec623f696bfac29ec068",
+      "serverId": "1ec6b3db-b2c1-4fa4-84a2-4c7efe89ba71",
+      "unresolved": false
+    },
+    {
+      "key": {
         "uuid": "AAAAY3//9N8\u003d",
         "filename": "res/values-nl/strings.xml",
         "patchSetId": 3
@@ -82,6 +100,24 @@
       "writtenOn": "2012-10-15T23:21:10Z",
       "side": 1,
       "message": "Ik kan de functie niet vinden, dus dat maakt opzoeken lastig...",
+      "parentUuid": "AAAAY3//9N4\u003d",
+      "revId": "1c22e03542488afdb58eec623f696bfac29ec068",
+      "serverId": "1ec6b3db-b2c1-4fa4-84a2-4c7efe89ba71",
+      "unresolved": false
+    },
+    {
+      "key": {
+        "uuid": "AAAAaH///Nc\u003d",
+        "filename": "res/values-nl/strings.xml",
+        "patchSetId": 3
+      },
+      "lineNbr": 63,
+      "author": {
+        "id": 2597
+      },
+      "writtenOn": "2012-10-19T01:25:00Z",
+      "side": 1,
+      "message": "Bij de tabel op http://en.wikipedia.org/wiki/Modulo_operation#Remainder_calculation_for_the_modulo_operation staat vaker \u0027mod\u0027, en bij de ander \u0027abs\u0027.\nIk hou het dan liever op \u0027mod\u0027.",
       "parentUuid": "AAAAY3//9N4\u003d",
       "revId": "1c22e03542488afdb58eec623f696bfac29ec068",
       "serverId": "1ec6b3db-b2c1-4fa4-84a2-4c7efe89ba71",
