@@ -73,6 +73,24 @@
     },
     {
       "key": {
+        "uuid": "AAAAaH///70\u003d",
+        "filename": "res/values-nl/strings.xml",
+        "patchSetId": 3
+      },
+      "lineNbr": 53,
+      "author": {
+        "id": 2881
+      },
+      "writtenOn": "2012-10-19T14:50:41Z",
+      "side": 1,
+      "message": "Klopt, ziet er prima uit in de app met hoofdletters.",
+      "parentUuid": "AAAAY3//9L0\u003d",
+      "revId": "1c22e03542488afdb58eec623f696bfac29ec068",
+      "serverId": "1ec6b3db-b2c1-4fa4-84a2-4c7efe89ba71",
+      "unresolved": false
+    },
+    {
+      "key": {
         "uuid": "AAAAY3//9N8\u003d",
         "filename": "res/values-nl/strings.xml",
         "patchSetId": 3
@@ -155,6 +173,42 @@
       "side": 1,
       "message": "Er is een verschil tussen de bewerking \u0027mod\u0027 en \u0027abs\u0027. Als je een grafiek gaat tekenen is een abs een veel logischere bewerking, maar als je hexadecimaal gaat rekenen is mod een logischere bewerking. Kan in dit geval dus beide zijn. Daarom vroeg ik me af welke van die twee het is, voor de goede vertaling",
       "parentUuid": "AAAAaH///Nc\u003d",
+      "revId": "1c22e03542488afdb58eec623f696bfac29ec068",
+      "serverId": "1ec6b3db-b2c1-4fa4-84a2-4c7efe89ba71",
+      "unresolved": false
+    },
+    {
+      "key": {
+        "uuid": "AAAAaH///LE\u003d",
+        "filename": "res/values-nl/strings.xml",
+        "patchSetId": 3
+      },
+      "lineNbr": 63,
+      "author": {
+        "id": 2881
+      },
+      "writtenOn": "2012-10-19T14:50:41Z",
+      "side": 1,
+      "message": "Hier een link waar je de code kan zien, waaruit mss te halen valt wat de echte berekening is die gedaan wordt.....\nhttps://github.com/CyanogenMod/android_packages_apps_Calculator/pull/1/files",
+      "parentUuid": "AAAAaH///NQ\u003d",
+      "revId": "1c22e03542488afdb58eec623f696bfac29ec068",
+      "serverId": "1ec6b3db-b2c1-4fa4-84a2-4c7efe89ba71",
+      "unresolved": false
+    },
+    {
+      "key": {
+        "uuid": "AAAAaH///7c\u003d",
+        "filename": "res/values-nl/strings.xml",
+        "patchSetId": 3
+      },
+      "lineNbr": 63,
+      "author": {
+        "id": 2881
+      },
+      "writtenOn": "2012-10-19T14:50:41Z",
+      "side": 1,
+      "message": "Is hier wat uit te halen? Misschien is de berekening te vinden in code\n\nhttps://github.com/CyanogenMod/android_packages_apps_Calculator/pull/1/files",
+      "parentUuid": "AAAAY3//9Lk\u003d",
       "revId": "1c22e03542488afdb58eec623f696bfac29ec068",
       "serverId": "1ec6b3db-b2c1-4fa4-84a2-4c7efe89ba71",
       "unresolved": false
