@@ -1,0 +1,21 @@
+{
+  "comments": [
+    {
+      "key": {
+        "uuid": "AAAAaH//+Sc\u003d",
+        "filename": "src/com/android/calculator2/ColorButton.java",
+        "patchSetId": 12
+      },
+      "lineNbr": 26,
+      "author": {
+        "id": 1579
+      },
+      "writtenOn": "2012-10-23T23:30:35Z",
+      "side": 1,
+      "message": "please remove below blank line",
+      "revId": "5bc9c1a9096acde977dcff87352528af3b54b2a7",
+      "serverId": "1ec6b3db-b2c1-4fa4-84a2-4c7efe89ba71",
+      "unresolved": false
+    }
+  ]
+}
