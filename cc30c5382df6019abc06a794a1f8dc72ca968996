@@ -1,0 +1,21 @@
+{
+  "comments": [
+    {
+      "key": {
+        "uuid": "AAAAaH//+KU\u003d",
+        "filename": "src/com/android/calculator2/Logic.java",
+        "patchSetId": 13
+      },
+      "lineNbr": 652,
+      "author": {
+        "id": 1579
+      },
+      "writtenOn": "2012-10-24T16:33:27Z",
+      "side": 1,
+      "message": "hope that will be last one :-P",
+      "revId": "cc30c5382df6019abc06a794a1f8dc72ca968996",
+      "serverId": "1ec6b3db-b2c1-4fa4-84a2-4c7efe89ba71",
+      "unresolved": false
+    }
+  ]
+}
