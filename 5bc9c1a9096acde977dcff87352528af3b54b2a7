@@ -2,6 +2,74 @@
   "comments": [
     {
       "key": {
+        "uuid": "AAAAaH//+Q0\u003d",
+        "filename": "src/com/android/calculator2/CalculatorDisplay.java",
+        "patchSetId": 12
+      },
+      "lineNbr": 85,
+      "author": {
+        "id": 4449
+      },
+      "writtenOn": "2012-10-24T02:45:36Z",
+      "side": 1,
+      "message": "tabs",
+      "revId": "5bc9c1a9096acde977dcff87352528af3b54b2a7",
+      "serverId": "1ec6b3db-b2c1-4fa4-84a2-4c7efe89ba71",
+      "unresolved": false
+    },
+    {
+      "key": {
+        "uuid": "AAAAaH//+Qw\u003d",
+        "filename": "src/com/android/calculator2/CalculatorDisplay.java",
+        "patchSetId": 12
+      },
+      "lineNbr": 188,
+      "author": {
+        "id": 4449
+      },
+      "writtenOn": "2012-10-24T02:45:36Z",
+      "side": 1,
+      "message": "tabs",
+      "revId": "5bc9c1a9096acde977dcff87352528af3b54b2a7",
+      "serverId": "1ec6b3db-b2c1-4fa4-84a2-4c7efe89ba71",
+      "unresolved": false
+    },
+    {
+      "key": {
+        "uuid": "AAAAaH//+Qs\u003d",
+        "filename": "src/com/android/calculator2/CalculatorDisplay.java",
+        "patchSetId": 12
+      },
+      "lineNbr": 233,
+      "author": {
+        "id": 4449
+      },
+      "writtenOn": "2012-10-24T02:45:36Z",
+      "side": 1,
+      "message": "whitespace",
+      "revId": "5bc9c1a9096acde977dcff87352528af3b54b2a7",
+      "serverId": "1ec6b3db-b2c1-4fa4-84a2-4c7efe89ba71",
+      "unresolved": false
+    },
+    {
+      "key": {
+        "uuid": "AAAAaH//+Qo\u003d",
+        "filename": "src/com/android/calculator2/CalculatorDisplay.java",
+        "patchSetId": 12
+      },
+      "lineNbr": 266,
+      "author": {
+        "id": 4449
+      },
+      "writtenOn": "2012-10-24T02:45:36Z",
+      "side": 1,
+      "message": "whitespace",
+      "revId": "5bc9c1a9096acde977dcff87352528af3b54b2a7",
+      "serverId": "1ec6b3db-b2c1-4fa4-84a2-4c7efe89ba71",
+      "unresolved": false
+    },
+    {
+      "key": {
         "uuid": "AAAAaH//+Sc\u003d",
         "filename": "src/com/android/calculator2/ColorButton.java",
         "patchSetId": 12
@@ -13,6 +81,57 @@
       "writtenOn": "2012-10-23T23:30:35Z",
       "side": 1,
       "message": "please remove below blank line",
+      "revId": "5bc9c1a9096acde977dcff87352528af3b54b2a7",
+      "serverId": "1ec6b3db-b2c1-4fa4-84a2-4c7efe89ba71",
+      "unresolved": false
+    },
+    {
+      "key": {
+        "uuid": "AAAAaH//+Q8\u003d",
+        "filename": "src/com/android/calculator2/Logic.java",
+        "patchSetId": 12
+      },
+      "lineNbr": 131,
+      "author": {
+        "id": 4449
+      },
+      "writtenOn": "2012-10-24T02:45:36Z",
+      "side": 1,
+      "message": "whitespace",
+      "revId": "5bc9c1a9096acde977dcff87352528af3b54b2a7",
+      "serverId": "1ec6b3db-b2c1-4fa4-84a2-4c7efe89ba71",
+      "unresolved": false
+    },
+    {
+      "key": {
+        "uuid": "AAAAaH//+Q4\u003d",
+        "filename": "src/com/android/calculator2/Logic.java",
+        "patchSetId": 12
+      },
+      "lineNbr": 652,
+      "author": {
+        "id": 4449
+      },
+      "writtenOn": "2012-10-24T02:45:36Z",
+      "side": 1,
+      "message": "tab",
+      "revId": "5bc9c1a9096acde977dcff87352528af3b54b2a7",
+      "serverId": "1ec6b3db-b2c1-4fa4-84a2-4c7efe89ba71",
+      "unresolved": false
+    },
+    {
+      "key": {
+        "uuid": "AAAAaH//+RA\u003d",
+        "filename": "src/com/android/calculator2/LogicalDensity.java",
+        "patchSetId": 12
+      },
+      "lineNbr": 21,
+      "author": {
+        "id": 4449
+      },
+      "writtenOn": "2012-10-24T02:45:36Z",
+      "side": 1,
+      "message": "whitespace",
       "revId": "5bc9c1a9096acde977dcff87352528af3b54b2a7",
       "serverId": "1ec6b3db-b2c1-4fa4-84a2-4c7efe89ba71",
       "unresolved": false
