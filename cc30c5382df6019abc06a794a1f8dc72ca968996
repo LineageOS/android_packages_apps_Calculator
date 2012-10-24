@@ -2,6 +2,91 @@
   "comments": [
     {
       "key": {
+        "uuid": "AAAAaH//+HY\u003d",
+        "filename": "src/com/android/calculator2/CalculatorDisplay.java",
+        "patchSetId": 13
+      },
+      "lineNbr": 122,
+      "author": {
+        "id": 1063
+      },
+      "writtenOn": "2012-10-24T20:34:40Z",
+      "side": 1,
+      "message": "This looks code looks like it should be refactored:\n\n- put the various strings into an array\n- loop over the array and do the handling",
+      "revId": "cc30c5382df6019abc06a794a1f8dc72ca968996",
+      "serverId": "1ec6b3db-b2c1-4fa4-84a2-4c7efe89ba71",
+      "unresolved": false
+    },
+    {
+      "key": {
+        "uuid": "AAAAaH//+HU\u003d",
+        "filename": "src/com/android/calculator2/EventListener.java",
+        "patchSetId": 13
+      },
+      "lineNbr": 141,
+      "author": {
+        "id": 1063
+      },
+      "writtenOn": "2012-10-24T20:34:40Z",
+      "side": 1,
+      "message": "Wouldn\u0027t that be implemented more elegantly using an WolframAlphaTask extends AsyncTask\u003cString, Void, WolframAlphaTask.Result\u003e\n\nwhere Result is a struct containing results and error?",
+      "revId": "cc30c5382df6019abc06a794a1f8dc72ca968996",
+      "serverId": "1ec6b3db-b2c1-4fa4-84a2-4c7efe89ba71",
+      "unresolved": false
+    },
+    {
+      "key": {
+        "uuid": "AAAAaH//+HQ\u003d",
+        "filename": "src/com/android/calculator2/EventListener.java",
+        "patchSetId": 13
+      },
+      "lineNbr": 209,
+      "author": {
+        "id": 1063
+      },
+      "writtenOn": "2012-10-24T20:34:40Z",
+      "side": 1,
+      "message": "Can you put that preferences code into some helper class, to\n\na) shorten the line lengths and\n\nb) not duplicate default conditions\n\n?\n\nExample: https://github.com/CyanogenMod/android_packages_apps_Phone/blob/jellybean/src/com/android/phone/PhoneUtils.java#L411",
+      "revId": "cc30c5382df6019abc06a794a1f8dc72ca968996",
+      "serverId": "1ec6b3db-b2c1-4fa4-84a2-4c7efe89ba71",
+      "unresolved": false
+    },
+    {
+      "key": {
+        "uuid": "AAAAaH//+HM\u003d",
+        "filename": "src/com/android/calculator2/Logic.java",
+        "patchSetId": 13
+      },
+      "lineNbr": 121,
+      "author": {
+        "id": 1063
+      },
+      "writtenOn": "2012-10-24T20:34:40Z",
+      "side": 1,
+      "message": "I may be picky, but this code block cries for putting the activity.getResources() result into a variable.",
+      "revId": "cc30c5382df6019abc06a794a1f8dc72ca968996",
+      "serverId": "1ec6b3db-b2c1-4fa4-84a2-4c7efe89ba71",
+      "unresolved": false
+    },
+    {
+      "key": {
+        "uuid": "AAAAaH//+HI\u003d",
+        "filename": "src/com/android/calculator2/Logic.java",
+        "patchSetId": 13
+      },
+      "lineNbr": 498,
+      "author": {
+        "id": 1063
+      },
+      "writtenOn": "2012-10-24T20:34:40Z",
+      "side": 1,
+      "message": "Can you put the duplicated parts of that code into a helper function?",
+      "revId": "cc30c5382df6019abc06a794a1f8dc72ca968996",
+      "serverId": "1ec6b3db-b2c1-4fa4-84a2-4c7efe89ba71",
+      "unresolved": false
+    },
+    {
+      "key": {
         "uuid": "AAAAaH//+KU\u003d",
         "filename": "src/com/android/calculator2/Logic.java",
         "patchSetId": 13
@@ -13,6 +98,23 @@
       "writtenOn": "2012-10-24T16:33:27Z",
       "side": 1,
       "message": "hope that will be last one :-P",
+      "revId": "cc30c5382df6019abc06a794a1f8dc72ca968996",
+      "serverId": "1ec6b3db-b2c1-4fa4-84a2-4c7efe89ba71",
+      "unresolved": false
+    },
+    {
+      "key": {
+        "uuid": "AAAAaH//+HE\u003d",
+        "filename": "src/com/android/calculator2/Logic.java",
+        "patchSetId": 13
+      },
+      "lineNbr": 790,
+      "author": {
+        "id": 1063
+      },
+      "writtenOn": "2012-10-24T20:34:40Z",
+      "side": 1,
+      "message": "Unneeded?",
       "revId": "cc30c5382df6019abc06a794a1f8dc72ca968996",
       "serverId": "1ec6b3db-b2c1-4fa4-84a2-4c7efe89ba71",
       "unresolved": false
