@@ -34,6 +34,24 @@
       "revId": "d33fa2f090c1f8b47f3f2112df86dbf07354ea51",
       "serverId": "1ec6b3db-b2c1-4fa4-84a2-4c7efe89ba71",
       "unresolved": false
+    },
+    {
+      "key": {
+        "uuid": "AAAAa3//+a8\u003d",
+        "filename": "res/values-de/strings.xml",
+        "patchSetId": 2
+      },
+      "lineNbr": 46,
+      "author": {
+        "id": 1053
+      },
+      "writtenOn": "2012-11-07T23:59:17Z",
+      "side": 1,
+      "message": "Wenn es vom Platz her reicht evtl. \"Nach Eingabe zum Standardbildschirm zurückkehren.\"",
+      "parentUuid": "AAAAa3//+bM\u003d",
+      "revId": "d33fa2f090c1f8b47f3f2112df86dbf07354ea51",
+      "serverId": "1ec6b3db-b2c1-4fa4-84a2-4c7efe89ba71",
+      "unresolved": false
     }
   ]
 }
