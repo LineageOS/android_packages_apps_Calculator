@@ -1,0 +1,123 @@
+{
+  "comments": [
+    {
+      "key": {
+        "uuid": "AAAAbX///4I\u003d",
+        "filename": "res/values-es/strings.xml",
+        "patchSetId": 1
+      },
+      "lineNbr": 41,
+      "author": {
+        "id": 3134
+      },
+      "writtenOn": "2012-12-25T00:58:37Z",
+      "side": 1,
+      "message": "I am not sure of this. I think it is inconsistent in operations.\n\nhttps://www.dropbox.com/sh/uyd1szjfmj7rsbp/dwtgj5a5ic",
+      "revId": "a5aa1a9d90f9d87be223979a5907cb0fc48733dc",
+      "serverId": "1ec6b3db-b2c1-4fa4-84a2-4c7efe89ba71",
+      "unresolved": false
+    },
+    {
+      "key": {
+        "uuid": "AAAAbX///4E\u003d",
+        "filename": "res/values-es/strings.xml",
+        "patchSetId": 1
+      },
+      "lineNbr": 66,
+      "author": {
+        "id": 3134
+      },
+      "writtenOn": "2012-12-25T00:58:37Z",
+      "side": 1,
+      "message": "Det has no sense for me. Could you test with some a bit large? \n\nI test with \"Determ\" and it fits on screen.",
+      "revId": "a5aa1a9d90f9d87be223979a5907cb0fc48733dc",
+      "serverId": "1ec6b3db-b2c1-4fa4-84a2-4c7efe89ba71",
+      "unresolved": false
+    },
+    {
+      "key": {
+        "uuid": "AAAAbX///4A\u003d",
+        "filename": "res/values-es/strings.xml",
+        "patchSetId": 1
+      },
+      "lineNbr": 67,
+      "author": {
+        "id": 3134
+      },
+      "writtenOn": "2012-12-25T00:58:37Z",
+      "side": 1,
+      "message": "Autovalores or valores propios (http://www.linguee.es/ingles-espanol/traduccion/eigenvalue.html)\n\nI test with \"Autoval\" and it fits on screen.",
+      "revId": "a5aa1a9d90f9d87be223979a5907cb0fc48733dc",
+      "serverId": "1ec6b3db-b2c1-4fa4-84a2-4c7efe89ba71",
+      "unresolved": false
+    },
+    {
+      "key": {
+        "uuid": "AAAAbX///38\u003d",
+        "filename": "res/values-es/strings.xml",
+        "patchSetId": 1
+      },
+      "lineNbr": 68,
+      "author": {
+        "id": 3134
+      },
+      "writtenOn": "2012-12-25T00:58:37Z",
+      "side": 1,
+      "message": "Could you change it to \"Resolv\" to fit one line?",
+      "revId": "a5aa1a9d90f9d87be223979a5907cb0fc48733dc",
+      "serverId": "1ec6b3db-b2c1-4fa4-84a2-4c7efe89ba71",
+      "unresolved": false
+    },
+    {
+      "key": {
+        "uuid": "AAAAbX///3s\u003d",
+        "filename": "res/values-es/strings.xml",
+        "patchSetId": 1
+      },
+      "lineNbr": 69,
+      "author": {
+        "id": 3134
+      },
+      "writtenOn": "2012-12-25T00:58:37Z",
+      "side": 1,
+      "message": "Producto escalar.\n\nI test with \"\\nProd. Escalar\\n\" and it fits on screen.",
+      "revId": "a5aa1a9d90f9d87be223979a5907cb0fc48733dc",
+      "serverId": "1ec6b3db-b2c1-4fa4-84a2-4c7efe89ba71",
+      "unresolved": false
+    },
+    {
+      "key": {
+        "uuid": "AAAAbX///3o\u003d",
+        "filename": "res/values-es/strings.xml",
+        "patchSetId": 1
+      },
+      "lineNbr": 70,
+      "author": {
+        "id": 3134
+      },
+      "writtenOn": "2012-12-25T00:58:37Z",
+      "side": 1,
+      "message": "Producto vectorial.\n\nI test with \"\\nProd. Vectorial\\n\" and it fits on screen.",
+      "revId": "a5aa1a9d90f9d87be223979a5907cb0fc48733dc",
+      "serverId": "1ec6b3db-b2c1-4fa4-84a2-4c7efe89ba71",
+      "unresolved": false
+    },
+    {
+      "key": {
+        "uuid": "AAAAbX///3w\u003d",
+        "filename": "res/values-es/strings.xml",
+        "patchSetId": 1
+      },
+      "lineNbr": 78,
+      "author": {
+        "id": 3134
+      },
+      "writtenOn": "2012-12-25T00:58:37Z",
+      "side": 1,
+      "message": "Autovalores",
+      "revId": "a5aa1a9d90f9d87be223979a5907cb0fc48733dc",
+      "serverId": "1ec6b3db-b2c1-4fa4-84a2-4c7efe89ba71",
+      "unresolved": false
+    }
+  ]
+}
