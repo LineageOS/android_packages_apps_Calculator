@@ -1,0 +1,21 @@
+{
+  "comments": [
+    {
+      "key": {
+        "uuid": "AAAAb3///9M\u003d",
+        "filename": "res/values-el/strings.xml",
+        "patchSetId": 1
+      },
+      "lineNbr": 41,
+      "author": {
+        "id": 1053
+      },
+      "writtenOn": "2013-01-02T14:05:44Z",
+      "side": 1,
+      "message": "Although this isn\u0027t set to \u0027translatable \u003d false\u0027 in res/values/strings.xml this string shouldn\u0027t be translated",
+      "revId": "3caeddc11d8ed5b3c3b7468415dcf1ef5045f544",
+      "serverId": "1ec6b3db-b2c1-4fa4-84a2-4c7efe89ba71",
+      "unresolved": false
+    }
+  ]
+}
