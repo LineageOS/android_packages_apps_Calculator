@@ -1,0 +1,21 @@
+{
+  "comments": [
+    {
+      "key": {
+        "uuid": "AAAAb3///6M\u003d",
+        "filename": "res/values-nl/strings.xml",
+        "patchSetId": 2
+      },
+      "lineNbr": 84,
+      "author": {
+        "id": 2881
+      },
+      "writtenOn": "2013-01-02T22:32:25Z",
+      "side": 1,
+      "message": "\"Return to the basic panel\"\n\n- Naar Basispaneel terugkeren",
+      "revId": "666feb47a50638425607b6d882c56c31de6cc318",
+      "serverId": "1ec6b3db-b2c1-4fa4-84a2-4c7efe89ba71",
+      "unresolved": false
+    }
+  ]
+}
