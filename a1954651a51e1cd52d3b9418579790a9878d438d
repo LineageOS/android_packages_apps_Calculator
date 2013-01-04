@@ -1,0 +1,21 @@
+{
+  "comments": [
+    {
+      "key": {
+        "uuid": "AAAAcH///PY\u003d",
+        "filename": "res/values-nl/strings.xml",
+        "patchSetId": 3
+      },
+      "lineNbr": 81,
+      "author": {
+        "id": 1053
+      },
+      "writtenOn": "2013-01-04T14:24:28Z",
+      "side": 1,
+      "message": "Altough it\u0027s not marked as translatable \u003d false in res/values/strings.xml it says \u003c!-- Do not translate. Decimal point; don\u0027t translate. Displayed as button on screen. --\u003e",
+      "revId": "a1954651a51e1cd52d3b9418579790a9878d438d",
+      "serverId": "1ec6b3db-b2c1-4fa4-84a2-4c7efe89ba71",
+      "unresolved": false
+    }
+  ]
+}
