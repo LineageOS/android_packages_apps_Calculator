@@ -16,6 +16,24 @@
       "revId": "7c59447b259e7bdc077d3a5b9ab5a12df4968b9e",
       "serverId": "1ec6b3db-b2c1-4fa4-84a2-4c7efe89ba71",
       "unresolved": false
+    },
+    {
+      "key": {
+        "uuid": "AAAAcH//++c\u003d",
+        "filename": "res/values/strings.xml",
+        "patchSetId": 5
+      },
+      "lineNbr": 70,
+      "author": {
+        "id": 2881
+      },
+      "writtenOn": "2013-01-05T00:06:00Z",
+      "side": 1,
+      "message": "If we change it to a comma in Dutch, it should be Translatable \u003d true, right?",
+      "parentUuid": "AAAAcH///HY\u003d",
+      "revId": "7c59447b259e7bdc077d3a5b9ab5a12df4968b9e",
+      "serverId": "1ec6b3db-b2c1-4fa4-84a2-4c7efe89ba71",
+      "unresolved": false
     }
   ]
 }
