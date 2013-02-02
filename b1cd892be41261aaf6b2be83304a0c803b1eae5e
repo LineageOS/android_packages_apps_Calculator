@@ -1,0 +1,38 @@
+{
+  "comments": [
+    {
+      "key": {
+        "uuid": "AAAAc3//724\u003d",
+        "filename": "res/values-af/strings.xml",
+        "patchSetId": 3
+      },
+      "lineNbr": 73,
+      "author": {
+        "id": 2597
+      },
+      "writtenOn": "2013-02-02T02:19:31Z",
+      "side": 1,
+      "message": "Trailing space (there\u0027s an extra space here, it should be removed)",
+      "revId": "b1cd892be41261aaf6b2be83304a0c803b1eae5e",
+      "serverId": "1ec6b3db-b2c1-4fa4-84a2-4c7efe89ba71",
+      "unresolved": false
+    },
+    {
+      "key": {
+        "uuid": "AAAAc3//72s\u003d",
+        "filename": "res/values-af/strings.xml",
+        "patchSetId": 3
+      },
+      "lineNbr": 75,
+      "author": {
+        "id": 2597
+      },
+      "writtenOn": "2013-02-02T02:19:31Z",
+      "side": 1,
+      "message": "geskiedenis (zonder hoofdletter? See also beneath)",
+      "revId": "b1cd892be41261aaf6b2be83304a0c803b1eae5e",
+      "serverId": "1ec6b3db-b2c1-4fa4-84a2-4c7efe89ba71",
+      "unresolved": false
+    }
+  ]
+}
