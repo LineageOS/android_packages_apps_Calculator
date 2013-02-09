@@ -19,6 +19,24 @@
     },
     {
       "key": {
+        "uuid": "AAAAdH//+p0\u003d",
+        "filename": "res/values-nl/strings.xml",
+        "patchSetId": 3
+      },
+      "lineNbr": 35,
+      "author": {
+        "id": 4388
+      },
+      "writtenOn": "2013-02-09T05:29:20Z",
+      "side": 1,
+      "message": "Done",
+      "parentUuid": "AAAAdH//+tQ\u003d",
+      "revId": "9650e1107b308ace9e44cdc20d7417d0163d637b",
+      "serverId": "1ec6b3db-b2c1-4fa4-84a2-4c7efe89ba71",
+      "unresolved": false
+    },
+    {
+      "key": {
         "uuid": "AAAAdH//+tM\u003d",
         "filename": "res/values-nl/strings.xml",
         "patchSetId": 3
@@ -30,6 +48,24 @@
       "writtenOn": "2013-02-09T04:26:16Z",
       "side": 1,
       "message": "y (no capital)",
+      "revId": "9650e1107b308ace9e44cdc20d7417d0163d637b",
+      "serverId": "1ec6b3db-b2c1-4fa4-84a2-4c7efe89ba71",
+      "unresolved": false
+    },
+    {
+      "key": {
+        "uuid": "AAAAdH//+p4\u003d",
+        "filename": "res/values-nl/strings.xml",
+        "patchSetId": 3
+      },
+      "lineNbr": 36,
+      "author": {
+        "id": 4388
+      },
+      "writtenOn": "2013-02-09T05:29:20Z",
+      "side": 1,
+      "message": "Done",
+      "parentUuid": "AAAAdH//+tM\u003d",
       "revId": "9650e1107b308ace9e44cdc20d7417d0163d637b",
       "serverId": "1ec6b3db-b2c1-4fa4-84a2-4c7efe89ba71",
       "unresolved": false
@@ -53,6 +89,24 @@
     },
     {
       "key": {
+        "uuid": "AAAAdH//+qw\u003d",
+        "filename": "res/values/strings.xml",
+        "patchSetId": 3
+      },
+      "lineNbr": 73,
+      "author": {
+        "id": 4388
+      },
+      "writtenOn": "2013-02-09T05:29:20Z",
+      "side": 1,
+      "message": "The code is hard-coded to use the US standard (digits 0-9, . as a decimal separator). The reason the code didn\u0027t break before was because I did a find / replace to turn comas into periods. I don\u0027t like littering the code with that, though, especially since matrices use comas when they\u0027re represented as text.",
+      "parentUuid": "AAAAdH//+tU\u003d",
+      "revId": "9650e1107b308ace9e44cdc20d7417d0163d637b",
+      "serverId": "1ec6b3db-b2c1-4fa4-84a2-4c7efe89ba71",
+      "unresolved": false
+    },
+    {
+      "key": {
         "uuid": "AAAAdH//+t8\u003d",
         "filename": "res/values/strings.xml",
         "patchSetId": 3
@@ -64,6 +118,24 @@
       "writtenOn": "2013-02-09T04:26:16Z",
       "side": 1,
       "message": "Show history (without capital H)",
+      "revId": "9650e1107b308ace9e44cdc20d7417d0163d637b",
+      "serverId": "1ec6b3db-b2c1-4fa4-84a2-4c7efe89ba71",
+      "unresolved": false
+    },
+    {
+      "key": {
+        "uuid": "AAAAdH//+qk\u003d",
+        "filename": "res/values/strings.xml",
+        "patchSetId": 3
+      },
+      "lineNbr": 150,
+      "author": {
+        "id": 4388
+      },
+      "writtenOn": "2013-02-09T05:29:20Z",
+      "side": 1,
+      "message": "Done",
+      "parentUuid": "AAAAdH//+t8\u003d",
       "revId": "9650e1107b308ace9e44cdc20d7417d0163d637b",
       "serverId": "1ec6b3db-b2c1-4fa4-84a2-4c7efe89ba71",
       "unresolved": false
@@ -87,6 +159,24 @@
     },
     {
       "key": {
+        "uuid": "AAAAdH//+qg\u003d",
+        "filename": "res/values/strings.xml",
+        "patchSetId": 3
+      },
+      "lineNbr": 152,
+      "author": {
+        "id": 4388
+      },
+      "writtenOn": "2013-02-09T05:29:20Z",
+      "side": 1,
+      "message": "Done",
+      "parentUuid": "AAAAdH//+t4\u003d",
+      "revId": "9650e1107b308ace9e44cdc20d7417d0163d637b",
+      "serverId": "1ec6b3db-b2c1-4fa4-84a2-4c7efe89ba71",
+      "unresolved": false
+    },
+    {
+      "key": {
         "uuid": "AAAAdH//+t0\u003d",
         "filename": "res/values/strings.xml",
         "patchSetId": 3
@@ -98,6 +188,24 @@
       "writtenOn": "2013-02-09T04:26:16Z",
       "side": 1,
       "message": "http://en.wikipedia.org/wiki/Eigenvalues_and_eigenvectors\n\nEigenvalues?",
+      "revId": "9650e1107b308ace9e44cdc20d7417d0163d637b",
+      "serverId": "1ec6b3db-b2c1-4fa4-84a2-4c7efe89ba71",
+      "unresolved": false
+    },
+    {
+      "key": {
+        "uuid": "AAAAdH//+qc\u003d",
+        "filename": "res/values/strings.xml",
+        "patchSetId": 3
+      },
+      "lineNbr": 163,
+      "author": {
+        "id": 4388
+      },
+      "writtenOn": "2013-02-09T05:29:20Z",
+      "side": 1,
+      "message": "Done",
+      "parentUuid": "AAAAdH//+t0\u003d",
       "revId": "9650e1107b308ace9e44cdc20d7417d0163d637b",
       "serverId": "1ec6b3db-b2c1-4fa4-84a2-4c7efe89ba71",
       "unresolved": false
@@ -121,6 +229,24 @@
     },
     {
       "key": {
+        "uuid": "AAAAdH//+qM\u003d",
+        "filename": "res/values/strings.xml",
+        "patchSetId": 3
+      },
+      "lineNbr": 186,
+      "author": {
+        "id": 4388
+      },
+      "writtenOn": "2013-02-09T05:29:20Z",
+      "side": 1,
+      "message": "Done",
+      "parentUuid": "AAAAdH//+tw\u003d",
+      "revId": "9650e1107b308ace9e44cdc20d7417d0163d637b",
+      "serverId": "1ec6b3db-b2c1-4fa4-84a2-4c7efe89ba71",
+      "unresolved": false
+    },
+    {
+      "key": {
         "uuid": "AAAAdH//+tg\u003d",
         "filename": "res/values/strings.xml",
         "patchSetId": 3
@@ -132,6 +258,24 @@
       "writtenOn": "2013-02-09T04:26:16Z",
       "side": 1,
       "message": "... in Settings",
+      "revId": "9650e1107b308ace9e44cdc20d7417d0163d637b",
+      "serverId": "1ec6b3db-b2c1-4fa4-84a2-4c7efe89ba71",
+      "unresolved": false
+    },
+    {
+      "key": {
+        "uuid": "AAAAdH//+qQ\u003d",
+        "filename": "res/values/strings.xml",
+        "patchSetId": 3
+      },
+      "lineNbr": 192,
+      "author": {
+        "id": 4388
+      },
+      "writtenOn": "2013-02-09T05:29:20Z",
+      "side": 1,
+      "message": "Done",
+      "parentUuid": "AAAAdH//+tg\u003d",
       "revId": "9650e1107b308ace9e44cdc20d7417d0163d637b",
       "serverId": "1ec6b3db-b2c1-4fa4-84a2-4c7efe89ba71",
       "unresolved": false
@@ -155,6 +299,24 @@
     },
     {
       "key": {
+        "uuid": "AAAAdH//+qI\u003d",
+        "filename": "res/values/strings.xml",
+        "patchSetId": 3
+      },
+      "lineNbr": 194,
+      "author": {
+        "id": 4388
+      },
+      "writtenOn": "2013-02-09T05:29:20Z",
+      "side": 1,
+      "message": "Done",
+      "parentUuid": "AAAAdH//+tc\u003d",
+      "revId": "9650e1107b308ace9e44cdc20d7417d0163d637b",
+      "serverId": "1ec6b3db-b2c1-4fa4-84a2-4c7efe89ba71",
+      "unresolved": false
+    },
+    {
+      "key": {
         "uuid": "AAAAdH//+tk\u003d",
         "filename": "res/values/strings.xml",
         "patchSetId": 3
@@ -172,6 +334,24 @@
     },
     {
       "key": {
+        "uuid": "AAAAdH//+qU\u003d",
+        "filename": "res/values/strings.xml",
+        "patchSetId": 3
+      },
+      "lineNbr": 196,
+      "author": {
+        "id": 4388
+      },
+      "writtenOn": "2013-02-09T05:29:20Z",
+      "side": 1,
+      "message": "Done",
+      "parentUuid": "AAAAdH//+tk\u003d",
+      "revId": "9650e1107b308ace9e44cdc20d7417d0163d637b",
+      "serverId": "1ec6b3db-b2c1-4fa4-84a2-4c7efe89ba71",
+      "unresolved": false
+    },
+    {
+      "key": {
         "uuid": "AAAAdH//+ts\u003d",
         "filename": "res/values/strings.xml",
         "patchSetId": 3
@@ -183,6 +363,24 @@
       "writtenOn": "2013-02-09T04:26:16Z",
       "side": 1,
       "message": "- Splash (with capital S) instead of splash (see: http://bulbapedia.bulbagarden.net/wiki/Magikarp_(Pok%C3%A9mon)#Behavior )\n- Whitespace error\n- There should be an extra newline here",
+      "revId": "9650e1107b308ace9e44cdc20d7417d0163d637b",
+      "serverId": "1ec6b3db-b2c1-4fa4-84a2-4c7efe89ba71",
+      "unresolved": false
+    },
+    {
+      "key": {
+        "uuid": "AAAAdH//+qY\u003d",
+        "filename": "res/values/strings.xml",
+        "patchSetId": 3
+      },
+      "lineNbr": 201,
+      "author": {
+        "id": 4388
+      },
+      "writtenOn": "2013-02-09T05:29:20Z",
+      "side": 1,
+      "message": "Done",
+      "parentUuid": "AAAAdH//+ts\u003d",
       "revId": "9650e1107b308ace9e44cdc20d7417d0163d637b",
       "serverId": "1ec6b3db-b2c1-4fa4-84a2-4c7efe89ba71",
       "unresolved": false
