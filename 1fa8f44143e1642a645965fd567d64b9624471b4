@@ -2,6 +2,23 @@
   "comments": [
     {
       "key": {
+        "uuid": "AAAAdH//+ZE\u003d",
+        "filename": "res/values-fi/strings.xml",
+        "patchSetId": 2
+      },
+      "lineNbr": 111,
+      "author": {
+        "id": 3018
+      },
+      "writtenOn": "2013-02-09T19:13:05Z",
+      "side": 1,
+      "message": "\"Dot\" in this context seems to mean the dot product (pistetulo) and not the decimal separator, so I don\u0027t think pilkku (comma) is right.",
+      "revId": "1fa8f44143e1642a645965fd567d64b9624471b4",
+      "serverId": "1ec6b3db-b2c1-4fa4-84a2-4c7efe89ba71",
+      "unresolved": false
+    },
+    {
+      "key": {
         "uuid": "AAAAdH//+Z8\u003d",
         "filename": "res/values-fi/strings.xml",
         "patchSetId": 2
