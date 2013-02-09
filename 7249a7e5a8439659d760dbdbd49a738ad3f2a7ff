@@ -1,0 +1,21 @@
+{
+  "comments": [
+    {
+      "key": {
+        "uuid": "AAAAdH//+dI\u003d",
+        "filename": "res/values-it/strings.xml",
+        "patchSetId": 2
+      },
+      "lineNbr": 85,
+      "author": {
+        "id": 2597
+      },
+      "writtenOn": "2013-02-09T15:54:51Z",
+      "side": 1,
+      "message": "Redundant space between \u0027Splash\u0027 and \u0027ma\u0027",
+      "revId": "7249a7e5a8439659d760dbdbd49a738ad3f2a7ff",
+      "serverId": "1ec6b3db-b2c1-4fa4-84a2-4c7efe89ba71",
+      "unresolved": false
+    }
+  ]
+}
