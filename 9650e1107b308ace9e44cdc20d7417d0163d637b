@@ -1,0 +1,191 @@
+{
+  "comments": [
+    {
+      "key": {
+        "uuid": "AAAAdH//+tQ\u003d",
+        "filename": "res/values-nl/strings.xml",
+        "patchSetId": 3
+      },
+      "lineNbr": 35,
+      "author": {
+        "id": 2597
+      },
+      "writtenOn": "2013-02-09T04:26:16Z",
+      "side": 1,
+      "message": "x (no capital)",
+      "revId": "9650e1107b308ace9e44cdc20d7417d0163d637b",
+      "serverId": "1ec6b3db-b2c1-4fa4-84a2-4c7efe89ba71",
+      "unresolved": false
+    },
+    {
+      "key": {
+        "uuid": "AAAAdH//+tM\u003d",
+        "filename": "res/values-nl/strings.xml",
+        "patchSetId": 3
+      },
+      "lineNbr": 36,
+      "author": {
+        "id": 2597
+      },
+      "writtenOn": "2013-02-09T04:26:16Z",
+      "side": 1,
+      "message": "y (no capital)",
+      "revId": "9650e1107b308ace9e44cdc20d7417d0163d637b",
+      "serverId": "1ec6b3db-b2c1-4fa4-84a2-4c7efe89ba71",
+      "unresolved": false
+    },
+    {
+      "key": {
+        "uuid": "AAAAdH//+tU\u003d",
+        "filename": "res/values/strings.xml",
+        "patchSetId": 3
+      },
+      "lineNbr": 73,
+      "author": {
+        "id": 2597
+      },
+      "writtenOn": "2013-02-09T04:26:16Z",
+      "side": 1,
+      "message": "Can you revert this? This was intentionally done, because the decimal separator is not equal in every country/language.",
+      "revId": "9650e1107b308ace9e44cdc20d7417d0163d637b",
+      "serverId": "1ec6b3db-b2c1-4fa4-84a2-4c7efe89ba71",
+      "unresolved": false
+    },
+    {
+      "key": {
+        "uuid": "AAAAdH//+t8\u003d",
+        "filename": "res/values/strings.xml",
+        "patchSetId": 3
+      },
+      "lineNbr": 150,
+      "author": {
+        "id": 2597
+      },
+      "writtenOn": "2013-02-09T04:26:16Z",
+      "side": 1,
+      "message": "Show history (without capital H)",
+      "revId": "9650e1107b308ace9e44cdc20d7417d0163d637b",
+      "serverId": "1ec6b3db-b2c1-4fa4-84a2-4c7efe89ba71",
+      "unresolved": false
+    },
+    {
+      "key": {
+        "uuid": "AAAAdH//+t4\u003d",
+        "filename": "res/values/strings.xml",
+        "patchSetId": 3
+      },
+      "lineNbr": 152,
+      "author": {
+        "id": 2597
+      },
+      "writtenOn": "2013-02-09T04:26:16Z",
+      "side": 1,
+      "message": "Hide history (without capital H)",
+      "revId": "9650e1107b308ace9e44cdc20d7417d0163d637b",
+      "serverId": "1ec6b3db-b2c1-4fa4-84a2-4c7efe89ba71",
+      "unresolved": false
+    },
+    {
+      "key": {
+        "uuid": "AAAAdH//+t0\u003d",
+        "filename": "res/values/strings.xml",
+        "patchSetId": 3
+      },
+      "lineNbr": 163,
+      "author": {
+        "id": 2597
+      },
+      "writtenOn": "2013-02-09T04:26:16Z",
+      "side": 1,
+      "message": "http://en.wikipedia.org/wiki/Eigenvalues_and_eigenvectors\n\nEigenvalues?",
+      "revId": "9650e1107b308ace9e44cdc20d7417d0163d637b",
+      "serverId": "1ec6b3db-b2c1-4fa4-84a2-4c7efe89ba71",
+      "unresolved": false
+    },
+    {
+      "key": {
+        "uuid": "AAAAdH//+tw\u003d",
+        "filename": "res/values/strings.xml",
+        "patchSetId": 3
+      },
+      "lineNbr": 186,
+      "author": {
+        "id": 2597
+      },
+      "writtenOn": "2013-02-09T04:26:16Z",
+      "side": 1,
+      "message": "Trig units (without capital U)",
+      "revId": "9650e1107b308ace9e44cdc20d7417d0163d637b",
+      "serverId": "1ec6b3db-b2c1-4fa4-84a2-4c7efe89ba71",
+      "unresolved": false
+    },
+    {
+      "key": {
+        "uuid": "AAAAdH//+tg\u003d",
+        "filename": "res/values/strings.xml",
+        "patchSetId": 3
+      },
+      "lineNbr": 192,
+      "author": {
+        "id": 2597
+      },
+      "writtenOn": "2013-02-09T04:26:16Z",
+      "side": 1,
+      "message": "... in Settings",
+      "revId": "9650e1107b308ace9e44cdc20d7417d0163d637b",
+      "serverId": "1ec6b3db-b2c1-4fa4-84a2-4c7efe89ba71",
+      "unresolved": false
+    },
+    {
+      "key": {
+        "uuid": "AAAAdH//+tc\u003d",
+        "filename": "res/values/strings.xml",
+        "patchSetId": 3
+      },
+      "lineNbr": 194,
+      "author": {
+        "id": 2597
+      },
+      "writtenOn": "2013-02-09T04:26:16Z",
+      "side": 1,
+      "message": "Tap here...",
+      "revId": "9650e1107b308ace9e44cdc20d7417d0163d637b",
+      "serverId": "1ec6b3db-b2c1-4fa4-84a2-4c7efe89ba71",
+      "unresolved": false
+    },
+    {
+      "key": {
+        "uuid": "AAAAdH//+tk\u003d",
+        "filename": "res/values/strings.xml",
+        "patchSetId": 3
+      },
+      "lineNbr": 196,
+      "author": {
+        "id": 2597
+      },
+      "writtenOn": "2013-02-09T04:26:16Z",
+      "side": 1,
+      "message": "\\n\\nIf Calculator... (so it becomes a reference to the app\u0027s name, rather than the general expression for this kind of apps)",
+      "revId": "9650e1107b308ace9e44cdc20d7417d0163d637b",
+      "serverId": "1ec6b3db-b2c1-4fa4-84a2-4c7efe89ba71",
+      "unresolved": false
+    },
+    {
+      "key": {
+        "uuid": "AAAAdH//+ts\u003d",
+        "filename": "res/values/strings.xml",
+        "patchSetId": 3
+      },
+      "lineNbr": 201,
+      "author": {
+        "id": 2597
+      },
+      "writtenOn": "2013-02-09T04:26:16Z",
+      "side": 1,
+      "message": "- Splash (with capital S) instead of splash (see: http://bulbapedia.bulbagarden.net/wiki/Magikarp_(Pok%C3%A9mon)#Behavior )\n- Whitespace error\n- There should be an extra newline here",
+      "revId": "9650e1107b308ace9e44cdc20d7417d0163d637b",
+      "serverId": "1ec6b3db-b2c1-4fa4-84a2-4c7efe89ba71",
+      "unresolved": false
+    }
+  ]
+}
