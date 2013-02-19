@@ -1,0 +1,21 @@
+{
+  "comments": [
+    {
+      "key": {
+        "uuid": "AAAAdX//9Qg\u003d",
+        "filename": "res/values-fi/strings.xml",
+        "patchSetId": 3
+      },
+      "lineNbr": 73,
+      "author": {
+        "id": 2904
+      },
+      "writtenOn": "2013-02-19T06:34:34Z",
+      "side": 1,
+      "message": "This probably means \"pistetulo\" like Veeti said, but its \"dot\" in original string so I would translate it as \"piste\".",
+      "revId": "22e6cccd57f8b16950c1df04a2e1332bb64140b1",
+      "serverId": "1ec6b3db-b2c1-4fa4-84a2-4c7efe89ba71",
+      "unresolved": false
+    }
+  ]
+}
