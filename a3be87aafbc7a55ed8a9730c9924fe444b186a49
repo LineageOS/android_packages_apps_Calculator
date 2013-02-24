@@ -67,6 +67,24 @@
       "revId": "a3be87aafbc7a55ed8a9730c9924fe444b186a49",
       "serverId": "1ec6b3db-b2c1-4fa4-84a2-4c7efe89ba71",
       "unresolved": false
+    },
+    {
+      "key": {
+        "uuid": "AAAAdX//7Iw\u003d",
+        "filename": "res/values-de/strings.xml",
+        "patchSetId": 1
+      },
+      "lineNbr": 90,
+      "author": {
+        "id": 4315
+      },
+      "writtenOn": "2013-02-24T23:51:11Z",
+      "side": 1,
+      "message": "Karpador setzt Platscher ein. Nichts geschieht.\n\nSo war\u0027s in Pokemon glaub\u0027 ich ;-)",
+      "parentUuid": "AAAAdX//7JI\u003d",
+      "revId": "a3be87aafbc7a55ed8a9730c9924fe444b186a49",
+      "serverId": "1ec6b3db-b2c1-4fa4-84a2-4c7efe89ba71",
+      "unresolved": false
     }
   ]
 }
