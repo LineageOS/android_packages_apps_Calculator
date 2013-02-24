@@ -2,6 +2,23 @@
   "comments": [
     {
       "key": {
+        "uuid": "AAAAdX//7JM\u003d",
+        "filename": "res/values-de/strings.xml",
+        "patchSetId": 1
+      },
+      "lineNbr": 56,
+      "author": {
+        "id": 1053
+      },
+      "writtenOn": "2013-02-24T23:49:48Z",
+      "side": 1,
+      "message": "Ist das nicht zu lang für Geräte mit kleinem Display?",
+      "revId": "a3be87aafbc7a55ed8a9730c9924fe444b186a49",
+      "serverId": "1ec6b3db-b2c1-4fa4-84a2-4c7efe89ba71",
+      "unresolved": false
+    },
+    {
+      "key": {
         "uuid": "AAAAdX//7JQ\u003d",
         "filename": "res/values-de/strings.xml",
         "patchSetId": 1
@@ -13,6 +30,23 @@
       "writtenOn": "2013-02-24T23:48:23Z",
       "side": 1,
       "message": "Komma vergessen...",
+      "revId": "a3be87aafbc7a55ed8a9730c9924fe444b186a49",
+      "serverId": "1ec6b3db-b2c1-4fa4-84a2-4c7efe89ba71",
+      "unresolved": false
+    },
+    {
+      "key": {
+        "uuid": "AAAAdX//7JA\u003d",
+        "filename": "res/values-de/strings.xml",
+        "patchSetId": 1
+      },
+      "lineNbr": 86,
+      "author": {
+        "id": 1053
+      },
+      "writtenOn": "2013-02-24T23:49:48Z",
+      "side": 1,
+      "message": "angeziegt? ;-)",
       "revId": "a3be87aafbc7a55ed8a9730c9924fe444b186a49",
       "serverId": "1ec6b3db-b2c1-4fa4-84a2-4c7efe89ba71",
       "unresolved": false
