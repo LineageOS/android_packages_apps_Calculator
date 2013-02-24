@@ -2,6 +2,74 @@
   "comments": [
     {
       "key": {
+        "uuid": "AAAAdX//7T4\u003d",
+        "filename": "res/values-pt/strings.xml",
+        "patchSetId": 1
+      },
+      "lineNbr": 23,
+      "author": {
+        "id": 2597
+      },
+      "writtenOn": "2013-02-24T16:54:55Z",
+      "side": 1,
+      "message": "Please only change \u0027sen\u0027/\u0027sin\u0027",
+      "revId": "e1f6adb793b11bffdb84f8d8d02c97d23b463b04",
+      "serverId": "1ec6b3db-b2c1-4fa4-84a2-4c7efe89ba71",
+      "unresolved": false
+    },
+    {
+      "key": {
+        "uuid": "AAAAdX//7T0\u003d",
+        "filename": "res/values-pt/strings.xml",
+        "patchSetId": 1
+      },
+      "lineNbr": 24,
+      "author": {
+        "id": 2597
+      },
+      "writtenOn": "2013-02-24T16:54:55Z",
+      "side": 1,
+      "message": "Please undo this",
+      "revId": "e1f6adb793b11bffdb84f8d8d02c97d23b463b04",
+      "serverId": "1ec6b3db-b2c1-4fa4-84a2-4c7efe89ba71",
+      "unresolved": false
+    },
+    {
+      "key": {
+        "uuid": "AAAAdX//7Tw\u003d",
+        "filename": "res/values-pt/strings.xml",
+        "patchSetId": 1
+      },
+      "lineNbr": 25,
+      "author": {
+        "id": 2597
+      },
+      "writtenOn": "2013-02-24T16:54:55Z",
+      "side": 1,
+      "message": "Please undo this",
+      "revId": "e1f6adb793b11bffdb84f8d8d02c97d23b463b04",
+      "serverId": "1ec6b3db-b2c1-4fa4-84a2-4c7efe89ba71",
+      "unresolved": false
+    },
+    {
+      "key": {
+        "uuid": "AAAAdX//7Ts\u003d",
+        "filename": "res/values-pt/strings.xml",
+        "patchSetId": 1
+      },
+      "lineNbr": 54,
+      "author": {
+        "id": 2597
+      },
+      "writtenOn": "2013-02-24T16:54:55Z",
+      "side": 1,
+      "message": "Aplicativo",
+      "revId": "e1f6adb793b11bffdb84f8d8d02c97d23b463b04",
+      "serverId": "1ec6b3db-b2c1-4fa4-84a2-4c7efe89ba71",
+      "unresolved": false
+    },
+    {
+      "key": {
         "uuid": "AAAAdX//7WM\u003d",
         "filename": "res/values-pt/strings.xml",
         "patchSetId": 1
@@ -13,6 +81,24 @@
       "writtenOn": "2013-02-24T13:09:27Z",
       "side": 1,
       "message": "Don\u0027t know for sure if this \"Configurações\" must have Uppercased C",
+      "revId": "e1f6adb793b11bffdb84f8d8d02c97d23b463b04",
+      "serverId": "1ec6b3db-b2c1-4fa4-84a2-4c7efe89ba71",
+      "unresolved": false
+    },
+    {
+      "key": {
+        "uuid": "AAAAdX//7Tk\u003d",
+        "filename": "res/values-pt/strings.xml",
+        "patchSetId": 1
+      },
+      "lineNbr": 80,
+      "author": {
+        "id": 2597
+      },
+      "writtenOn": "2013-02-24T16:54:55Z",
+      "side": 1,
+      "message": "That is required, since \u0027Settings\u0027 references to the name of an external activity. Thus it should be treated as a name (for example, there should be no article associated with it)",
+      "parentUuid": "AAAAdX//7WM\u003d",
       "revId": "e1f6adb793b11bffdb84f8d8d02c97d23b463b04",
       "serverId": "1ec6b3db-b2c1-4fa4-84a2-4c7efe89ba71",
       "unresolved": false
