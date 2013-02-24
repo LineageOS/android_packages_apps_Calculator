@@ -1,0 +1,38 @@
+{
+  "comments": [
+    {
+      "key": {
+        "uuid": "AAAAdX//7JQ\u003d",
+        "filename": "res/values-de/strings.xml",
+        "patchSetId": 1
+      },
+      "lineNbr": 82,
+      "author": {
+        "id": 4884
+      },
+      "writtenOn": "2013-02-24T23:48:23Z",
+      "side": 1,
+      "message": "Komma vergessen...",
+      "revId": "a3be87aafbc7a55ed8a9730c9924fe444b186a49",
+      "serverId": "1ec6b3db-b2c1-4fa4-84a2-4c7efe89ba71",
+      "unresolved": false
+    },
+    {
+      "key": {
+        "uuid": "AAAAdX//7JI\u003d",
+        "filename": "res/values-de/strings.xml",
+        "patchSetId": 1
+      },
+      "lineNbr": 90,
+      "author": {
+        "id": 4884
+      },
+      "writtenOn": "2013-02-24T23:48:23Z",
+      "side": 1,
+      "message": "Fällt einem da irgendeine Übersetzung zu ein? :D",
+      "revId": "a3be87aafbc7a55ed8a9730c9924fe444b186a49",
+      "serverId": "1ec6b3db-b2c1-4fa4-84a2-4c7efe89ba71",
+      "unresolved": false
+    }
+  ]
+}
