@@ -16,6 +16,92 @@
       "revId": "bb5e362db43a6a4a3a50bb7d8e9619c39ac343ff",
       "serverId": "1ec6b3db-b2c1-4fa4-84a2-4c7efe89ba71",
       "unresolved": false
+    },
+    {
+      "key": {
+        "uuid": "AAAAdX//7Hw\u003d",
+        "filename": "res/values-hu/strings.xml",
+        "patchSetId": 1
+      },
+      "lineNbr": 31,
+      "author": {
+        "id": 1573
+      },
+      "writtenOn": "2013-02-25T00:54:58Z",
+      "side": 1,
+      "message": "egészen pontosan moduló, maradékos osztás maradéka, végsö esetben maradhat mod - ez a 3 string piszok hosszunak igérkezik",
+      "parentUuid": "AAAAdX//7K0\u003d",
+      "revId": "bb5e362db43a6a4a3a50bb7d8e9619c39ac343ff",
+      "serverId": "1ec6b3db-b2c1-4fa4-84a2-4c7efe89ba71",
+      "unresolved": false
+    },
+    {
+      "key": {
+        "uuid": "AAAAdX//7Hs\u003d",
+        "filename": "res/values-hu/strings.xml",
+        "patchSetId": 1
+      },
+      "lineNbr": 81,
+      "author": {
+        "id": 1573
+      },
+      "writtenOn": "2013-02-25T00:54:58Z",
+      "side": 1,
+      "message": "\"A használni kivánt panelek\" szerintem jobb lenne",
+      "revId": "bb5e362db43a6a4a3a50bb7d8e9619c39ac343ff",
+      "serverId": "1ec6b3db-b2c1-4fa4-84a2-4c7efe89ba71",
+      "unresolved": false
+    },
+    {
+      "key": {
+        "uuid": "AAAAdX//7Ho\u003d",
+        "filename": "res/values-hu/strings.xml",
+        "patchSetId": 1
+      },
+      "lineNbr": 83,
+      "author": {
+        "id": 1573
+      },
+      "writtenOn": "2013-02-25T00:54:58Z",
+      "side": 1,
+      "message": "nem kell a névelö",
+      "revId": "bb5e362db43a6a4a3a50bb7d8e9619c39ac343ff",
+      "serverId": "1ec6b3db-b2c1-4fa4-84a2-4c7efe89ba71",
+      "unresolved": false
+    },
+    {
+      "key": {
+        "uuid": "AAAAdX//7Hk\u003d",
+        "filename": "res/values-hu/strings.xml",
+        "patchSetId": 1
+      },
+      "lineNbr": 84,
+      "author": {
+        "id": 1573
+      },
+      "writtenOn": "2013-02-25T00:54:58Z",
+      "side": 1,
+      "message": "Úgyérted számrendszer? ;)",
+      "revId": "bb5e362db43a6a4a3a50bb7d8e9619c39ac343ff",
+      "serverId": "1ec6b3db-b2c1-4fa4-84a2-4c7efe89ba71",
+      "unresolved": false
+    },
+    {
+      "key": {
+        "uuid": "AAAAdX//7Hg\u003d",
+        "filename": "res/values-hu/strings.xml",
+        "patchSetId": 1
+      },
+      "lineNbr": 85,
+      "author": {
+        "id": 1573
+      },
+      "writtenOn": "2013-02-25T00:54:58Z",
+      "side": 1,
+      "message": "Szerintem célszerü lenne inkább úgy irni ezeket, mint tizes (ha minden igaz, hosszu i!), kettes, tizenhatos számrendszerek.",
+      "revId": "bb5e362db43a6a4a3a50bb7d8e9619c39ac343ff",
+      "serverId": "1ec6b3db-b2c1-4fa4-84a2-4c7efe89ba71",
+      "unresolved": false
     }
   ]
 }
