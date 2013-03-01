@@ -37,6 +37,24 @@
     },
     {
       "key": {
+        "uuid": "AAAAdX//5tw\u003d",
+        "filename": "res/values-de/strings.xml",
+        "patchSetId": 2
+      },
+      "lineNbr": 84,
+      "author": {
+        "id": 1063
+      },
+      "writtenOn": "2013-03-01T15:27:05Z",
+      "side": 1,
+      "message": "Das spricht wieder den Nutzer an - mir gefällt die Version im Patch besser. Eventuell könnte man das noch kürzen:\n\nBei unerwarteten Ergebnissen sollte das eingestellte Zahlensystem überprüft werden. Standardmäßig wird das dezimale Zahlensystem verwendet.",
+      "parentUuid": "AAAAdX//5uM\u003d",
+      "revId": "4324cbf2c0f4ae266f90837965e7c0583498e3ac",
+      "serverId": "1ec6b3db-b2c1-4fa4-84a2-4c7efe89ba71",
+      "unresolved": false
+    },
+    {
+      "key": {
         "uuid": "AAAAdX//5yU\u003d",
         "filename": "res/values-de/strings.xml",
         "patchSetId": 2
@@ -66,6 +84,24 @@
       "side": 1,
       "message": "neue Rechtschreibung ist doch Graf, oder?",
       "parentUuid": "AAAAdX//5yU\u003d",
+      "revId": "4324cbf2c0f4ae266f90837965e7c0583498e3ac",
+      "serverId": "1ec6b3db-b2c1-4fa4-84a2-4c7efe89ba71",
+      "unresolved": false
+    },
+    {
+      "key": {
+        "uuid": "AAAAdX//5t0\u003d",
+        "filename": "res/values-de/strings.xml",
+        "patchSetId": 2
+      },
+      "lineNbr": 86,
+      "author": {
+        "id": 1063
+      },
+      "writtenOn": "2013-03-01T15:27:05Z",
+      "side": 1,
+      "message": "Nicht direkt: http://www.duden.de/rechtschreibung/Graph_Darstellung_Mathematik\nMan kann \u0027Graf\u0027 schreiben, empfohlen wird aber \u0027Graph\u0027.",
+      "parentUuid": "AAAAdX//5uI\u003d",
       "revId": "4324cbf2c0f4ae266f90837965e7c0583498e3ac",
       "serverId": "1ec6b3db-b2c1-4fa4-84a2-4c7efe89ba71",
       "unresolved": false
