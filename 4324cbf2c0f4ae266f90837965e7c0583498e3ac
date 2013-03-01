@@ -1,0 +1,38 @@
+{
+  "comments": [
+    {
+      "key": {
+        "uuid": "AAAAdX//5yc\u003d",
+        "filename": "res/values-de/strings.xml",
+        "patchSetId": 2
+      },
+      "lineNbr": 84,
+      "author": {
+        "id": 4315
+      },
+      "writtenOn": "2013-03-01T05:34:13Z",
+      "side": 1,
+      "message": "Beide Sätze hören (fast) mit \"verwendet\" auf. Fällt jemandem etwas besseres ein?\nZ.B. \"... ob das richtige Zahlensystem eingestellt ist...\"",
+      "revId": "4324cbf2c0f4ae266f90837965e7c0583498e3ac",
+      "serverId": "1ec6b3db-b2c1-4fa4-84a2-4c7efe89ba71",
+      "unresolved": false
+    },
+    {
+      "key": {
+        "uuid": "AAAAdX//5yU\u003d",
+        "filename": "res/values-de/strings.xml",
+        "patchSetId": 2
+      },
+      "lineNbr": 86,
+      "author": {
+        "id": 4315
+      },
+      "writtenOn": "2013-03-01T05:34:13Z",
+      "side": 1,
+      "message": "\"...der Graph einer Funktion...\"",
+      "revId": "4324cbf2c0f4ae266f90837965e7c0583498e3ac",
+      "serverId": "1ec6b3db-b2c1-4fa4-84a2-4c7efe89ba71",
+      "unresolved": false
+    }
+  ]
+}
