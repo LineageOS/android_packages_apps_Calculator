@@ -105,6 +105,24 @@
       "revId": "4324cbf2c0f4ae266f90837965e7c0583498e3ac",
       "serverId": "1ec6b3db-b2c1-4fa4-84a2-4c7efe89ba71",
       "unresolved": false
+    },
+    {
+      "key": {
+        "uuid": "AAAAdX//5to\u003d",
+        "filename": "res/values-de/strings.xml",
+        "patchSetId": 2
+      },
+      "lineNbr": 86,
+      "author": {
+        "id": 4315
+      },
+      "writtenOn": "2013-03-01T15:28:29Z",
+      "side": 1,
+      "message": "Graph ist üblicher in der Mathematik.\n+1 für Graph.",
+      "parentUuid": "AAAAdX//5t0\u003d",
+      "revId": "4324cbf2c0f4ae266f90837965e7c0583498e3ac",
+      "serverId": "1ec6b3db-b2c1-4fa4-84a2-4c7efe89ba71",
+      "unresolved": false
     }
   ]
 }
