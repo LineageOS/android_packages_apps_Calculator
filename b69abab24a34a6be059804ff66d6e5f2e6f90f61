@@ -1,0 +1,72 @@
+{
+  "comments": [
+    {
+      "key": {
+        "uuid": "AAAAdX//4/0\u003d",
+        "filename": "res/values-af/strings.xml",
+        "patchSetId": 7
+      },
+      "lineNbr": 79,
+      "author": {
+        "id": 1576
+      },
+      "writtenOn": "2013-03-03T04:24:26Z",
+      "side": 1,
+      "message": "Trigonomie eenhede",
+      "revId": "b69abab24a34a6be059804ff66d6e5f2e6f90f61",
+      "serverId": "1ec6b3db-b2c1-4fa4-84a2-4c7efe89ba71",
+      "unresolved": false
+    },
+    {
+      "key": {
+        "uuid": "AAAAdX//4/o\u003d",
+        "filename": "res/values-af/strings.xml",
+        "patchSetId": 7
+      },
+      "lineNbr": 85,
+      "author": {
+        "id": 1576
+      },
+      "writtenOn": "2013-03-03T04:24:26Z",
+      "side": 1,
+      "message": "Raak hier om \\\u0027n matriks oplossing te begin bou",
+      "revId": "b69abab24a34a6be059804ff66d6e5f2e6f90f61",
+      "serverId": "1ec6b3db-b2c1-4fa4-84a2-4c7efe89ba71",
+      "unresolved": false
+    },
+    {
+      "key": {
+        "uuid": "AAAAdX//4/g\u003d",
+        "filename": "res/values-af/strings.xml",
+        "patchSetId": 7
+      },
+      "lineNbr": 87,
+      "author": {
+        "id": 1576
+      },
+      "writtenOn": "2013-03-03T04:24:26Z",
+      "side": 1,
+      "message": "Why is desimaal capital DES but rest is lower case.",
+      "revId": "b69abab24a34a6be059804ff66d6e5f2e6f90f61",
+      "serverId": "1ec6b3db-b2c1-4fa4-84a2-4c7efe89ba71",
+      "unresolved": false
+    },
+    {
+      "key": {
+        "uuid": "AAAAdX//4/k\u003d",
+        "filename": "res/values-af/strings.xml",
+        "patchSetId": 7
+      },
+      "lineNbr": 91,
+      "author": {
+        "id": 1576
+      },
+      "writtenOn": "2013-03-03T04:24:26Z",
+      "side": 1,
+      "message": "Single \u0027 not double \"",
+      "revId": "b69abab24a34a6be059804ff66d6e5f2e6f90f61",
+      "serverId": "1ec6b3db-b2c1-4fa4-84a2-4c7efe89ba71",
+      "unresolved": false
+    }
+  ]
+}
