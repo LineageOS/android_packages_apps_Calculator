@@ -19,6 +19,24 @@
     },
     {
       "key": {
+        "uuid": "AAAAdX//4/A\u003d",
+        "filename": "res/values-af/strings.xml",
+        "patchSetId": 7
+      },
+      "lineNbr": 79,
+      "author": {
+        "id": 2597
+      },
+      "writtenOn": "2013-03-03T04:40:41Z",
+      "side": 1,
+      "message": "Done",
+      "parentUuid": "AAAAdX//4/0\u003d",
+      "revId": "b69abab24a34a6be059804ff66d6e5f2e6f90f61",
+      "serverId": "1ec6b3db-b2c1-4fa4-84a2-4c7efe89ba71",
+      "unresolved": false
+    },
+    {
+      "key": {
         "uuid": "AAAAdX//4/o\u003d",
         "filename": "res/values-af/strings.xml",
         "patchSetId": 7
@@ -30,6 +48,24 @@
       "writtenOn": "2013-03-03T04:24:26Z",
       "side": 1,
       "message": "Raak hier om \\\u0027n matriks oplossing te begin bou",
+      "revId": "b69abab24a34a6be059804ff66d6e5f2e6f90f61",
+      "serverId": "1ec6b3db-b2c1-4fa4-84a2-4c7efe89ba71",
+      "unresolved": false
+    },
+    {
+      "key": {
+        "uuid": "AAAAdX//4/E\u003d",
+        "filename": "res/values-af/strings.xml",
+        "patchSetId": 7
+      },
+      "lineNbr": 85,
+      "author": {
+        "id": 2597
+      },
+      "writtenOn": "2013-03-03T04:40:41Z",
+      "side": 1,
+      "message": "Done",
+      "parentUuid": "AAAAdX//4/o\u003d",
       "revId": "b69abab24a34a6be059804ff66d6e5f2e6f90f61",
       "serverId": "1ec6b3db-b2c1-4fa4-84a2-4c7efe89ba71",
       "unresolved": false
@@ -53,6 +89,24 @@
     },
     {
       "key": {
+        "uuid": "AAAAdX//4/I\u003d",
+        "filename": "res/values-af/strings.xml",
+        "patchSetId": 7
+      },
+      "lineNbr": 87,
+      "author": {
+        "id": 2597
+      },
+      "writtenOn": "2013-03-03T04:40:41Z",
+      "side": 1,
+      "message": "Will make it lower case",
+      "parentUuid": "AAAAdX//4/g\u003d",
+      "revId": "b69abab24a34a6be059804ff66d6e5f2e6f90f61",
+      "serverId": "1ec6b3db-b2c1-4fa4-84a2-4c7efe89ba71",
+      "unresolved": false
+    },
+    {
+      "key": {
         "uuid": "AAAAdX//4/k\u003d",
         "filename": "res/values-af/strings.xml",
         "patchSetId": 7
@@ -64,6 +118,24 @@
       "writtenOn": "2013-03-03T04:24:26Z",
       "side": 1,
       "message": "Single \u0027 not double \"",
+      "revId": "b69abab24a34a6be059804ff66d6e5f2e6f90f61",
+      "serverId": "1ec6b3db-b2c1-4fa4-84a2-4c7efe89ba71",
+      "unresolved": false
+    },
+    {
+      "key": {
+        "uuid": "AAAAdX//4/M\u003d",
+        "filename": "res/values-af/strings.xml",
+        "patchSetId": 7
+      },
+      "lineNbr": 91,
+      "author": {
+        "id": 2597
+      },
+      "writtenOn": "2013-03-03T04:40:41Z",
+      "side": 1,
+      "message": "I looked earlier in Settings\u0027 Afrikaans translations, and I saw that the single quotes were only used in indefinite articles (\u0027n). In this case, AOSP would use double quotes",
+      "parentUuid": "AAAAdX//4/k\u003d",
       "revId": "b69abab24a34a6be059804ff66d6e5f2e6f90f61",
       "serverId": "1ec6b3db-b2c1-4fa4-84a2-4c7efe89ba71",
       "unresolved": false
