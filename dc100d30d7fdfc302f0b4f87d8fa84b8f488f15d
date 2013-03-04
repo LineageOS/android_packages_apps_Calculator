@@ -34,6 +34,24 @@
       "revId": "dc100d30d7fdfc302f0b4f87d8fa84b8f488f15d",
       "serverId": "1ec6b3db-b2c1-4fa4-84a2-4c7efe89ba71",
       "unresolved": false
+    },
+    {
+      "key": {
+        "uuid": "AAAAeH///80\u003d",
+        "filename": "res/values-es/strings.xml",
+        "patchSetId": 2
+      },
+      "lineNbr": 92,
+      "author": {
+        "id": 2134
+      },
+      "writtenOn": "2013-03-04T18:23:44Z",
+      "side": 1,
+      "message": "Bufff, I never played to Pokemon\u0027s game, I never saw any film about this and... I don\u0027t love easter eggs ;)\n\nIMHO a literal translation is better than nothing. +1 with this translation.",
+      "parentUuid": "AAAAd3///0c\u003d",
+      "revId": "dc100d30d7fdfc302f0b4f87d8fa84b8f488f15d",
+      "serverId": "1ec6b3db-b2c1-4fa4-84a2-4c7efe89ba71",
+      "unresolved": false
     }
   ]
 }
