@@ -16,6 +16,24 @@
       "revId": "dc100d30d7fdfc302f0b4f87d8fa84b8f488f15d",
       "serverId": "1ec6b3db-b2c1-4fa4-84a2-4c7efe89ba71",
       "unresolved": false
+    },
+    {
+      "key": {
+        "uuid": "AAAAd3///0c\u003d",
+        "filename": "res/values-es/strings.xml",
+        "patchSetId": 2
+      },
+      "lineNbr": 92,
+      "author": {
+        "id": 3134
+      },
+      "writtenOn": "2013-03-04T05:47:40Z",
+      "side": 1,
+      "message": "Well, it\u0027s a joke and i don\u0027t know the magical powers of Magikarp, so +1. djMesias, your decision.",
+      "parentUuid": "AAAAd3///18\u003d",
+      "revId": "dc100d30d7fdfc302f0b4f87d8fa84b8f488f15d",
+      "serverId": "1ec6b3db-b2c1-4fa4-84a2-4c7efe89ba71",
+      "unresolved": false
     }
   ]
 }
