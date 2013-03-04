@@ -1,0 +1,21 @@
+{
+  "comments": [
+    {
+      "key": {
+        "uuid": "AAAAd3///18\u003d",
+        "filename": "res/values-es/strings.xml",
+        "patchSetId": 2
+      },
+      "lineNbr": 92,
+      "author": {
+        "id": 4733
+      },
+      "writtenOn": "2013-03-04T04:38:07Z",
+      "side": 1,
+      "message": "\"Magikarp usó salpicadura....¡Es superefectivo!\" might be funnier :D",
+      "revId": "dc100d30d7fdfc302f0b4f87d8fa84b8f488f15d",
+      "serverId": "1ec6b3db-b2c1-4fa4-84a2-4c7efe89ba71",
+      "unresolved": false
+    }
+  ]
+}
