@@ -19,6 +19,24 @@
     },
     {
       "key": {
+        "uuid": "AAAAeX///J4\u003d",
+        "filename": "res/values-zh-rCN/strings.xml",
+        "patchSetId": 1
+      },
+      "lineNbr": 66,
+      "author": {
+        "id": 3589
+      },
+      "writtenOn": "2013-03-07T12:15:29Z",
+      "side": 1,
+      "message": "http://paste.ubuntu.com/5592310/",
+      "parentUuid": "AAAAeX///Kg\u003d",
+      "revId": "5f582c7b51bb2056f45a4e258d97f84d9977b842",
+      "serverId": "1ec6b3db-b2c1-4fa4-84a2-4c7efe89ba71",
+      "unresolved": false
+    },
+    {
+      "key": {
         "uuid": "AAAAeX///Ks\u003d",
         "filename": "res/values-zh-rCN/strings.xml",
         "patchSetId": 1
@@ -30,6 +48,24 @@
       "writtenOn": "2013-03-07T11:57:19Z",
       "side": 1,
       "message": "http://paste.ubuntu.com/5592281/",
+      "revId": "5f582c7b51bb2056f45a4e258d97f84d9977b842",
+      "serverId": "1ec6b3db-b2c1-4fa4-84a2-4c7efe89ba71",
+      "unresolved": false
+    },
+    {
+      "key": {
+        "uuid": "AAAAeX///KQ\u003d",
+        "filename": "res/values-zh-rCN/strings.xml",
+        "patchSetId": 1
+      },
+      "lineNbr": 85,
+      "author": {
+        "id": 3589
+      },
+      "writtenOn": "2013-03-07T12:15:29Z",
+      "side": 1,
+      "message": "Done",
+      "parentUuid": "AAAAeX///Ks\u003d",
       "revId": "5f582c7b51bb2056f45a4e258d97f84d9977b842",
       "serverId": "1ec6b3db-b2c1-4fa4-84a2-4c7efe89ba71",
       "unresolved": false
@@ -53,6 +89,24 @@
     },
     {
       "key": {
+        "uuid": "AAAAeX///KM\u003d",
+        "filename": "res/values-zh-rCN/strings.xml",
+        "patchSetId": 1
+      },
+      "lineNbr": 87,
+      "author": {
+        "id": 3589
+      },
+      "writtenOn": "2013-03-07T12:15:29Z",
+      "side": 1,
+      "message": "Done",
+      "parentUuid": "AAAAeX///Ko\u003d",
+      "revId": "5f582c7b51bb2056f45a4e258d97f84d9977b842",
+      "serverId": "1ec6b3db-b2c1-4fa4-84a2-4c7efe89ba71",
+      "unresolved": false
+    },
+    {
+      "key": {
         "uuid": "AAAAeX///Kk\u003d",
         "filename": "res/values-zh-rCN/strings.xml",
         "patchSetId": 1
@@ -64,6 +118,24 @@
       "writtenOn": "2013-03-07T11:57:19Z",
       "side": 1,
       "message": "intresting egg?hah",
+      "revId": "5f582c7b51bb2056f45a4e258d97f84d9977b842",
+      "serverId": "1ec6b3db-b2c1-4fa4-84a2-4c7efe89ba71",
+      "unresolved": false
+    },
+    {
+      "key": {
+        "uuid": "AAAAeX///KI\u003d",
+        "filename": "res/values-zh-rCN/strings.xml",
+        "patchSetId": 1
+      },
+      "lineNbr": 92,
+      "author": {
+        "id": 3589
+      },
+      "writtenOn": "2013-03-07T12:15:29Z",
+      "side": 1,
+      "message": "Yeah, Pokemon references. xD",
+      "parentUuid": "AAAAeX///Kk\u003d",
       "revId": "5f582c7b51bb2056f45a4e258d97f84d9977b842",
       "serverId": "1ec6b3db-b2c1-4fa4-84a2-4c7efe89ba71",
       "unresolved": false
