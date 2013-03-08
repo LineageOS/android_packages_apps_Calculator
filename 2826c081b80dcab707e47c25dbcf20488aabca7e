@@ -1,0 +1,21 @@
+{
+  "comments": [
+    {
+      "key": {
+        "uuid": "AAAAeX//+mA\u003d",
+        "filename": "res/values-zh-rCN/strings.xml",
+        "patchSetId": 2
+      },
+      "lineNbr": 91,
+      "author": {
+        "id": 4359
+      },
+      "writtenOn": "2013-03-08T11:50:21Z",
+      "side": 1,
+      "message": "the easter_egg, please refer to http://zhidao.baidu.com/question/529423316.html",
+      "revId": "2826c081b80dcab707e47c25dbcf20488aabca7e",
+      "serverId": "1ec6b3db-b2c1-4fa4-84a2-4c7efe89ba71",
+      "unresolved": false
+    }
+  ]
+}
