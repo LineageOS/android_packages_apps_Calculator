@@ -19,6 +19,24 @@
     },
     {
       "key": {
+        "uuid": "AAAAeX//9mw\u003d",
+        "filename": "res/values-fr/strings.xml",
+        "patchSetId": 4
+      },
+      "lineNbr": 83,
+      "author": {
+        "id": 4808
+      },
+      "writtenOn": "2013-03-10T21:05:53Z",
+      "side": 1,
+      "message": "ok",
+      "parentUuid": "AAAAeX//9m4\u003d",
+      "revId": "337570f1e195dacda814670be6bd6f6807cbc921",
+      "serverId": "1ec6b3db-b2c1-4fa4-84a2-4c7efe89ba71",
+      "unresolved": false
+    },
+    {
+      "key": {
         "uuid": "AAAAeX//9nM\u003d",
         "filename": "res/values-fr/strings.xml",
         "patchSetId": 4
@@ -30,6 +48,24 @@
       "writtenOn": "2013-03-10T21:04:28Z",
       "side": 1,
       "message": "erroné",
+      "revId": "337570f1e195dacda814670be6bd6f6807cbc921",
+      "serverId": "1ec6b3db-b2c1-4fa4-84a2-4c7efe89ba71",
+      "unresolved": false
+    },
+    {
+      "key": {
+        "uuid": "AAAAeX//9ms\u003d",
+        "filename": "res/values-fr/strings.xml",
+        "patchSetId": 4
+      },
+      "lineNbr": 87,
+      "author": {
+        "id": 4808
+      },
+      "writtenOn": "2013-03-10T21:05:53Z",
+      "side": 1,
+      "message": "ok",
+      "parentUuid": "AAAAeX//9nM\u003d",
       "revId": "337570f1e195dacda814670be6bd6f6807cbc921",
       "serverId": "1ec6b3db-b2c1-4fa4-84a2-4c7efe89ba71",
       "unresolved": false
