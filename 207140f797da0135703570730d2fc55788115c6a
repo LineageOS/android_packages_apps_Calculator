@@ -1,0 +1,38 @@
+{
+  "comments": [
+    {
+      "key": {
+        "uuid": "AAAAeX//7qg\u003d",
+        "filename": "res/values-de/strings.xml",
+        "patchSetId": 5
+      },
+      "lineNbr": 51,
+      "author": {
+        "id": 5550
+      },
+      "writtenOn": "2013-03-14T22:48:09Z",
+      "side": 1,
+      "message": "Was war denn die Motivation, anstelle von \"Det\" hier \"Best\" zu schreiben? \"Det\" als Abkürzung für die Determinante einer Matrix finde ich irgendwie geläufiger bzw. eingehender. Der Operatorname lautet ja auch \"det\", d.h. |A| :\u003d det(A). Auch in LaTeX würde \\det als mathematischen Operator hinschreiben.",
+      "revId": "207140f797da0135703570730d2fc55788115c6a",
+      "serverId": "1ec6b3db-b2c1-4fa4-84a2-4c7efe89ba71",
+      "unresolved": false
+    },
+    {
+      "key": {
+        "uuid": "AAAAeX//7qc\u003d",
+        "filename": "res/values-de/strings.xml",
+        "patchSetId": 5
+      },
+      "lineNbr": 80,
+      "author": {
+        "id": 5550
+      },
+      "writtenOn": "2013-03-14T22:48:09Z",
+      "side": 1,
+      "message": "Mir gefällt der Ausdruck \"Unnötige Funktionen\" irgendwie nicht. Die Funktionen sind ja nicht deswegen \"unnötig\", weil man sie selbst vielleicht grad nicht braucht und deswegen in den Einstellungen deaktiviert hat.\n\nWas haltet ihr von: \"Diese Funktionen können auch einzeln in den Einstellungen deaktiviert werden.\" oder \"Einzelne Funktionen können in den Einstellungen deaktiviert werden.\"?",
+      "revId": "207140f797da0135703570730d2fc55788115c6a",
+      "serverId": "1ec6b3db-b2c1-4fa4-84a2-4c7efe89ba71",
+      "unresolved": false
+    }
+  ]
+}
