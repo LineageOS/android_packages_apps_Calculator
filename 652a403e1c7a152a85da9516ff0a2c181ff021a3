@@ -1,0 +1,21 @@
+{
+  "comments": [
+    {
+      "key": {
+        "uuid": "AAAAeX//660\u003d",
+        "filename": "res/values-pl/strings.xml",
+        "patchSetId": 1
+      },
+      "lineNbr": 82,
+      "author": {
+        "id": 4449
+      },
+      "writtenOn": "2013-03-17T19:04:39Z",
+      "side": 1,
+      "message": "Heksadecymalny ?",
+      "revId": "652a403e1c7a152a85da9516ff0a2c181ff021a3",
+      "serverId": "1ec6b3db-b2c1-4fa4-84a2-4c7efe89ba71",
+      "unresolved": false
+    }
+  ]
+}
