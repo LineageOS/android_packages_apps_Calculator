@@ -1,0 +1,21 @@
+{
+  "comments": [
+    {
+      "key": {
+        "uuid": "AAAAeX//5iE\u003d",
+        "filename": "res/values-pt/strings.xml",
+        "patchSetId": 1
+      },
+      "lineNbr": 78,
+      "author": {
+        "id": 2597
+      },
+      "writtenOn": "2013-03-21T01:24:16Z",
+      "side": 1,
+      "message": "The main reason for the capital C is that (let\u0027s use the English name) \u0027Settings\u0027 refers to a specific part of Calculator (namely the app\u0027s settings) and because it\u0027s the name of a \u0027function\u0027, it needs to be written with a capital C.",
+      "revId": "a2e94cac578aa6c79172e82c1b51351719202ca4",
+      "serverId": "1ec6b3db-b2c1-4fa4-84a2-4c7efe89ba71",
+      "unresolved": false
+    }
+  ]
+}
