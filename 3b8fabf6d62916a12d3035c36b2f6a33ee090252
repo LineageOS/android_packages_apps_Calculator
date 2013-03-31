@@ -1,0 +1,21 @@
+{
+  "comments": [
+    {
+      "key": {
+        "uuid": "AAAAeX//1Yo\u003d",
+        "filename": "res/values-nl/cm_strings.xml",
+        "patchSetId": 1
+      },
+      "lineNbr": 65,
+      "author": {
+        "id": 2248
+      },
+      "writtenOn": "2013-03-31T15:13:40Z",
+      "side": 1,
+      "message": "Instellingen met hoofdletter?\n\nEn paar regels hieronder ook geavanceerd?",
+      "revId": "3b8fabf6d62916a12d3035c36b2f6a33ee090252",
+      "serverId": "1ec6b3db-b2c1-4fa4-84a2-4c7efe89ba71",
+      "unresolved": false
+    }
+  ]
+}
