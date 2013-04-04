@@ -19,6 +19,24 @@
     },
     {
       "key": {
+        "uuid": "AAAAen//+zk\u003d",
+        "filename": "res/values-fr/strings.xml",
+        "patchSetId": 1
+      },
+      "lineNbr": 22,
+      "author": {
+        "id": 4808
+      },
+      "writtenOn": "2013-04-04T22:26:55Z",
+      "side": 1,
+      "message": "It\u0027s AOSP translation, I never change the strings with msgid",
+      "parentUuid": "AAAAen///lk\u003d",
+      "revId": "9c71ac7086af2cba40a15548ee072973561cb7b8",
+      "serverId": "1ec6b3db-b2c1-4fa4-84a2-4c7efe89ba71",
+      "unresolved": false
+    },
+    {
+      "key": {
         "uuid": "AAAAen//+6w\u003d",
         "filename": "res/values-fr/strings.xml",
         "patchSetId": 1
@@ -30,6 +48,24 @@
       "writtenOn": "2013-04-04T20:05:34Z",
       "side": 1,
       "message": "without final dot it would be better I guess",
+      "revId": "9c71ac7086af2cba40a15548ee072973561cb7b8",
+      "serverId": "1ec6b3db-b2c1-4fa4-84a2-4c7efe89ba71",
+      "unresolved": false
+    },
+    {
+      "key": {
+        "uuid": "AAAAen//+zg\u003d",
+        "filename": "res/values-fr/strings.xml",
+        "patchSetId": 1
+      },
+      "lineNbr": 32,
+      "author": {
+        "id": 4808
+      },
+      "writtenOn": "2013-04-04T22:26:55Z",
+      "side": 1,
+      "message": "It\u0027s AOSP translation, I never change the strings with msgid",
+      "parentUuid": "AAAAen//+6w\u003d",
       "revId": "9c71ac7086af2cba40a15548ee072973561cb7b8",
       "serverId": "1ec6b3db-b2c1-4fa4-84a2-4c7efe89ba71",
       "unresolved": false
