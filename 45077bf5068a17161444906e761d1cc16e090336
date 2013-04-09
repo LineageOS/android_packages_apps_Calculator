@@ -1,0 +1,55 @@
+{
+  "comments": [
+    {
+      "key": {
+        "uuid": "AAAAen//9EY\u003d",
+        "filename": "res/values-cs/strings.xml",
+        "patchSetId": 1
+      },
+      "lineNbr": 84,
+      "author": {
+        "id": 3875
+      },
+      "writtenOn": "2013-04-09T15:24:32Z",
+      "side": 1,
+      "message": "posuniti \u003e posunuti",
+      "revId": "45077bf5068a17161444906e761d1cc16e090336",
+      "serverId": "1ec6b3db-b2c1-4fa4-84a2-4c7efe89ba71",
+      "unresolved": false
+    },
+    {
+      "key": {
+        "uuid": "AAAAen//9EQ\u003d",
+        "filename": "res/values-cs/strings.xml",
+        "patchSetId": 1
+      },
+      "lineNbr": 91,
+      "author": {
+        "id": 3875
+      },
+      "writtenOn": "2013-04-09T15:24:32Z",
+      "side": 1,
+      "message": "Tady nevim, jestli nedavame/nedavas Ok.",
+      "revId": "45077bf5068a17161444906e761d1cc16e090336",
+      "serverId": "1ec6b3db-b2c1-4fa4-84a2-4c7efe89ba71",
+      "unresolved": false
+    },
+    {
+      "key": {
+        "uuid": "AAAAen//9EU\u003d",
+        "filename": "res/values-cs/strings.xml",
+        "patchSetId": 1
+      },
+      "lineNbr": 93,
+      "author": {
+        "id": 3875
+      },
+      "writtenOn": "2013-04-09T15:24:32Z",
+      "side": 1,
+      "message": "? :D hezky",
+      "revId": "45077bf5068a17161444906e761d1cc16e090336",
+      "serverId": "1ec6b3db-b2c1-4fa4-84a2-4c7efe89ba71",
+      "unresolved": false
+    }
+  ]
+}
