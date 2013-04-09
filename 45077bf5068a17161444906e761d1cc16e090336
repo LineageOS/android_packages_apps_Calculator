@@ -68,6 +68,24 @@
       "revId": "45077bf5068a17161444906e761d1cc16e090336",
       "serverId": "1ec6b3db-b2c1-4fa4-84a2-4c7efe89ba71",
       "unresolved": false
+    },
+    {
+      "key": {
+        "uuid": "AAAAen//9Dk\u003d",
+        "filename": "res/values-cs/strings.xml",
+        "patchSetId": 1
+      },
+      "lineNbr": 93,
+      "author": {
+        "id": 3875
+      },
+      "writtenOn": "2013-04-09T15:47:47Z",
+      "side": 1,
+      "message": "Jo tak, ja si toho nevsiml, ja jen, co to je a nejak jsem to nepochopil :)",
+      "parentUuid": "AAAAen//9EE\u003d",
+      "revId": "45077bf5068a17161444906e761d1cc16e090336",
+      "serverId": "1ec6b3db-b2c1-4fa4-84a2-4c7efe89ba71",
+      "unresolved": false
     }
   ]
 }
