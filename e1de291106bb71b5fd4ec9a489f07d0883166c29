@@ -1,0 +1,38 @@
+{
+  "comments": [
+    {
+      "key": {
+        "uuid": "AAAAfH//+UU\u003d",
+        "filename": "res/values-ru/cm_strings.xml",
+        "patchSetId": 2
+      },
+      "lineNbr": 44,
+      "author": {
+        "id": 5574
+      },
+      "writtenOn": "2013-04-29T23:20:51Z",
+      "side": 1,
+      "message": "Mozhet, tut napisat\u0027 \"ili\" vmesto \"i\"? Kak-to logichnee budet.",
+      "revId": "e1de291106bb71b5fd4ec9a489f07d0883166c29",
+      "serverId": "1ec6b3db-b2c1-4fa4-84a2-4c7efe89ba71",
+      "unresolved": false
+    },
+    {
+      "key": {
+        "uuid": "AAAAfH//+UQ\u003d",
+        "filename": "res/values-ru/cm_strings.xml",
+        "patchSetId": 2
+      },
+      "lineNbr": 48,
+      "author": {
+        "id": 5574
+      },
+      "writtenOn": "2013-04-29T23:20:51Z",
+      "side": 1,
+      "message": "\"Nepravilniy\" -- slitno.",
+      "revId": "e1de291106bb71b5fd4ec9a489f07d0883166c29",
+      "serverId": "1ec6b3db-b2c1-4fa4-84a2-4c7efe89ba71",
+      "unresolved": false
+    }
+  ]
+}
