@@ -1,0 +1,21 @@
+{
+  "comments": [
+    {
+      "key": {
+        "uuid": "AAAAfX///x4\u003d",
+        "filename": "res/values-ru/cm_strings.xml",
+        "patchSetId": 4
+      },
+      "lineNbr": 53,
+      "author": {
+        "id": 5896
+      },
+      "writtenOn": "2013-05-01T22:13:09Z",
+      "side": 1,
+      "message": "shestnadtsaterichoy - mass typos",
+      "revId": "e6ea7dcf2f039103414b0b8eb446bcee94479258",
+      "serverId": "1ec6b3db-b2c1-4fa4-84a2-4c7efe89ba71",
+      "unresolved": false
+    }
+  ]
+}
