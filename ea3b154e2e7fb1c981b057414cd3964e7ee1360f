@@ -1,0 +1,21 @@
+{
+  "comments": [
+    {
+      "key": {
+        "uuid": "iDqTwfw",
+        "filename": "res/values-es/cm_strings.xml",
+        "patchSetId": 2
+      },
+      "lineNbr": 69,
+      "author": {
+        "id": 2134
+      },
+      "writtenOn": "2013-05-22T03:27:24Z",
+      "side": 1,
+      "message": "Not a typo \"te encuentres\" because it\u0027s not sure that the user is in another base. But not a problem , \"te encuetras\" -present- is valid too.",
+      "revId": "ea3b154e2e7fb1c981b057414cd3964e7ee1360f",
+      "serverId": "1ec6b3db-b2c1-4fa4-84a2-4c7efe89ba71",
+      "unresolved": false
+    }
+  ]
+}
