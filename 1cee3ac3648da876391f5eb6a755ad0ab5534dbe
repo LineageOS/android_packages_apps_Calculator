@@ -34,6 +34,24 @@
       "revId": "1cee3ac3648da876391f5eb6a755ad0ab5534dbe",
       "serverId": "1ec6b3db-b2c1-4fa4-84a2-4c7efe89ba71",
       "unresolved": false
+    },
+    {
+      "key": {
+        "uuid": "iNrJWq4",
+        "filename": "res/values-de/cm_strings.xml",
+        "patchSetId": 1
+      },
+      "lineNbr": 20,
+      "author": {
+        "id": 1063
+      },
+      "writtenOn": "2013-05-28T12:41:37Z",
+      "side": 1,
+      "message": "Ach verdammt, ist schon ok... man muss das als sin^ \\u2212 1, also als sin^-1 lesen :)",
+      "parentUuid": "iJrdInM",
+      "revId": "1cee3ac3648da876391f5eb6a755ad0ab5534dbe",
+      "serverId": "1ec6b3db-b2c1-4fa4-84a2-4c7efe89ba71",
+      "unresolved": false
     }
   ]
 }
