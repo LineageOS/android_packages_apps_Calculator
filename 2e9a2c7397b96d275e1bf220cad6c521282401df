@@ -19,6 +19,24 @@
     },
     {
       "key": {
+        "uuid": "dac4157f_b125abc3",
+        "filename": "res/values-nl/cm_strings.xml",
+        "patchSetId": 2
+      },
+      "lineNbr": 64,
+      "author": {
+        "id": 2881
+      },
+      "writtenOn": "2013-07-06T19:10:48Z",
+      "side": 1,
+      "message": "Hmm het gaat om de eenheid die je met de toggle kiest (RAD of DEG), dus dan moet t woord \"eenheid\" er wel bij staan vind ik.\n\nTrouwens, moeten we die eenheden op de toggle dan niet vertallen?",
+      "parentUuid": "dac4157f_114fb793",
+      "revId": "2e9a2c7397b96d275e1bf220cad6c521282401df",
+      "serverId": "1ec6b3db-b2c1-4fa4-84a2-4c7efe89ba71",
+      "unresolved": false
+    },
+    {
+      "key": {
         "uuid": "dac4157f_f13a03e7",
         "filename": "res/values-nl/cm_strings.xml",
         "patchSetId": 2
