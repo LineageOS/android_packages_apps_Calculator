@@ -16,6 +16,24 @@
       "revId": "844ab8448bd8e72c5a57f7885469522d502b0297",
       "serverId": "1ec6b3db-b2c1-4fa4-84a2-4c7efe89ba71",
       "unresolved": false
+    },
+    {
+      "key": {
+        "uuid": "dac4157f_f16c430a",
+        "filename": "res/values-nl/cm_strings.xml",
+        "patchSetId": 1
+      },
+      "lineNbr": 64,
+      "author": {
+        "id": 2881
+      },
+      "writtenOn": "2013-07-06T18:50:02Z",
+      "side": 1,
+      "message": "Groepering\n\nhttps://nl.wikipedia.org/wiki/Decimaal#Groepering",
+      "parentUuid": "dac4157f_b1db6bed",
+      "revId": "844ab8448bd8e72c5a57f7885469522d502b0297",
+      "serverId": "1ec6b3db-b2c1-4fa4-84a2-4c7efe89ba71",
+      "unresolved": false
     }
   ]
 }
