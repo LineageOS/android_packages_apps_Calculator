@@ -37,6 +37,24 @@
     },
     {
       "key": {
+        "uuid": "dac4157f_d116df54",
+        "filename": "res/values-nl/cm_strings.xml",
+        "patchSetId": 2
+      },
+      "lineNbr": 64,
+      "author": {
+        "id": 2597
+      },
+      "writtenOn": "2013-07-06T19:15:51Z",
+      "side": 1,
+      "message": "Deze functie staat onderaan het kopje \u0027Eenheden\u0027 (r. 60 - pref_units). Lijkt mij duidelijk genoeg?",
+      "parentUuid": "dac4157f_b125abc3",
+      "revId": "2e9a2c7397b96d275e1bf220cad6c521282401df",
+      "serverId": "1ec6b3db-b2c1-4fa4-84a2-4c7efe89ba71",
+      "unresolved": false
+    },
+    {
+      "key": {
         "uuid": "dac4157f_f13a03e7",
         "filename": "res/values-nl/cm_strings.xml",
         "patchSetId": 2
