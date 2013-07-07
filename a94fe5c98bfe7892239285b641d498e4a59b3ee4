@@ -1,0 +1,21 @@
+{
+  "comments": [
+    {
+      "key": {
+        "uuid": "dac4157f_ec3a26e7",
+        "filename": "res/values-ru/cm_strings.xml",
+        "patchSetId": 2
+      },
+      "lineNbr": 48,
+      "author": {
+        "id": 5896
+      },
+      "writtenOn": "2013-07-07T14:21:22Z",
+      "side": 1,
+      "message": "\"Gruppirovka tsyfr\" bylo by nemnogo nonyatnee.",
+      "revId": "a94fe5c98bfe7892239285b641d498e4a59b3ee4",
+      "serverId": "1ec6b3db-b2c1-4fa4-84a2-4c7efe89ba71",
+      "unresolved": false
+    }
+  ]
+}
