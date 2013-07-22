@@ -1,0 +1,21 @@
+{
+  "comments": [
+    {
+      "key": {
+        "uuid": "5ad0253b_75af08e4",
+        "filename": "res/values-zh-rTW/cm_strings.xml",
+        "patchSetId": 3
+      },
+      "lineNbr": 17,
+      "author": {
+        "id": 4280
+      },
+      "writtenOn": "2013-07-22T22:51:16Z",
+      "side": 1,
+      "message": "This line is Simplified Chinese.",
+      "revId": "6eede88c5ca5ebce7ea89d99c34783fd9c14e1e5",
+      "serverId": "1ec6b3db-b2c1-4fa4-84a2-4c7efe89ba71",
+      "unresolved": false
+    }
+  ]
+}
