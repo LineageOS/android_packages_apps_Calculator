@@ -33,6 +33,24 @@
       "revId": "1b991c573a2e7bd09bc8ba66b44d020f1b8f3c9f",
       "serverId": "1ec6b3db-b2c1-4fa4-84a2-4c7efe89ba71",
       "unresolved": false
+    },
+    {
+      "key": {
+        "uuid": "7a016987_ba43396c",
+        "filename": "src/com/android/calculator2/EventListener.java",
+        "patchSetId": 1
+      },
+      "lineNbr": 287,
+      "author": {
+        "id": 6938
+      },
+      "writtenOn": "2013-09-15T03:49:36Z",
+      "side": 1,
+      "message": "sorry one last thing the if statement needs to start with the same indentation as View v also.",
+      "parentUuid": "7a016987_fa49b18f",
+      "revId": "1b991c573a2e7bd09bc8ba66b44d020f1b8f3c9f",
+      "serverId": "1ec6b3db-b2c1-4fa4-84a2-4c7efe89ba71",
+      "unresolved": false
     }
   ]
 }
