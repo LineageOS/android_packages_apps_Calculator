@@ -16,6 +16,23 @@
       "revId": "1b991c573a2e7bd09bc8ba66b44d020f1b8f3c9f",
       "serverId": "1ec6b3db-b2c1-4fa4-84a2-4c7efe89ba71",
       "unresolved": false
+    },
+    {
+      "key": {
+        "uuid": "7a016987_fa49b18f",
+        "filename": "src/com/android/calculator2/EventListener.java",
+        "patchSetId": 1
+      },
+      "lineNbr": 287,
+      "author": {
+        "id": 6938
+      },
+      "writtenOn": "2013-09-15T03:48:14Z",
+      "side": 1,
+      "message": "Also your bracket here doesn\u0027t match the start if the if statement, but should be fixed once you correct the spacing.\n\nBracket needs to be directly under the if",
+      "revId": "1b991c573a2e7bd09bc8ba66b44d020f1b8f3c9f",
+      "serverId": "1ec6b3db-b2c1-4fa4-84a2-4c7efe89ba71",
+      "unresolved": false
     }
   ]
 }
