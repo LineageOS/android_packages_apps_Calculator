@@ -19,6 +19,24 @@
     },
     {
       "key": {
+        "uuid": "3afb71cf_c4a5feb5",
+        "filename": "res/values-es/cm_strings.xml",
+        "patchSetId": 1
+      },
+      "lineNbr": 81,
+      "author": {
+        "id": 3134
+      },
+      "writtenOn": "2013-09-24T10:44:43Z",
+      "side": 1,
+      "message": "Ok. Let me a pair of days",
+      "parentUuid": "3afb71cf_84e14601",
+      "revId": "fe5b5cd03809cf9d0c0ad0b77b494952086da939",
+      "serverId": "1ec6b3db-b2c1-4fa4-84a2-4c7efe89ba71",
+      "unresolved": false
+    },
+    {
+      "key": {
         "uuid": "3afb71cf_64e76a13",
         "filename": "res/values-es/cm_strings.xml",
         "patchSetId": 1
