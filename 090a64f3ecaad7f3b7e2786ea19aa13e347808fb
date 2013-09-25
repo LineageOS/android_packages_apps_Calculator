@@ -16,6 +16,24 @@
       "revId": "090a64f3ecaad7f3b7e2786ea19aa13e347808fb",
       "serverId": "1ec6b3db-b2c1-4fa4-84a2-4c7efe89ba71",
       "unresolved": false
+    },
+    {
+      "key": {
+        "uuid": "3afb71cf_ea2563ae",
+        "filename": "res/values-af/cm_strings.xml",
+        "patchSetId": 4
+      },
+      "lineNbr": 81,
+      "author": {
+        "id": 3269
+      },
+      "writtenOn": "2013-09-25T07:14:55Z",
+      "side": 1,
+      "message": "I understood it incorrectly, apologies. I changed it back to , which it should be. I have fixed it and will re-upload.",
+      "parentUuid": "3afb71cf_a711e45f",
+      "revId": "090a64f3ecaad7f3b7e2786ea19aa13e347808fb",
+      "serverId": "1ec6b3db-b2c1-4fa4-84a2-4c7efe89ba71",
+      "unresolved": false
     }
   ]
 }
