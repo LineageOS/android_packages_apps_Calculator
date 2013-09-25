@@ -1,0 +1,21 @@
+{
+  "comments": [
+    {
+      "key": {
+        "uuid": "3afb71cf_a711e45f",
+        "filename": "res/values-af/cm_strings.xml",
+        "patchSetId": 4
+      },
+      "lineNbr": 81,
+      "author": {
+        "id": 5633
+      },
+      "writtenOn": "2013-09-25T06:55:53Z",
+      "side": 1,
+      "message": "Add \u003cstring name\u003d\"dot\"\u003e,\u003c/string\u003e\n\nOr whatever a decimal point is. dot has to be different from dec_separator, bin_separator, hex_separator, and matrix_separator.",
+      "revId": "090a64f3ecaad7f3b7e2786ea19aa13e347808fb",
+      "serverId": "1ec6b3db-b2c1-4fa4-84a2-4c7efe89ba71",
+      "unresolved": false
+    }
+  ]
+}
