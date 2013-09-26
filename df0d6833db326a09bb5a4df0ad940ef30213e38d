@@ -33,6 +33,24 @@
       "revId": "df0d6833db326a09bb5a4df0ad940ef30213e38d",
       "serverId": "1ec6b3db-b2c1-4fa4-84a2-4c7efe89ba71",
       "unresolved": false
+    },
+    {
+      "key": {
+        "uuid": "3afb71cf_2d06f520",
+        "filename": "res/values-de/cm_strings.xml",
+        "patchSetId": 1
+      },
+      "lineNbr": 82,
+      "author": {
+        "id": 1053
+      },
+      "writtenOn": "2013-09-26T06:58:54Z",
+      "side": 1,
+      "message": "Denke auch das das so üblich ist. Das wurde von Will Harmon so \"übersetzt\".",
+      "parentUuid": "3afb71cf_ad11c55f",
+      "revId": "df0d6833db326a09bb5a4df0ad940ef30213e38d",
+      "serverId": "1ec6b3db-b2c1-4fa4-84a2-4c7efe89ba71",
+      "unresolved": false
     }
   ]
 }
