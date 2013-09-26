@@ -1,0 +1,21 @@
+{
+  "comments": [
+    {
+      "key": {
+        "uuid": "3afb71cf_18eff5b1",
+        "filename": "res/values-es/cm_strings.xml",
+        "patchSetId": 2
+      },
+      "lineNbr": 86,
+      "author": {
+        "id": 1053
+      },
+      "writtenOn": "2013-09-26T18:37:18Z",
+      "side": 1,
+      "message": "matrix_separator must be different from dec_separator",
+      "revId": "86c2b2f4315ed23f0c9e496f2da31046ae8baa21",
+      "serverId": "1ec6b3db-b2c1-4fa4-84a2-4c7efe89ba71",
+      "unresolved": false
+    }
+  ]
+}
