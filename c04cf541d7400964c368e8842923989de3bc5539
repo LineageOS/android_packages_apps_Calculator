@@ -16,6 +16,24 @@
       "revId": "c04cf541d7400964c368e8842923989de3bc5539",
       "serverId": "1ec6b3db-b2c1-4fa4-84a2-4c7efe89ba71",
       "unresolved": false
+    },
+    {
+      "key": {
+        "uuid": "da37b569_c1ce42b4",
+        "filename": "res/values-fr/cm_strings.xml",
+        "patchSetId": 2
+      },
+      "lineNbr": 36,
+      "author": {
+        "id": 4808
+      },
+      "writtenOn": "2013-09-27T09:48:46Z",
+      "side": 1,
+      "message": "oui, je comprenais pas mais c\u0027est en dessous ;)",
+      "parentUuid": "da37b569_61ddf66f",
+      "revId": "c04cf541d7400964c368e8842923989de3bc5539",
+      "serverId": "1ec6b3db-b2c1-4fa4-84a2-4c7efe89ba71",
+      "unresolved": false
     }
   ]
 }
