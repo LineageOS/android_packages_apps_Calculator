@@ -1,0 +1,21 @@
+{
+  "comments": [
+    {
+      "key": {
+        "uuid": "da37b569_61ddf66f",
+        "filename": "res/values-fr/cm_strings.xml",
+        "patchSetId": 2
+      },
+      "lineNbr": 36,
+      "author": {
+        "id": 4045
+      },
+      "writtenOn": "2013-09-27T09:43:37Z",
+      "side": 1,
+      "message": "Masquer ? (désolé de sortir ça mais je l\u0027ai remarqué en ouvrant l\u0027app.. :))",
+      "revId": "c04cf541d7400964c368e8842923989de3bc5539",
+      "serverId": "1ec6b3db-b2c1-4fa4-84a2-4c7efe89ba71",
+      "unresolved": false
+    }
+  ]
+}
