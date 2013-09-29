@@ -1,0 +1,21 @@
+{
+  "comments": [
+    {
+      "key": {
+        "uuid": "da37b569_956f1492",
+        "filename": "src/com/android/calculator2/Preferences.java",
+        "patchSetId": 2
+      },
+      "lineNbr": 36,
+      "author": {
+        "id": 4884
+      },
+      "writtenOn": "2013-09-29T22:32:52Z",
+      "side": 1,
+      "message": "Isn\u0027t it better to use just an if function because we only have one case for the switch.\n\nif (item.getItemId() \u003d\u003d android.R.id.home) {\n    startActivity(new Intent(this, Calculator.class));\n    finish();\n    return true;\n}",
+      "revId": "e17ee41f52cb2ed09e9ebf40731d57c40fae28bc",
+      "serverId": "1ec6b3db-b2c1-4fa4-84a2-4c7efe89ba71",
+      "unresolved": false
+    }
+  ]
+}
