@@ -19,6 +19,24 @@
     },
     {
       "key": {
+        "uuid": "9a41bdd9_051d1673",
+        "filename": "res/values-nl/cm_strings.xml",
+        "patchSetId": 1
+      },
+      "lineNbr": 28,
+      "author": {
+        "id": 2597
+      },
+      "writtenOn": "2013-10-06T23:14:32Z",
+      "side": 1,
+      "message": "Done",
+      "parentUuid": "9a41bdd9_85da8677",
+      "revId": "4380308f6c9f2b344fcc9d4e9cbff5d1c6beb271",
+      "serverId": "1ec6b3db-b2c1-4fa4-84a2-4c7efe89ba71",
+      "unresolved": false
+    },
+    {
+      "key": {
         "uuid": "9a41bdd9_458d5e7a",
         "filename": "res/values-nl/cm_strings.xml",
         "patchSetId": 1
@@ -30,6 +48,24 @@
       "writtenOn": "2013-10-06T06:14:52Z",
       "side": 1,
       "message": "in het Engels is dit veranderd naar \"det\"",
+      "revId": "4380308f6c9f2b344fcc9d4e9cbff5d1c6beb271",
+      "serverId": "1ec6b3db-b2c1-4fa4-84a2-4c7efe89ba71",
+      "unresolved": false
+    },
+    {
+      "key": {
+        "uuid": "9a41bdd9_a511ca5f",
+        "filename": "res/values-nl/cm_strings.xml",
+        "patchSetId": 1
+      },
+      "lineNbr": 43,
+      "author": {
+        "id": 2597
+      },
+      "writtenOn": "2013-10-06T23:14:32Z",
+      "side": 1,
+      "message": "Done",
+      "parentUuid": "9a41bdd9_458d5e7a",
       "revId": "4380308f6c9f2b344fcc9d4e9cbff5d1c6beb271",
       "serverId": "1ec6b3db-b2c1-4fa4-84a2-4c7efe89ba71",
       "unresolved": false
@@ -53,6 +89,24 @@
     },
     {
       "key": {
+        "uuid": "9a41bdd9_c5164e55",
+        "filename": "res/values-nl/cm_strings.xml",
+        "patchSetId": 1
+      },
+      "lineNbr": 63,
+      "author": {
+        "id": 2597
+      },
+      "writtenOn": "2013-10-06T23:14:32Z",
+      "side": 1,
+      "message": "Done",
+      "parentUuid": "9a41bdd9_e5e83219",
+      "revId": "4380308f6c9f2b344fcc9d4e9cbff5d1c6beb271",
+      "serverId": "1ec6b3db-b2c1-4fa4-84a2-4c7efe89ba71",
+      "unresolved": false
+    },
+    {
+      "key": {
         "uuid": "9a41bdd9_05ee7622",
         "filename": "res/values-nl/cm_strings.xml",
         "patchSetId": 1
@@ -64,6 +118,24 @@
       "writtenOn": "2013-10-06T06:14:52Z",
       "side": 1,
       "message": "easter_egg string moet de laatste zijn",
+      "revId": "4380308f6c9f2b344fcc9d4e9cbff5d1c6beb271",
+      "serverId": "1ec6b3db-b2c1-4fa4-84a2-4c7efe89ba71",
+      "unresolved": false
+    },
+    {
+      "key": {
+        "uuid": "9a41bdd9_650c2243",
+        "filename": "res/values-nl/cm_strings.xml",
+        "patchSetId": 1
+      },
+      "lineNbr": 81,
+      "author": {
+        "id": 2597
+      },
+      "writtenOn": "2013-10-06T23:14:32Z",
+      "side": 1,
+      "message": "Done",
+      "parentUuid": "9a41bdd9_05ee7622",
       "revId": "4380308f6c9f2b344fcc9d4e9cbff5d1c6beb271",
       "serverId": "1ec6b3db-b2c1-4fa4-84a2-4c7efe89ba71",
       "unresolved": false
@@ -105,6 +177,24 @@
     },
     {
       "key": {
+        "uuid": "9a41bdd9_08044b13",
+        "filename": "res/values-nl/cm_strings.xml",
+        "patchSetId": 1
+      },
+      "lineNbr": 82,
+      "author": {
+        "id": 2597
+      },
+      "writtenOn": "2013-10-06T23:14:32Z",
+      "side": 1,
+      "message": "Done",
+      "parentUuid": "9a41bdd9_052bd683",
+      "revId": "4380308f6c9f2b344fcc9d4e9cbff5d1c6beb271",
+      "serverId": "1ec6b3db-b2c1-4fa4-84a2-4c7efe89ba71",
+      "unresolved": false
+    },
+    {
+      "key": {
         "uuid": "9a41bdd9_25e7fa41",
         "filename": "res/values-nl/cm_strings.xml",
         "patchSetId": 1
@@ -116,6 +206,24 @@
       "writtenOn": "2013-10-06T06:14:52Z",
       "side": 1,
       "message": "In het Engels is dit een \",\"\nWaarom in het NL dan niet een \".\" ?",
+      "revId": "4380308f6c9f2b344fcc9d4e9cbff5d1c6beb271",
+      "serverId": "1ec6b3db-b2c1-4fa4-84a2-4c7efe89ba71",
+      "unresolved": false
+    },
+    {
+      "key": {
+        "uuid": "9a41bdd9_e8fec704",
+        "filename": "res/values-nl/cm_strings.xml",
+        "patchSetId": 1
+      },
+      "lineNbr": 86,
+      "author": {
+        "id": 2597
+      },
+      "writtenOn": "2013-10-06T23:14:32Z",
+      "side": 1,
+      "message": "Done",
+      "parentUuid": "9a41bdd9_25e7fa41",
       "revId": "4380308f6c9f2b344fcc9d4e9cbff5d1c6beb271",
       "serverId": "1ec6b3db-b2c1-4fa4-84a2-4c7efe89ba71",
       "unresolved": false
