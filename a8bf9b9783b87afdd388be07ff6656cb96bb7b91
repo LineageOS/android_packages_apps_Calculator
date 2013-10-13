@@ -1,0 +1,21 @@
+{
+  "comments": [
+    {
+      "key": {
+        "uuid": "3a50d1a3_e230220a",
+        "filename": "res/values-sk/cm_strings.xml",
+        "patchSetId": 1
+      },
+      "lineNbr": 84,
+      "author": {
+        "id": 2597
+      },
+      "writtenOn": "2013-10-13T03:16:13Z",
+      "side": 1,
+      "message": "If you would write \u0027two thousand euros and 50 cents\u0027 in Slovak, would that be:\n\n- € 2.000,50\n\nor:\n\n- € 2,000.50\n\n?",
+      "revId": "a8bf9b9783b87afdd388be07ff6656cb96bb7b91",
+      "serverId": "1ec6b3db-b2c1-4fa4-84a2-4c7efe89ba71",
+      "unresolved": false
+    }
+  ]
+}
