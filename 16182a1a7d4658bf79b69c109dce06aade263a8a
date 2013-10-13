@@ -1,0 +1,21 @@
+{
+  "comments": [
+    {
+      "key": {
+        "uuid": "3a50d1a3_65d17cfb",
+        "filename": "res/values-ug/cm_strings.xml",
+        "patchSetId": 1
+      },
+      "lineNbr": 0,
+      "author": {
+        "id": 2597
+      },
+      "writtenOn": "2013-10-13T04:22:53Z",
+      "side": 1,
+      "message": "Please remove comments/whitelines",
+      "revId": "16182a1a7d4658bf79b69c109dce06aade263a8a",
+      "serverId": "1ec6b3db-b2c1-4fa4-84a2-4c7efe89ba71",
+      "unresolved": false
+    }
+  ]
+}
