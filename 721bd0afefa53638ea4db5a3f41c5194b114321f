@@ -104,6 +104,24 @@
       "revId": "721bd0afefa53638ea4db5a3f41c5194b114321f",
       "serverId": "1ec6b3db-b2c1-4fa4-84a2-4c7efe89ba71",
       "unresolved": false
+    },
+    {
+      "key": {
+        "uuid": "3a50d1a3_16d8ec52",
+        "filename": "res/values-nl/cm_strings.xml",
+        "patchSetId": 2
+      },
+      "lineNbr": 83,
+      "author": {
+        "id": 2881
+      },
+      "writtenOn": "2013-10-15T06:28:42Z",
+      "side": 1,
+      "message": "binair is alleen 0 en 1 en een scheidingsteken daartussen mag/moet een spatie zijn\n\nbij hex geldt hetzelfde (bijv. FF 00 00)",
+      "parentUuid": "3a50d1a3_b657b8c9",
+      "revId": "721bd0afefa53638ea4db5a3f41c5194b114321f",
+      "serverId": "1ec6b3db-b2c1-4fa4-84a2-4c7efe89ba71",
+      "unresolved": false
     }
   ]
 }
