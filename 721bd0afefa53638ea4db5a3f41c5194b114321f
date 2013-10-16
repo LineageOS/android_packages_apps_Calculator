@@ -122,6 +122,24 @@
       "revId": "721bd0afefa53638ea4db5a3f41c5194b114321f",
       "serverId": "1ec6b3db-b2c1-4fa4-84a2-4c7efe89ba71",
       "unresolved": false
+    },
+    {
+      "key": {
+        "uuid": "3a50d1a3_f181ca4e",
+        "filename": "res/values-nl/cm_strings.xml",
+        "patchSetId": 2
+      },
+      "lineNbr": 83,
+      "author": {
+        "id": 2597
+      },
+      "writtenOn": "2013-10-16T07:28:35Z",
+      "side": 1,
+      "message": "Je hebt gelijk. Done",
+      "parentUuid": "3a50d1a3_16d8ec52",
+      "revId": "721bd0afefa53638ea4db5a3f41c5194b114321f",
+      "serverId": "1ec6b3db-b2c1-4fa4-84a2-4c7efe89ba71",
+      "unresolved": false
     }
   ]
 }
