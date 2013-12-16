@@ -1,0 +1,38 @@
+{
+  "comments": [
+    {
+      "key": {
+        "uuid": "7a740942_55b67b3e",
+        "filename": "res/values-lt/cm_strings.xml",
+        "patchSetId": 1
+      },
+      "lineNbr": 2,
+      "author": {
+        "id": 2597
+      },
+      "writtenOn": "2013-12-16T05:26:56Z",
+      "side": 1,
+      "message": "Please use new copyright notice",
+      "revId": "ea40f9ca9f9adb47ad400099e9e6d2628b7407aa",
+      "serverId": "1ec6b3db-b2c1-4fa4-84a2-4c7efe89ba71",
+      "unresolved": false
+    },
+    {
+      "key": {
+        "uuid": "7a740942_15879362",
+        "filename": "res/values-lt/strings.xml",
+        "patchSetId": 1
+      },
+      "lineNbr": 32,
+      "author": {
+        "id": 2597
+      },
+      "writtenOn": "2013-12-16T05:26:56Z",
+      "side": 1,
+      "message": "Please put this change seperately",
+      "revId": "ea40f9ca9f9adb47ad400099e9e6d2628b7407aa",
+      "serverId": "1ec6b3db-b2c1-4fa4-84a2-4c7efe89ba71",
+      "unresolved": false
+    }
+  ]
+}
