@@ -1,0 +1,21 @@
+{
+  "comments": [
+    {
+      "key": {
+        "uuid": "3a7e1126_d5c6ee15",
+        "filename": "res/values-th/cm_strings.xml",
+        "patchSetId": 3
+      },
+      "lineNbr": 84,
+      "author": {
+        "id": 2597
+      },
+      "writtenOn": "2013-12-21T08:50:49Z",
+      "side": 1,
+      "message": "Please remove these items",
+      "revId": "2a4e2086d6a9593e776ab6b61e5ca859dc7c218e",
+      "serverId": "1ec6b3db-b2c1-4fa4-84a2-4c7efe89ba71",
+      "unresolved": false
+    }
+  ]
+}
