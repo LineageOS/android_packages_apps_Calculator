@@ -1,0 +1,157 @@
+{
+  "comments": [
+    {
+      "key": {
+        "uuid": "7af24918_2f09662d",
+        "filename": "res/anim/blank.xml",
+        "patchSetId": 2
+      },
+      "lineNbr": 1,
+      "author": {
+        "id": 1579
+      },
+      "writtenOn": "2014-04-17T08:56:05Z",
+      "side": 1,
+      "message": "trailing whitespace",
+      "revId": "02bcf18ae43819b7c50eebeaa4e5f42304a4537f",
+      "serverId": "1ec6b3db-b2c1-4fa4-84a2-4c7efe89ba71",
+      "unresolved": false
+    },
+    {
+      "key": {
+        "uuid": "7af24918_0f0e2a34",
+        "filename": "res/color/vpi__dark_theme.xml",
+        "patchSetId": 2
+      },
+      "lineNbr": 7,
+      "author": {
+        "id": 1579
+      },
+      "writtenOn": "2014-04-17T08:56:05Z",
+      "side": 1,
+      "message": "whitespace",
+      "revId": "02bcf18ae43819b7c50eebeaa4e5f42304a4537f",
+      "serverId": "1ec6b3db-b2c1-4fa4-84a2-4c7efe89ba71",
+      "unresolved": false
+    },
+    {
+      "key": {
+        "uuid": "7af24918_6f136e5d",
+        "filename": "res/color/vpi__dark_theme.xml",
+        "patchSetId": 2
+      },
+      "lineNbr": 9,
+      "author": {
+        "id": 1579
+      },
+      "writtenOn": "2014-04-17T08:56:05Z",
+      "side": 1,
+      "message": "whitespace",
+      "revId": "02bcf18ae43819b7c50eebeaa4e5f42304a4537f",
+      "serverId": "1ec6b3db-b2c1-4fa4-84a2-4c7efe89ba71",
+      "unresolved": false
+    },
+    {
+      "key": {
+        "uuid": "7af24918_4f10324f",
+        "filename": "res/color/vpi__light_theme.xml",
+        "patchSetId": 2
+      },
+      "lineNbr": 7,
+      "author": {
+        "id": 1579
+      },
+      "writtenOn": "2014-04-17T08:56:05Z",
+      "side": 1,
+      "message": "whitespace",
+      "revId": "02bcf18ae43819b7c50eebeaa4e5f42304a4537f",
+      "serverId": "1ec6b3db-b2c1-4fa4-84a2-4c7efe89ba71",
+      "unresolved": false
+    },
+    {
+      "key": {
+        "uuid": "7af24918_af1d7668",
+        "filename": "res/color/vpi__light_theme.xml",
+        "patchSetId": 2
+      },
+      "lineNbr": 9,
+      "author": {
+        "id": 1579
+      },
+      "writtenOn": "2014-04-17T08:56:05Z",
+      "side": 1,
+      "message": "whitespace",
+      "revId": "02bcf18ae43819b7c50eebeaa4e5f42304a4537f",
+      "serverId": "1ec6b3db-b2c1-4fa4-84a2-4c7efe89ba71",
+      "unresolved": false
+    },
+    {
+      "key": {
+        "uuid": "7af24918_8f1a3a6d",
+        "filename": "res/color/vpi__light_theme.xml",
+        "patchSetId": 2
+      },
+      "lineNbr": 24,
+      "author": {
+        "id": 1579
+      },
+      "writtenOn": "2014-04-17T08:56:05Z",
+      "side": 1,
+      "message": "whitespace",
+      "revId": "02bcf18ae43819b7c50eebeaa4e5f42304a4537f",
+      "serverId": "1ec6b3db-b2c1-4fa4-84a2-4c7efe89ba71",
+      "unresolved": false
+    },
+    {
+      "key": {
+        "uuid": "7af24918_ef25beae",
+        "filename": "res/drawable/vpi__tab_indicator.xml",
+        "patchSetId": 2
+      },
+      "lineNbr": 7,
+      "author": {
+        "id": 1579
+      },
+      "writtenOn": "2014-04-17T08:56:05Z",
+      "side": 1,
+      "message": "whitespace",
+      "revId": "02bcf18ae43819b7c50eebeaa4e5f42304a4537f",
+      "serverId": "1ec6b3db-b2c1-4fa4-84a2-4c7efe89ba71",
+      "unresolved": false
+    },
+    {
+      "key": {
+        "uuid": "7af24918_cf2a827e",
+        "filename": "res/drawable/vpi__tab_indicator.xml",
+        "patchSetId": 2
+      },
+      "lineNbr": 9,
+      "author": {
+        "id": 1579
+      },
+      "writtenOn": "2014-04-17T08:56:05Z",
+      "side": 1,
+      "message": "whitespace",
+      "revId": "02bcf18ae43819b7c50eebeaa4e5f42304a4537f",
+      "serverId": "1ec6b3db-b2c1-4fa4-84a2-4c7efe89ba71",
+      "unresolved": false
+    },
+    {
+      "key": {
+        "uuid": "7af24918_2f20469b",
+        "filename": "src/com/android/calculator2/BaseModule.java",
+        "patchSetId": 2
+      },
+      "lineNbr": 31,
+      "author": {
+        "id": 1579
+      },
+      "writtenOn": "2014-04-17T08:56:05Z",
+      "side": 1,
+      "message": "100 chars",
+      "revId": "02bcf18ae43819b7c50eebeaa4e5f42304a4537f",
+      "serverId": "1ec6b3db-b2c1-4fa4-84a2-4c7efe89ba71",
+      "unresolved": false
+    }
+  ]
+}
