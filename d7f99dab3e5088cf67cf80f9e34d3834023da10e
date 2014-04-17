@@ -1,0 +1,21 @@
+{
+  "comments": [
+    {
+      "key": {
+        "uuid": "7af24918_0f5f4a73",
+        "filename": "src/com/android/calculator2/Calculator.java",
+        "patchSetId": 4
+      },
+      "lineNbr": 74,
+      "author": {
+        "id": 1579
+      },
+      "writtenOn": "2014-04-17T22:00:55Z",
+      "side": 0,
+      "message": "Is this removed permanently on purpose instead of move to Page.jave as SmallPanel or LargePanel?\n\nI\u0027m asking because tests/src/com/android/calculator2/CalculatorHitSomeButtons.java still using it, causes compilation error when do a mmm(p) for debugging, that\u0027s kinda pita.",
+      "revId": "d7f99dab3e5088cf67cf80f9e34d3834023da10e",
+      "serverId": "1ec6b3db-b2c1-4fa4-84a2-4c7efe89ba71",
+      "unresolved": false
+    }
+  ]
+}
