@@ -1,0 +1,21 @@
+{
+  "comments": [
+    {
+      "key": {
+        "uuid": "7af24918_ef8e5e26",
+        "filename": "src/com/android/calculator2/BaseModule.java",
+        "patchSetId": 4
+      },
+      "lineNbr": 31,
+      "author": {
+        "id": 8640
+      },
+      "writtenOn": "2014-04-17T14:42:39Z",
+      "side": 1,
+      "message": "These two lines need to be wraped. \nJust do a return after a comma and indent 8 spaces from mBanned and do the next line etc.",
+      "revId": "bb0c82e8a7403ff5a3ff35be6f4e4795b0460a06",
+      "serverId": "1ec6b3db-b2c1-4fa4-84a2-4c7efe89ba71",
+      "unresolved": false
+    }
+  ]
+}
