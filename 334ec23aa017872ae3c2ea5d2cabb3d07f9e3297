@@ -1,0 +1,21 @@
+{
+  "comments": [
+    {
+      "key": {
+        "uuid": "7af24918_ac9c616a",
+        "filename": "src/com/android/calculator2/BaseModule.java",
+        "patchSetId": 7
+      },
+      "lineNbr": 30,
+      "author": {
+        "id": 8640
+      },
+      "writtenOn": "2014-04-18T14:24:13Z",
+      "side": 1,
+      "message": "Try looking here. If it wraps around then it is too long. This line and the one below need fixed.",
+      "revId": "334ec23aa017872ae3c2ea5d2cabb3d07f9e3297",
+      "serverId": "1ec6b3db-b2c1-4fa4-84a2-4c7efe89ba71",
+      "unresolved": false
+    }
+  ]
+}
