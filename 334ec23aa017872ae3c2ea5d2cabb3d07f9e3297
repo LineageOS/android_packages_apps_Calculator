@@ -16,6 +16,23 @@
       "revId": "334ec23aa017872ae3c2ea5d2cabb3d07f9e3297",
       "serverId": "1ec6b3db-b2c1-4fa4-84a2-4c7efe89ba71",
       "unresolved": false
+    },
+    {
+      "key": {
+        "uuid": "7af24918_8cf8857e",
+        "filename": "src/com/android/calculator2/BitmapTask.java",
+        "patchSetId": 7
+      },
+      "lineNbr": 27,
+      "author": {
+        "id": 1579
+      },
+      "writtenOn": "2014-04-19T01:34:04Z",
+      "side": 1,
+      "message": "Will, could you please follow CyanogenMod code style convention as David Hacker commented.\n\nline should be wrapped at 100 chars.",
+      "revId": "334ec23aa017872ae3c2ea5d2cabb3d07f9e3297",
+      "serverId": "1ec6b3db-b2c1-4fa4-84a2-4c7efe89ba71",
+      "unresolved": false
     }
   ]
 }
