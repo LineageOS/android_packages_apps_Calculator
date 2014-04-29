@@ -1,0 +1,21 @@
+{
+  "comments": [
+    {
+      "key": {
+        "uuid": "7af24918_c9e2749f",
+        "filename": "res/values/theme_strings.xml",
+        "patchSetId": 11
+      },
+      "lineNbr": 3,
+      "author": {
+        "id": 1579
+      },
+      "writtenOn": "2014-04-29T00:26:11Z",
+      "side": 1,
+      "message": "Shouldn\u0027t that be commenting out until CyanogenMod\u0027s engine support it?",
+      "revId": "bf4524d87d76c738030dde4feaeea7c1156a6732",
+      "serverId": "1ec6b3db-b2c1-4fa4-84a2-4c7efe89ba71",
+      "unresolved": false
+    }
+  ]
+}
