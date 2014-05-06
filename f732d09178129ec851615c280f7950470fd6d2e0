@@ -1,0 +1,106 @@
+{
+  "comments": [
+    {
+      "key": {
+        "uuid": "3afc51ec_eb0dbd38",
+        "filename": "res/anim/activity_close_enter.xml",
+        "patchSetId": 18
+      },
+      "lineNbr": 0,
+      "author": {
+        "id": 5678
+      },
+      "writtenOn": "2014-05-06T05:24:59Z",
+      "side": 1,
+      "message": "Only indentation changes, why add a copyright?",
+      "revId": "f732d09178129ec851615c280f7950470fd6d2e0",
+      "serverId": "1ec6b3db-b2c1-4fa4-84a2-4c7efe89ba71",
+      "unresolved": false
+    },
+    {
+      "key": {
+        "uuid": "3afc51ec_4b13115d",
+        "filename": "res/anim/activity_close_exit.xml",
+        "patchSetId": 18
+      },
+      "lineNbr": 0,
+      "author": {
+        "id": 5678
+      },
+      "writtenOn": "2014-05-06T05:24:59Z",
+      "side": 1,
+      "message": "Only indentation changes, why add a copyright?",
+      "revId": "f732d09178129ec851615c280f7950470fd6d2e0",
+      "serverId": "1ec6b3db-b2c1-4fa4-84a2-4c7efe89ba71",
+      "unresolved": false
+    },
+    {
+      "key": {
+        "uuid": "3afc51ec_2b10454e",
+        "filename": "res/anim/activity_open_enter.xml",
+        "patchSetId": 18
+      },
+      "lineNbr": 0,
+      "author": {
+        "id": 5678
+      },
+      "writtenOn": "2014-05-06T05:24:59Z",
+      "side": 1,
+      "message": "Only indentation changes, why add a copyright?",
+      "revId": "f732d09178129ec851615c280f7950470fd6d2e0",
+      "serverId": "1ec6b3db-b2c1-4fa4-84a2-4c7efe89ba71",
+      "unresolved": false
+    },
+    {
+      "key": {
+        "uuid": "3afc51ec_8b1d1969",
+        "filename": "res/anim/activity_open_exit.xml",
+        "patchSetId": 18
+      },
+      "lineNbr": 0,
+      "author": {
+        "id": 5678
+      },
+      "writtenOn": "2014-05-06T05:24:59Z",
+      "side": 1,
+      "message": "Only indentation changes, why add a copyright?",
+      "revId": "f732d09178129ec851615c280f7950470fd6d2e0",
+      "serverId": "1ec6b3db-b2c1-4fa4-84a2-4c7efe89ba71",
+      "unresolved": false
+    },
+    {
+      "key": {
+        "uuid": "3afc51ec_3009d032",
+        "filename": "res/color/text_color.xml",
+        "patchSetId": 18
+      },
+      "lineNbr": 3,
+      "author": {
+        "id": 5678
+      },
+      "writtenOn": "2014-05-06T05:24:59Z",
+      "side": 1,
+      "message": "Don\u0027t remove copyright.",
+      "revId": "f732d09178129ec851615c280f7950470fd6d2e0",
+      "serverId": "1ec6b3db-b2c1-4fa4-84a2-4c7efe89ba71",
+      "unresolved": false
+    },
+    {
+      "key": {
+        "uuid": "3afc51ec_cbfe0105",
+        "filename": "res/color/text_color.xml",
+        "patchSetId": 18
+      },
+      "lineNbr": 20,
+      "author": {
+        "id": 5678
+      },
+      "writtenOn": "2014-05-06T05:24:59Z",
+      "side": 1,
+      "message": "Unnecessary white space changes.",
+      "revId": "f732d09178129ec851615c280f7950470fd6d2e0",
+      "serverId": "1ec6b3db-b2c1-4fa4-84a2-4c7efe89ba71",
+      "unresolved": false
+    }
+  ]
+}
