@@ -1,0 +1,259 @@
+{
+  "comments": [
+    {
+      "key": {
+        "uuid": "da0c15f0_5b258ec0",
+        "filename": "src/com/android/calculator2/StoreInfoActivity.java",
+        "patchSetId": 27
+      },
+      "lineNbr": 46,
+      "author": {
+        "id": 4884
+      },
+      "writtenOn": "2014-05-16T18:19:18Z",
+      "side": 1,
+      "message": "Please remove whitespaces",
+      "revId": "c0cb4a6a654620b52789da4e7f0d6fde3cce4c8f",
+      "serverId": "1ec6b3db-b2c1-4fa4-84a2-4c7efe89ba71",
+      "unresolved": false
+    },
+    {
+      "key": {
+        "uuid": "da0c15f0_3b225aba",
+        "filename": "src/com/android/calculator2/ThemesFragment.java",
+        "patchSetId": 27
+      },
+      "lineNbr": 40,
+      "author": {
+        "id": 4884
+      },
+      "writtenOn": "2014-05-16T18:19:18Z",
+      "side": 1,
+      "message": "Please rap to 100 chars :)",
+      "revId": "c0cb4a6a654620b52789da4e7f0d6fde3cce4c8f",
+      "serverId": "1ec6b3db-b2c1-4fa4-84a2-4c7efe89ba71",
+      "unresolved": false
+    },
+    {
+      "key": {
+        "uuid": "da0c15f0_9b2f26a1",
+        "filename": "src/com/android/calculator2/ThemesFragment.java",
+        "patchSetId": 27
+      },
+      "lineNbr": 122,
+      "author": {
+        "id": 4884
+      },
+      "writtenOn": "2014-05-16T18:19:18Z",
+      "side": 1,
+      "message": "try {\n    setViewShown(true);\n} catch (IllegalStateException e) {\n    e.printStackTrace();\n}",
+      "revId": "c0cb4a6a654620b52789da4e7f0d6fde3cce4c8f",
+      "serverId": "1ec6b3db-b2c1-4fa4-84a2-4c7efe89ba71",
+      "unresolved": false
+    },
+    {
+      "key": {
+        "uuid": "da0c15f0_7b2cd2ab",
+        "filename": "src/com/android/calculator2/ThemesFragment.java",
+        "patchSetId": 27
+      },
+      "lineNbr": 153,
+      "author": {
+        "id": 4884
+      },
+      "writtenOn": "2014-05-16T18:19:18Z",
+      "side": 1,
+      "message": "Please wrap to 100 chars",
+      "revId": "c0cb4a6a654620b52789da4e7f0d6fde3cce4c8f",
+      "serverId": "1ec6b3db-b2c1-4fa4-84a2-4c7efe89ba71",
+      "unresolved": false
+    },
+    {
+      "key": {
+        "uuid": "da0c15f0_db17de52",
+        "filename": "src/com/android/calculator2/ThemesFragment.java",
+        "patchSetId": 27
+      },
+      "lineNbr": 155,
+      "author": {
+        "id": 4884
+      },
+      "writtenOn": "2014-05-16T18:19:18Z",
+      "side": 1,
+      "message": "} else {",
+      "revId": "c0cb4a6a654620b52789da4e7f0d6fde3cce4c8f",
+      "serverId": "1ec6b3db-b2c1-4fa4-84a2-4c7efe89ba71",
+      "unresolved": false
+    },
+    {
+      "key": {
+        "uuid": "da0c15f0_bb1caa78",
+        "filename": "src/com/android/calculator2/ThemesFragment.java",
+        "patchSetId": 27
+      },
+      "lineNbr": 157,
+      "author": {
+        "id": 4884
+      },
+      "writtenOn": "2014-05-16T18:19:18Z",
+      "side": 1,
+      "message": "Please wrap to 100 chars",
+      "revId": "c0cb4a6a654620b52789da4e7f0d6fde3cce4c8f",
+      "serverId": "1ec6b3db-b2c1-4fa4-84a2-4c7efe89ba71",
+      "unresolved": false
+    },
+    {
+      "key": {
+        "uuid": "da0c15f0_1b12f662",
+        "filename": "src/com/android/calculator2/ThemesFragment.java",
+        "patchSetId": 27
+      },
+      "lineNbr": 165,
+      "author": {
+        "id": 4884
+      },
+      "writtenOn": "2014-05-16T18:19:18Z",
+      "side": 1,
+      "message": "Please wrap to 100 chars",
+      "revId": "c0cb4a6a654620b52789da4e7f0d6fde3cce4c8f",
+      "serverId": "1ec6b3db-b2c1-4fa4-84a2-4c7efe89ba71",
+      "unresolved": false
+    },
+    {
+      "key": {
+        "uuid": "da0c15f0_fb162254",
+        "filename": "src/com/android/calculator2/ThemesFragment.java",
+        "patchSetId": 27
+      },
+      "lineNbr": 206,
+      "author": {
+        "id": 4884
+      },
+      "writtenOn": "2014-05-16T18:19:18Z",
+      "side": 1,
+      "message": "try {\n    Method m \u003d AbsListView.class.getDeclaredMethod(\"trackMotionScroll\",\n            Integer.TYPE, Integer.TYPE);\n    m.setAccessible(true);\n    m.invoke(mGridView, offset, offset);\n} catch (Exception e) {\n    // Do nothing here\n}",
+      "revId": "c0cb4a6a654620b52789da4e7f0d6fde3cce4c8f",
+      "serverId": "1ec6b3db-b2c1-4fa4-84a2-4c7efe89ba71",
+      "unresolved": false
+    },
+    {
+      "key": {
+        "uuid": "da0c15f0_3b09ba32",
+        "filename": "src/com/android/calculator2/view/ColorButton.java",
+        "patchSetId": 27
+      },
+      "lineNbr": 106,
+      "author": {
+        "id": 4884
+      },
+      "writtenOn": "2014-05-16T18:19:18Z",
+      "side": 1,
+      "message": "if (CLICK_FEEDBACK_COLOR \u003e\u003d 0x00000000 \u0026\u0026 CLICK_FEEDBACK_COLOR \u003c\u003d 0x00FFFFFF) {\n\nAnd it would make sense to define \"0x00000000\" and \"0x00FFFFFF\" as constants.",
+      "revId": "c0cb4a6a654620b52789da4e7f0d6fde3cce4c8f",
+      "serverId": "1ec6b3db-b2c1-4fa4-84a2-4c7efe89ba71",
+      "unresolved": false
+    },
+    {
+      "key": {
+        "uuid": "da0c15f0_5b0c6e42",
+        "filename": "src/com/android/calculator2/view/ColorButton.java",
+        "patchSetId": 27
+      },
+      "lineNbr": 185,
+      "author": {
+        "id": 4884
+      },
+      "writtenOn": "2014-05-16T18:19:18Z",
+      "side": 1,
+      "message": "if (mHintPaint !\u003d null) {",
+      "revId": "c0cb4a6a654620b52789da4e7f0d6fde3cce4c8f",
+      "serverId": "1ec6b3db-b2c1-4fa4-84a2-4c7efe89ba71",
+      "unresolved": false
+    },
+    {
+      "key": {
+        "uuid": "da0c15f0_9b06061f",
+        "filename": "tests/src/com/android/calculator2/CalculatorHitSomeButtons.java",
+        "patchSetId": 27
+      },
+      "lineNbr": 302,
+      "author": {
+        "id": 4884
+      },
+      "writtenOn": "2014-05-16T18:19:18Z",
+      "side": 1,
+      "message": "Please wrap to 100 chars",
+      "revId": "c0cb4a6a654620b52789da4e7f0d6fde3cce4c8f",
+      "serverId": "1ec6b3db-b2c1-4fa4-84a2-4c7efe89ba71",
+      "unresolved": false
+    },
+    {
+      "key": {
+        "uuid": "da0c15f0_7b033210",
+        "filename": "tests/src/com/android/calculator2/CalculatorHitSomeButtons.java",
+        "patchSetId": 27
+      },
+      "lineNbr": 318,
+      "author": {
+        "id": 4884
+      },
+      "writtenOn": "2014-05-16T18:19:18Z",
+      "side": 1,
+      "message": "Please wrap to 100 chars",
+      "revId": "c0cb4a6a654620b52789da4e7f0d6fde3cce4c8f",
+      "serverId": "1ec6b3db-b2c1-4fa4-84a2-4c7efe89ba71",
+      "unresolved": false
+    },
+    {
+      "key": {
+        "uuid": "da0c15f0_f6fe3904",
+        "filename": "tests/src/com/android/calculator2/CalculatorHitSomeButtons.java",
+        "patchSetId": 27
+      },
+      "lineNbr": 326,
+      "author": {
+        "id": 4884
+      },
+      "writtenOn": "2014-05-16T18:19:18Z",
+      "side": 1,
+      "message": "Please wrap to 100 chars",
+      "revId": "c0cb4a6a654620b52789da4e7f0d6fde3cce4c8f",
+      "serverId": "1ec6b3db-b2c1-4fa4-84a2-4c7efe89ba71",
+      "unresolved": false
+    },
+    {
+      "key": {
+        "uuid": "da0c15f0_d603350c",
+        "filename": "tests/src/com/android/calculator2/CalculatorHitSomeButtons.java",
+        "patchSetId": 27
+      },
+      "lineNbr": 330,
+      "author": {
+        "id": 4884
+      },
+      "writtenOn": "2014-05-16T18:19:18Z",
+      "side": 1,
+      "message": "Please wrap to 100 chars",
+      "revId": "c0cb4a6a654620b52789da4e7f0d6fde3cce4c8f",
+      "serverId": "1ec6b3db-b2c1-4fa4-84a2-4c7efe89ba71",
+      "unresolved": false
+    },
+    {
+      "key": {
+        "uuid": "da0c15f0_3609d12d",
+        "filename": "tests/src/com/android/calculator2/CalculatorHitSomeButtons.java",
+        "patchSetId": 27
+      },
+      "lineNbr": 377,
+      "author": {
+        "id": 4884
+      },
+      "writtenOn": "2014-05-16T18:19:18Z",
+      "side": 1,
+      "message": "try {\n    Thread.sleep(1000);\n} catch (InterruptedException e) {\n    e.printStackTrace();\n}",
+      "revId": "c0cb4a6a654620b52789da4e7f0d6fde3cce4c8f",
+      "serverId": "1ec6b3db-b2c1-4fa4-84a2-4c7efe89ba71",
+      "unresolved": false
+    }
+  ]
+}
