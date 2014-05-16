@@ -1,0 +1,21 @@
+{
+  "comments": [
+    {
+      "key": {
+        "uuid": "da0c15f0_dba07ea8",
+        "filename": "res/layout-land/simple_cling.xml",
+        "patchSetId": 22
+      },
+      "lineNbr": 27,
+      "author": {
+        "id": 5633
+      },
+      "writtenOn": "2014-05-16T03:17:28Z",
+      "side": 1,
+      "message": "Should be \"style\u003d\", missing the s",
+      "revId": "fb732a7bf1fb79bbbab4fd8420a48e09899d38b7",
+      "serverId": "1ec6b3db-b2c1-4fa4-84a2-4c7efe89ba71",
+      "unresolved": false
+    }
+  ]
+}
