@@ -1,0 +1,89 @@
+{
+  "comments": [
+    {
+      "key": {
+        "uuid": "da0c15f0_1cf823e5",
+        "filename": "res/values/cm_strings.xml",
+        "patchSetId": 30
+      },
+      "lineNbr": 133,
+      "author": {
+        "id": 2881
+      },
+      "writtenOn": "2014-05-25T11:38:12Z",
+      "side": 1,
+      "message": "- Show details",
+      "revId": "d8206e3efd29212f2da5ce727ef734784a089711",
+      "serverId": "1ec6b3db-b2c1-4fa4-84a2-4c7efe89ba71",
+      "unresolved": false
+    },
+    {
+      "key": {
+        "uuid": "da0c15f0_7cdddf6f",
+        "filename": "res/values/cm_strings.xml",
+        "patchSetId": 30
+      },
+      "lineNbr": 134,
+      "author": {
+        "id": 2881
+      },
+      "writtenOn": "2014-05-25T11:38:12Z",
+      "side": 1,
+      "message": "- Floating calculator",
+      "revId": "d8206e3efd29212f2da5ce727ef734784a089711",
+      "serverId": "1ec6b3db-b2c1-4fa4-84a2-4c7efe89ba71",
+      "unresolved": false
+    },
+    {
+      "key": {
+        "uuid": "da0c15f0_5cda9b79",
+        "filename": "res/values/cm_strings.xml",
+        "patchSetId": 30
+      },
+      "lineNbr": 135,
+      "author": {
+        "id": 2881
+      },
+      "writtenOn": "2014-05-25T11:38:12Z",
+      "side": 1,
+      "message": "- Vibrate on click",
+      "revId": "d8206e3efd29212f2da5ce727ef734784a089711",
+      "serverId": "1ec6b3db-b2c1-4fa4-84a2-4c7efe89ba71",
+      "unresolved": false
+    },
+    {
+      "key": {
+        "uuid": "da0c15f0_bce7773f",
+        "filename": "res/values/cm_strings.xml",
+        "patchSetId": 30
+      },
+      "lineNbr": 136,
+      "author": {
+        "id": 2881
+      },
+      "writtenOn": "2014-05-25T11:38:12Z",
+      "side": 1,
+      "message": "- Show widget background\n\n(we don\u0027t capitalize every word in CM)",
+      "revId": "d8206e3efd29212f2da5ce727ef734784a089711",
+      "serverId": "1ec6b3db-b2c1-4fa4-84a2-4c7efe89ba71",
+      "unresolved": false
+    },
+    {
+      "key": {
+        "uuid": "da0c15f0_9ce4333c",
+        "filename": "res/values/theme_stringsxml.xml",
+        "patchSetId": 30
+      },
+      "lineNbr": 1,
+      "author": {
+        "id": 2881
+      },
+      "writtenOn": "2014-05-25T11:38:12Z",
+      "side": 1,
+      "message": "Is the name if this file correct?\n\n theme_stringsxml.xml\n \t\nShould it not be \n\n theme_strings.xml",
+      "revId": "d8206e3efd29212f2da5ce727ef734784a089711",
+      "serverId": "1ec6b3db-b2c1-4fa4-84a2-4c7efe89ba71",
+      "unresolved": false
+    }
+  ]
+}
