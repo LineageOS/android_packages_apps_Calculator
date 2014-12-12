@@ -1,0 +1,38 @@
+{
+  "comments": [
+    {
+      "key": {
+        "uuid": "9abb7d3a_11093f2d",
+        "filename": "src/com/android/calculator2/HistoryAdapter.java",
+        "patchSetId": 4
+      },
+      "lineNbr": 91,
+      "author": {
+        "id": 9621
+      },
+      "writtenOn": "2014-12-12T11:53:28Z",
+      "side": 1,
+      "message": "Should this be mEntries.size()? Doesn\u0027t that represent the actual number of elements in the list?",
+      "revId": "29f2272f5957cb75e0774075df855a7cb4dff1a6",
+      "serverId": "1ec6b3db-b2c1-4fa4-84a2-4c7efe89ba71",
+      "unresolved": false
+    },
+    {
+      "key": {
+        "uuid": "9abb7d3a_911d2f69",
+        "filename": "src/com/android/calculator2/view/DisplayOverlay.java",
+        "patchSetId": 4
+      },
+      "lineNbr": 38,
+      "author": {
+        "id": 9621
+      },
+      "writtenOn": "2014-12-12T11:53:28Z",
+      "side": 1,
+      "message": "Debug should be false before submitting.",
+      "revId": "29f2272f5957cb75e0774075df855a7cb4dff1a6",
+      "serverId": "1ec6b3db-b2c1-4fa4-84a2-4c7efe89ba71",
+      "unresolved": false
+    }
+  ]
+}
