@@ -1,0 +1,72 @@
+{
+  "comments": [
+    {
+      "key": {
+        "uuid": "7aa08908_14f65cd7",
+        "filename": "res/color/pad_button_advanced_text_color.xml",
+        "patchSetId": 2
+      },
+      "lineNbr": 4,
+      "author": {
+        "id": 10631
+      },
+      "writtenOn": "2014-12-13T14:07:35Z",
+      "side": 1,
+      "message": "colors.xml",
+      "revId": "dc4b8aaaed59da08548a76711d03cd96165d7e8b",
+      "serverId": "1ec6b3db-b2c1-4fa4-84a2-4c7efe89ba71",
+      "unresolved": false
+    },
+    {
+      "key": {
+        "uuid": "7aa08908_34f9d8c9",
+        "filename": "res/color/pad_button_text_color.xml",
+        "patchSetId": 2
+      },
+      "lineNbr": 4,
+      "author": {
+        "id": 10631
+      },
+      "writtenOn": "2014-12-13T14:07:35Z",
+      "side": 1,
+      "message": "colors.xml",
+      "revId": "dc4b8aaaed59da08548a76711d03cd96165d7e8b",
+      "serverId": "1ec6b3db-b2c1-4fa4-84a2-4c7efe89ba71",
+      "unresolved": false
+    },
+    {
+      "key": {
+        "uuid": "7aa08908_740360b9",
+        "filename": "res/drawable/view_pager_indicator.xml",
+        "patchSetId": 2
+      },
+      "lineNbr": 5,
+      "author": {
+        "id": 10631
+      },
+      "writtenOn": "2014-12-13T14:07:35Z",
+      "side": 1,
+      "message": "dimens.xml",
+      "revId": "dc4b8aaaed59da08548a76711d03cd96165d7e8b",
+      "serverId": "1ec6b3db-b2c1-4fa4-84a2-4c7efe89ba71",
+      "unresolved": false
+    },
+    {
+      "key": {
+        "uuid": "7aa08908_141dbc0f",
+        "filename": "src/com/android/calculator2/CalculatorPadViewPager.java",
+        "patchSetId": 2
+      },
+      "lineNbr": 63,
+      "author": {
+        "id": 10631
+      },
+      "writtenOn": "2014-12-13T14:07:35Z",
+      "side": 1,
+      "message": "is mBaseManager guaranteed not null?",
+      "revId": "dc4b8aaaed59da08548a76711d03cd96165d7e8b",
+      "serverId": "1ec6b3db-b2c1-4fa4-84a2-4c7efe89ba71",
+      "unresolved": false
+    }
+  ]
+}
