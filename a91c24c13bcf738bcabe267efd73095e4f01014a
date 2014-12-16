@@ -1,0 +1,21 @@
+{
+  "comments": [
+    {
+      "key": {
+        "uuid": "7aa08908_ab9f1eb3",
+        "filename": "src/com/android/calculator2/CalculatorPadViewPager.java",
+        "patchSetId": 1
+      },
+      "lineNbr": 67,
+      "author": {
+        "id": 10293
+      },
+      "writtenOn": "2014-12-16T10:25:47Z",
+      "side": 1,
+      "message": "How is this any different from what was written before?  Usually \u0026\u003d would only be used if there are multiple conditions, all of which must be true.",
+      "revId": "a91c24c13bcf738bcabe267efd73095e4f01014a",
+      "serverId": "1ec6b3db-b2c1-4fa4-84a2-4c7efe89ba71",
+      "unresolved": false
+    }
+  ]
+}
