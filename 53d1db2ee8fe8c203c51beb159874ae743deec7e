@@ -1,0 +1,72 @@
+{
+  "comments": [
+    {
+      "key": {
+        "uuid": "7aa08908_3230ac56",
+        "filename": "src/com/android/calculator2/util/AnimationUtil.java",
+        "patchSetId": 3
+      },
+      "lineNbr": 31,
+      "author": {
+        "id": 10394
+      },
+      "writtenOn": "2014-12-24T12:45:14Z",
+      "side": 1,
+      "message": "looks like this should be using duration and not DEFAULT_FADE_DURATION",
+      "revId": "53d1db2ee8fe8c203c51beb159874ae743deec7e",
+      "serverId": "1ec6b3db-b2c1-4fa4-84a2-4c7efe89ba71",
+      "unresolved": false
+    },
+    {
+      "key": {
+        "uuid": "7aa08908_32170ca5",
+        "filename": "src/com/android/calculator2/view/GraphView.java",
+        "patchSetId": 3
+      },
+      "lineNbr": 228,
+      "author": {
+        "id": 10394
+      },
+      "writtenOn": "2014-12-24T12:45:14Z",
+      "side": 1,
+      "message": "wow did the code previously copy the entire array because it needed to get the first element and called remove on it?",
+      "revId": "53d1db2ee8fe8c203c51beb159874ae743deec7e",
+      "serverId": "1ec6b3db-b2c1-4fa4-84a2-4c7efe89ba71",
+      "unresolved": false
+    },
+    {
+      "key": {
+        "uuid": "7aa08908_d2268815",
+        "filename": "src/com/android/calculator2/view/MultiButton.java",
+        "patchSetId": 3
+      },
+      "lineNbr": 41,
+      "author": {
+        "id": 10394
+      },
+      "writtenOn": "2014-12-24T12:45:14Z",
+      "side": 1,
+      "message": "these two lines can be combined into 1",
+      "revId": "53d1db2ee8fe8c203c51beb159874ae743deec7e",
+      "serverId": "1ec6b3db-b2c1-4fa4-84a2-4c7efe89ba71",
+      "unresolved": false
+    },
+    {
+      "key": {
+        "uuid": "7aa08908_5279f8fb",
+        "filename": "src/com/android/calculator2/view/MultiButton.java",
+        "patchSetId": 3
+      },
+      "lineNbr": 78,
+      "author": {
+        "id": 10394
+      },
+      "writtenOn": "2014-12-24T12:45:14Z",
+      "side": 1,
+      "message": "i think we don\u0027t need to check here - findViewById will return null when NO_ID is passed in",
+      "revId": "53d1db2ee8fe8c203c51beb159874ae743deec7e",
+      "serverId": "1ec6b3db-b2c1-4fa4-84a2-4c7efe89ba71",
+      "unresolved": false
+    }
+  ]
+}
