@@ -1,0 +1,21 @@
+{
+  "comments": [
+    {
+      "key": {
+        "uuid": "7aa08908_a8554e1e",
+        "filename": "src/com/android/calculator2/view/display/CalculatorEditText.java",
+        "patchSetId": 1
+      },
+      "lineNbr": 166,
+      "author": {
+        "id": 68
+      },
+      "writtenOn": "2014-12-24T08:13:52Z",
+      "side": 1,
+      "message": "Rather than catching it, we should check if it\u0027s an instance of the parent.\n\nWe\u0027ll save the trouble of actually creating a stack trace for an expected error.",
+      "revId": "30d4e46ad2b6e86d05a982c8d3057debc66c57d8",
+      "serverId": "1ec6b3db-b2c1-4fa4-84a2-4c7efe89ba71",
+      "unresolved": false
+    }
+  ]
+}
