@@ -16,6 +16,24 @@
       "revId": "41a6f6b1870d72864777c3511c4338956531dab0",
       "serverId": "1ec6b3db-b2c1-4fa4-84a2-4c7efe89ba71",
       "unresolved": false
+    },
+    {
+      "key": {
+        "uuid": "7aa08908_b25bfc53",
+        "filename": "res/layout/equals_graph_button.xml",
+        "patchSetId": 4
+      },
+      "lineNbr": 42,
+      "author": {
+        "id": 10293
+      },
+      "writtenOn": "2014-12-24T14:03:23Z",
+      "side": 1,
+      "message": "I put it in a frame layout to make the touch target take up as much space as possible.  We also want the ripple to take up the full space.\n\nMaking a custom ImageView seems ok but I just did it this way since the equals button uses text.",
+      "parentUuid": "7aa08908_1282d094",
+      "revId": "41a6f6b1870d72864777c3511c4338956531dab0",
+      "serverId": "1ec6b3db-b2c1-4fa4-84a2-4c7efe89ba71",
+      "unresolved": false
     }
   ]
 }
