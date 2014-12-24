@@ -72,6 +72,24 @@
     },
     {
       "key": {
+        "uuid": "7aa08908_b2adbc33",
+        "filename": "src/com/android/calculator2/view/GraphView.java",
+        "patchSetId": 3
+      },
+      "lineNbr": 228,
+      "author": {
+        "id": 5633
+      },
+      "writtenOn": "2014-12-24T13:47:10Z",
+      "side": 1,
+      "message": "Remove doesn\u0027t copy the array. It mutates the existing array by removing and returning the first element.\n\nhttp://grepcode.com/file/repository.grepcode.com/java/root/jdk/openjdk/6-b14/java/util/LinkedList.java#LinkedList.remove%28%29",
+      "parentUuid": "7aa08908_32170ca5",
+      "revId": "53d1db2ee8fe8c203c51beb159874ae743deec7e",
+      "serverId": "1ec6b3db-b2c1-4fa4-84a2-4c7efe89ba71",
+      "unresolved": false
+    },
+    {
+      "key": {
         "uuid": "7aa08908_d2268815",
         "filename": "src/com/android/calculator2/view/MultiButton.java",
         "patchSetId": 3
