@@ -19,6 +19,24 @@
     },
     {
       "key": {
+        "uuid": "7aa08908_12e650b4",
+        "filename": "src/com/android/calculator2/util/AnimationUtil.java",
+        "patchSetId": 3
+      },
+      "lineNbr": 31,
+      "author": {
+        "id": 10293
+      },
+      "writtenOn": "2014-12-24T13:19:56Z",
+      "side": 1,
+      "message": "yep good catch",
+      "parentUuid": "7aa08908_3230ac56",
+      "revId": "53d1db2ee8fe8c203c51beb159874ae743deec7e",
+      "serverId": "1ec6b3db-b2c1-4fa4-84a2-4c7efe89ba71",
+      "unresolved": false
+    },
+    {
+      "key": {
         "uuid": "7aa08908_32170ca5",
         "filename": "src/com/android/calculator2/view/GraphView.java",
         "patchSetId": 3
@@ -30,6 +48,24 @@
       "writtenOn": "2014-12-24T12:45:14Z",
       "side": 1,
       "message": "wow did the code previously copy the entire array because it needed to get the first element and called remove on it?",
+      "revId": "53d1db2ee8fe8c203c51beb159874ae743deec7e",
+      "serverId": "1ec6b3db-b2c1-4fa4-84a2-4c7efe89ba71",
+      "unresolved": false
+    },
+    {
+      "key": {
+        "uuid": "7aa08908_d202083e",
+        "filename": "src/com/android/calculator2/view/GraphView.java",
+        "patchSetId": 3
+      },
+      "lineNbr": 228,
+      "author": {
+        "id": 10293
+      },
+      "writtenOn": "2014-12-24T13:19:56Z",
+      "side": 1,
+      "message": "yeah, using the array directly improves redraw time noticeably",
+      "parentUuid": "7aa08908_32170ca5",
       "revId": "53d1db2ee8fe8c203c51beb159874ae743deec7e",
       "serverId": "1ec6b3db-b2c1-4fa4-84a2-4c7efe89ba71",
       "unresolved": false
@@ -53,6 +89,24 @@
     },
     {
       "key": {
+        "uuid": "7aa08908_32f38c75",
+        "filename": "src/com/android/calculator2/view/MultiButton.java",
+        "patchSetId": 3
+      },
+      "lineNbr": 41,
+      "author": {
+        "id": 10293
+      },
+      "writtenOn": "2014-12-24T13:19:56Z",
+      "side": 1,
+      "message": "Done",
+      "parentUuid": "7aa08908_d2268815",
+      "revId": "53d1db2ee8fe8c203c51beb159874ae743deec7e",
+      "serverId": "1ec6b3db-b2c1-4fa4-84a2-4c7efe89ba71",
+      "unresolved": false
+    },
+    {
+      "key": {
         "uuid": "7aa08908_5279f8fb",
         "filename": "src/com/android/calculator2/view/MultiButton.java",
         "patchSetId": 3
@@ -64,6 +118,24 @@
       "writtenOn": "2014-12-24T12:45:14Z",
       "side": 1,
       "message": "i think we don\u0027t need to check here - findViewById will return null when NO_ID is passed in",
+      "revId": "53d1db2ee8fe8c203c51beb159874ae743deec7e",
+      "serverId": "1ec6b3db-b2c1-4fa4-84a2-4c7efe89ba71",
+      "unresolved": false
+    },
+    {
+      "key": {
+        "uuid": "7aa08908_92e8807e",
+        "filename": "src/com/android/calculator2/view/MultiButton.java",
+        "patchSetId": 3
+      },
+      "lineNbr": 78,
+      "author": {
+        "id": 10293
+      },
+      "writtenOn": "2014-12-24T13:19:56Z",
+      "side": 1,
+      "message": "Done",
+      "parentUuid": "7aa08908_5279f8fb",
       "revId": "53d1db2ee8fe8c203c51beb159874ae743deec7e",
       "serverId": "1ec6b3db-b2c1-4fa4-84a2-4c7efe89ba71",
       "unresolved": false
