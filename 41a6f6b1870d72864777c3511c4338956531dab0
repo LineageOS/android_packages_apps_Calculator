@@ -1,0 +1,21 @@
+{
+  "comments": [
+    {
+      "key": {
+        "uuid": "7aa08908_1282d094",
+        "filename": "res/layout/equals_graph_button.xml",
+        "patchSetId": 4
+      },
+      "lineNbr": 42,
+      "author": {
+        "id": 5633
+      },
+      "writtenOn": "2014-12-24T13:46:51Z",
+      "side": 1,
+      "message": "You don\u0027t need to wrap this ImageView in a FrameLayout. Although, ideally it should just be an ImageView with custom states (Equals, Next, Graph).",
+      "revId": "41a6f6b1870d72864777c3511c4338956531dab0",
+      "serverId": "1ec6b3db-b2c1-4fa4-84a2-4c7efe89ba71",
+      "unresolved": false
+    }
+  ]
+}
