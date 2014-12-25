@@ -108,6 +108,24 @@
     },
     {
       "key": {
+        "uuid": "7aa08908_b83e3db6",
+        "filename": "src/com/android/calculator2/view/GraphView.java",
+        "patchSetId": 3
+      },
+      "lineNbr": 228,
+      "author": {
+        "id": 4388
+      },
+      "writtenOn": "2014-12-25T06:05:55Z",
+      "side": 1,
+      "message": "D\u0027oh. Good catch. I feel really stupid now.",
+      "parentUuid": "7aa08908_7249948b",
+      "revId": "53d1db2ee8fe8c203c51beb159874ae743deec7e",
+      "serverId": "1ec6b3db-b2c1-4fa4-84a2-4c7efe89ba71",
+      "unresolved": false
+    },
+    {
+      "key": {
         "uuid": "7aa08908_d2268815",
         "filename": "src/com/android/calculator2/view/MultiButton.java",
         "patchSetId": 3
