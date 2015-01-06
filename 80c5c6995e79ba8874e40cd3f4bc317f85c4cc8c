@@ -19,6 +19,24 @@
     },
     {
       "key": {
+        "uuid": "7aa08908_dd74c2d0",
+        "filename": "src/com/android/calculator2/view/DisplayOverlay.java",
+        "patchSetId": 1
+      },
+      "lineNbr": 401,
+      "author": {
+        "id": 5633
+      },
+      "writtenOn": "2015-01-06T12:05:27Z",
+      "side": 1,
+      "message": "Can I add a check if it\u0027s been measured? It\u0027s just a little annoying to call setMode() and animate() separately, since the UI no longer reflects the state of the view.",
+      "parentUuid": "7aa08908_5d1732a3",
+      "revId": "80c5c6995e79ba8874e40cd3f4bc317f85c4cc8c",
+      "serverId": "1ec6b3db-b2c1-4fa4-84a2-4c7efe89ba71",
+      "unresolved": false
+    },
+    {
+      "key": {
         "uuid": "7aa08908_7d794efc",
         "filename": "src/com/android/calculator2/view/DivisionView.java",
         "patchSetId": 1
@@ -30,6 +48,24 @@
       "writtenOn": "2015-01-06T09:28:51Z",
       "side": 1,
       "message": "does this handle negative numbers?  also, can\u0027t this be accomplished with a single regex?",
+      "revId": "80c5c6995e79ba8874e40cd3f4bc317f85c4cc8c",
+      "serverId": "1ec6b3db-b2c1-4fa4-84a2-4c7efe89ba71",
+      "unresolved": false
+    },
+    {
+      "key": {
+        "uuid": "7aa08908_3dab461f",
+        "filename": "src/com/android/calculator2/view/DivisionView.java",
+        "patchSetId": 1
+      },
+      "lineNbr": 58,
+      "author": {
+        "id": 5633
+      },
+      "writtenOn": "2015-01-06T12:05:27Z",
+      "side": 1,
+      "message": "No, I don\u0027t think it handles negative numbers. Hmm. (This view doesn\u0027t work at all yet, either)\n\nI don\u0027t think it can work with a single regex. You need the same number of open brackets as closed brackets and regex isn\u0027t good at counting.",
+      "parentUuid": "7aa08908_7d794efc",
       "revId": "80c5c6995e79ba8874e40cd3f4bc317f85c4cc8c",
       "serverId": "1ec6b3db-b2c1-4fa4-84a2-4c7efe89ba71",
       "unresolved": false
@@ -53,6 +89,24 @@
     },
     {
       "key": {
+        "uuid": "7aa08908_3d94e6e0",
+        "filename": "src/com/xlythe/math/BaseModule.java",
+        "patchSetId": 1
+      },
+      "lineNbr": 288,
+      "author": {
+        "id": 5633
+      },
+      "writtenOn": "2015-01-06T12:05:27Z",
+      "side": 1,
+      "message": "Type 1,234 into the display. Then move the cursor after the coma (eg. 1,|234). You can\u0027t delete the coma.\n\nThis change puts the selection handle before the coma.",
+      "parentUuid": "7aa08908_bd5a9681",
+      "revId": "80c5c6995e79ba8874e40cd3f4bc317f85c4cc8c",
+      "serverId": "1ec6b3db-b2c1-4fa4-84a2-4c7efe89ba71",
+      "unresolved": false
+    },
+    {
+      "key": {
         "uuid": "7aa08908_dd516264",
         "filename": "src/com/xlythe/math/MatrixModule.java",
         "patchSetId": 1
@@ -64,6 +118,24 @@
       "writtenOn": "2015-01-06T09:28:51Z",
       "side": 1,
       "message": "Should use Log instead if we want to log this",
+      "revId": "80c5c6995e79ba8874e40cd3f4bc317f85c4cc8c",
+      "serverId": "1ec6b3db-b2c1-4fa4-84a2-4c7efe89ba71",
+      "unresolved": false
+    },
+    {
+      "key": {
+        "uuid": "7aa08908_9d723ae4",
+        "filename": "src/com/xlythe/math/MatrixModule.java",
+        "patchSetId": 1
+      },
+      "lineNbr": 562,
+      "author": {
+        "id": 5633
+      },
+      "writtenOn": "2015-01-06T12:05:27Z",
+      "side": 1,
+      "message": "It\u0027s not very important. I just didn\u0027t want to mask the error -- I can\u0027t pass SyntaxException a message.\n\nIs it worth modifying SyntaxException? Or having a new exception that wraps these?",
+      "parentUuid": "7aa08908_dd516264",
       "revId": "80c5c6995e79ba8874e40cd3f4bc317f85c4cc8c",
       "serverId": "1ec6b3db-b2c1-4fa4-84a2-4c7efe89ba71",
       "unresolved": false
