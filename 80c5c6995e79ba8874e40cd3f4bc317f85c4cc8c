@@ -1,0 +1,72 @@
+{
+  "comments": [
+    {
+      "key": {
+        "uuid": "7aa08908_5d1732a3",
+        "filename": "src/com/android/calculator2/view/DisplayOverlay.java",
+        "patchSetId": 1
+      },
+      "lineNbr": 401,
+      "author": {
+        "id": 10293
+      },
+      "writtenOn": "2015-01-06T09:28:51Z",
+      "side": 1,
+      "message": "We are not always ready to animate at the time when setMode is called.  When calling setMode from onCreate (restoring from the saved instance state) the dimensions of the graph view have not been calculated yet.  By moving this here it breaks the case where you graph something in portrait and then switch to landscape.",
+      "revId": "80c5c6995e79ba8874e40cd3f4bc317f85c4cc8c",
+      "serverId": "1ec6b3db-b2c1-4fa4-84a2-4c7efe89ba71",
+      "unresolved": false
+    },
+    {
+      "key": {
+        "uuid": "7aa08908_7d794efc",
+        "filename": "src/com/android/calculator2/view/DivisionView.java",
+        "patchSetId": 1
+      },
+      "lineNbr": 58,
+      "author": {
+        "id": 10293
+      },
+      "writtenOn": "2015-01-06T09:28:51Z",
+      "side": 1,
+      "message": "does this handle negative numbers?  also, can\u0027t this be accomplished with a single regex?",
+      "revId": "80c5c6995e79ba8874e40cd3f4bc317f85c4cc8c",
+      "serverId": "1ec6b3db-b2c1-4fa4-84a2-4c7efe89ba71",
+      "unresolved": false
+    },
+    {
+      "key": {
+        "uuid": "7aa08908_bd5a9681",
+        "filename": "src/com/xlythe/math/BaseModule.java",
+        "patchSetId": 1
+      },
+      "lineNbr": 288,
+      "author": {
+        "id": 10293
+      },
+      "writtenOn": "2015-01-06T09:28:51Z",
+      "side": 1,
+      "message": "can you explain the use case for this?",
+      "revId": "80c5c6995e79ba8874e40cd3f4bc317f85c4cc8c",
+      "serverId": "1ec6b3db-b2c1-4fa4-84a2-4c7efe89ba71",
+      "unresolved": false
+    },
+    {
+      "key": {
+        "uuid": "7aa08908_dd516264",
+        "filename": "src/com/xlythe/math/MatrixModule.java",
+        "patchSetId": 1
+      },
+      "lineNbr": 562,
+      "author": {
+        "id": 10293
+      },
+      "writtenOn": "2015-01-06T09:28:51Z",
+      "side": 1,
+      "message": "Should use Log instead if we want to log this",
+      "revId": "80c5c6995e79ba8874e40cd3f4bc317f85c4cc8c",
+      "serverId": "1ec6b3db-b2c1-4fa4-84a2-4c7efe89ba71",
+      "unresolved": false
+    }
+  ]
+}
