@@ -37,6 +37,24 @@
     },
     {
       "key": {
+        "uuid": "7aa08908_7b2676bb",
+        "filename": "src/com/android/calculator2/view/DisplayOverlay.java",
+        "patchSetId": 1
+      },
+      "lineNbr": 401,
+      "author": {
+        "id": 10293
+      },
+      "writtenOn": "2015-01-06T14:03:11Z",
+      "side": 1,
+      "message": "Fair point.  You could add a check here and not animate if layout isn\u0027t complete, but we would still need a way to trigger the animation later when layout is done.  Perhaps we could just defer calling setMode until layout is done.  \n\nWe already have a ViewTreeObserver in the activity to watch when layout is complete.  We can take the mode from the saved instance state and stash it in a data member (or in the closure) and then set it from the view tree observer callback.",
+      "parentUuid": "7aa08908_dd74c2d0",
+      "revId": "80c5c6995e79ba8874e40cd3f4bc317f85c4cc8c",
+      "serverId": "1ec6b3db-b2c1-4fa4-84a2-4c7efe89ba71",
+      "unresolved": false
+    },
+    {
+      "key": {
         "uuid": "7aa08908_7d794efc",
         "filename": "src/com/android/calculator2/view/DivisionView.java",
         "patchSetId": 1
@@ -66,6 +84,24 @@
       "side": 1,
       "message": "No, I don\u0027t think it handles negative numbers. Hmm. (This view doesn\u0027t work at all yet, either)\n\nI don\u0027t think it can work with a single regex. You need the same number of open brackets as closed brackets and regex isn\u0027t good at counting.",
       "parentUuid": "7aa08908_7d794efc",
+      "revId": "80c5c6995e79ba8874e40cd3f4bc317f85c4cc8c",
+      "serverId": "1ec6b3db-b2c1-4fa4-84a2-4c7efe89ba71",
+      "unresolved": false
+    },
+    {
+      "key": {
+        "uuid": "7aa08908_1b1bf273",
+        "filename": "src/com/android/calculator2/view/DivisionView.java",
+        "patchSetId": 1
+      },
+      "lineNbr": 58,
+      "author": {
+        "id": 10293
+      },
+      "writtenOn": "2015-01-06T14:03:11Z",
+      "side": 1,
+      "message": "do we even need to worry about parens when using a regex?  I\u0027m thinking of something like:\n\nPattern p \u003d Pattern.compile(\"-?\\\\d+\");",
+      "parentUuid": "7aa08908_3dab461f",
       "revId": "80c5c6995e79ba8874e40cd3f4bc317f85c4cc8c",
       "serverId": "1ec6b3db-b2c1-4fa4-84a2-4c7efe89ba71",
       "unresolved": false
@@ -107,6 +143,24 @@
     },
     {
       "key": {
+        "uuid": "7aa08908_3b1eae63",
+        "filename": "src/com/xlythe/math/BaseModule.java",
+        "patchSetId": 1
+      },
+      "lineNbr": 288,
+      "author": {
+        "id": 10293
+      },
+      "writtenOn": "2015-01-06T14:03:11Z",
+      "side": 1,
+      "message": "If you want the selection handle before the comma I think you can achieve it more elegantly by just switching the order of operations (first insert the current character and then add the separator char if necessary).  \n\nBut in either case, the user can always manually move the cursor behind the comma right?  Maybe we should update the deletion logic instead to ignore the comma.",
+      "parentUuid": "7aa08908_3d94e6e0",
+      "revId": "80c5c6995e79ba8874e40cd3f4bc317f85c4cc8c",
+      "serverId": "1ec6b3db-b2c1-4fa4-84a2-4c7efe89ba71",
+      "unresolved": false
+    },
+    {
+      "key": {
         "uuid": "7aa08908_dd516264",
         "filename": "src/com/xlythe/math/MatrixModule.java",
         "patchSetId": 1
@@ -136,6 +190,24 @@
       "side": 1,
       "message": "It\u0027s not very important. I just didn\u0027t want to mask the error -- I can\u0027t pass SyntaxException a message.\n\nIs it worth modifying SyntaxException? Or having a new exception that wraps these?",
       "parentUuid": "7aa08908_dd516264",
+      "revId": "80c5c6995e79ba8874e40cd3f4bc317f85c4cc8c",
+      "serverId": "1ec6b3db-b2c1-4fa4-84a2-4c7efe89ba71",
+      "unresolved": false
+    },
+    {
+      "key": {
+        "uuid": "7aa08908_fb13865a",
+        "filename": "src/com/xlythe/math/MatrixModule.java",
+        "patchSetId": 1
+      },
+      "lineNbr": 562,
+      "author": {
+        "id": 10293
+      },
+      "writtenOn": "2015-01-06T14:03:11Z",
+      "side": 1,
+      "message": "You could do that if you wanted.  Or just using Log.d would be fine I think.",
+      "parentUuid": "7aa08908_9d723ae4",
       "revId": "80c5c6995e79ba8874e40cd3f4bc317f85c4cc8c",
       "serverId": "1ec6b3db-b2c1-4fa4-84a2-4c7efe89ba71",
       "unresolved": false
