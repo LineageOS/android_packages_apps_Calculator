@@ -1,0 +1,21 @@
+{
+  "comments": [
+    {
+      "key": {
+        "uuid": "5ac665da_33ce0b5b",
+        "filename": "src/com/android/calculator2/Calculator.java",
+        "patchSetId": 1
+      },
+      "lineNbr": 579,
+      "author": {
+        "id": 3134
+      },
+      "writtenOn": "2015-03-23T11:24:52Z",
+      "side": 1,
+      "message": "It should be mEqualsGraphButton.getEnabledView()",
+      "revId": "f3168c994af1cef08824f2b2862bcf52ac4bb946",
+      "serverId": "1ec6b3db-b2c1-4fa4-84a2-4c7efe89ba71",
+      "unresolved": false
+    }
+  ]
+}
