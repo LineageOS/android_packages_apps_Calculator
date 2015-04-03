@@ -36,6 +36,23 @@
     },
     {
       "key": {
+        "uuid": "5ac665da_1de667b4",
+        "filename": "res/values/cm_colors.xml",
+        "patchSetId": 1
+      },
+      "lineNbr": 9,
+      "author": {
+        "id": 8461
+      },
+      "writtenOn": "2015-04-03T03:28:45Z",
+      "side": 1,
+      "message": "We usually have #fafafa as white and #212121 as black",
+      "revId": "62e496356056836fd0857ae50f6f5da728fdec99",
+      "serverId": "1ec6b3db-b2c1-4fa4-84a2-4c7efe89ba71",
+      "unresolved": false
+    },
+    {
+      "key": {
         "uuid": "5ac665da_bd511365",
         "filename": "res/values/cm_colors.xml",
         "patchSetId": 1
