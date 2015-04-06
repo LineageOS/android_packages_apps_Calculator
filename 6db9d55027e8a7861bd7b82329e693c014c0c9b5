@@ -2,6 +2,23 @@
   "comments": [
     {
       "key": {
+        "uuid": "3ac371cc_a79ac4c3",
+        "filename": "res/values/cm_colors.xml",
+        "patchSetId": 6
+      },
+      "lineNbr": 17,
+      "author": {
+        "id": 8961
+      },
+      "writtenOn": "2015-04-06T20:52:41Z",
+      "side": 1,
+      "message": "Extra space there",
+      "revId": "6db9d55027e8a7861bd7b82329e693c014c0c9b5",
+      "serverId": "1ec6b3db-b2c1-4fa4-84a2-4c7efe89ba71",
+      "unresolved": false
+    },
+    {
+      "key": {
         "uuid": "3ac371cc_67628cda",
         "filename": "src/com/android/calculator2/view/GraphView.java",
         "patchSetId": 6
