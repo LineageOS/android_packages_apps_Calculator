@@ -1,0 +1,21 @@
+{
+  "comments": [
+    {
+      "key": {
+        "uuid": "3ac371cc_843506f9",
+        "filename": "res/values/cm_colors.xml",
+        "patchSetId": 2
+      },
+      "lineNbr": 12,
+      "author": {
+        "id": 12453
+      },
+      "writtenOn": "2015-04-06T17:34:54Z",
+      "side": 1,
+      "message": "Fix spacing :)",
+      "revId": "dd3331a29b55920652b1a7e2eef89fc22db81bf6",
+      "serverId": "1ec6b3db-b2c1-4fa4-84a2-4c7efe89ba71",
+      "unresolved": false
+    }
+  ]
+}
