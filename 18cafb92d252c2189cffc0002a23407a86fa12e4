@@ -1,0 +1,21 @@
+{
+  "comments": [
+    {
+      "key": {
+        "uuid": "7a8ec9b2_8f2fbaa0",
+        "filename": "src/com/android/calculator2/view/AutoFitButtonView.java",
+        "patchSetId": 2
+      },
+      "lineNbr": 20,
+      "author": {
+        "id": 9621
+      },
+      "writtenOn": "2015-06-04T07:50:51Z",
+      "side": 1,
+      "message": "A Button",
+      "revId": "18cafb92d252c2189cffc0002a23407a86fa12e4",
+      "serverId": "1ec6b3db-b2c1-4fa4-84a2-4c7efe89ba71",
+      "unresolved": false
+    }
+  ]
+}
