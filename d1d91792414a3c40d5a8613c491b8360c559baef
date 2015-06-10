@@ -22,6 +22,24 @@
       "revId": "d1d91792414a3c40d5a8613c491b8360c559baef",
       "serverId": "1ec6b3db-b2c1-4fa4-84a2-4c7efe89ba71",
       "unresolved": false
+    },
+    {
+      "key": {
+        "uuid": "ba5201f7_76b6e83e",
+        "filename": "res/layout/floating_calculator.xml",
+        "patchSetId": 1
+      },
+      "lineNbr": 44,
+      "author": {
+        "id": 9199
+      },
+      "writtenOn": "2015-06-10T11:46:55Z",
+      "side": 1,
+      "message": "There was never a space before the end tag prior to this change",
+      "parentUuid": "ba5201f7_f62498b0",
+      "revId": "d1d91792414a3c40d5a8613c491b8360c559baef",
+      "serverId": "1ec6b3db-b2c1-4fa4-84a2-4c7efe89ba71",
+      "unresolved": false
     }
   ]
 }
