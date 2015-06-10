@@ -1,0 +1,27 @@
+{
+  "comments": [
+    {
+      "key": {
+        "uuid": "ba5201f7_f62498b0",
+        "filename": "res/layout/floating_calculator.xml",
+        "patchSetId": 1
+      },
+      "lineNbr": 44,
+      "author": {
+        "id": 8961
+      },
+      "writtenOn": "2015-06-10T10:41:24Z",
+      "side": 1,
+      "message": "Missing space :P",
+      "range": {
+        "startLine": 44,
+        "startChar": 36,
+        "endLine": 44,
+        "endChar": 39
+      },
+      "revId": "d1d91792414a3c40d5a8613c491b8360c559baef",
+      "serverId": "1ec6b3db-b2c1-4fa4-84a2-4c7efe89ba71",
+      "unresolved": false
+    }
+  ]
+}
