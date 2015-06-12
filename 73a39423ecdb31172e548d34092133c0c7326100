@@ -1,0 +1,21 @@
+{
+  "comments": [
+    {
+      "key": {
+        "uuid": "5a3905b3_ad647d49",
+        "filename": "src/com/xlythe/floatingview/FloatingView.java",
+        "patchSetId": 2
+      },
+      "lineNbr": 570,
+      "author": {
+        "id": 9199
+      },
+      "writtenOn": "2015-06-12T06:31:08Z",
+      "side": 1,
+      "message": "Shouldn\u0027t this be set back to the original background in an else block?",
+      "revId": "73a39423ecdb31172e548d34092133c0c7326100",
+      "serverId": "1ec6b3db-b2c1-4fa4-84a2-4c7efe89ba71",
+      "unresolved": false
+    }
+  ]
+}
