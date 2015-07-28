@@ -33,6 +33,52 @@
       "revId": "7c884547beab8658996aee209ab81e422b1c6390",
       "serverId": "1ec6b3db-b2c1-4fa4-84a2-4c7efe89ba71",
       "unresolved": false
+    },
+    {
+      "key": {
+        "uuid": "bf091321_415968fc",
+        "filename": "src/com/android/calculator2/view/display/AdvancedDisplay.java",
+        "patchSetId": 1
+      },
+      "lineNbr": 559,
+      "author": {
+        "id": 3134
+      },
+      "writtenOn": "2015-07-28T03:33:54Z",
+      "side": 1,
+      "message": "Shouldn\u0027t we check for empty strings?",
+      "range": {
+        "startLine": 559,
+        "startChar": 15,
+        "endLine": 559,
+        "endChar": 19
+      },
+      "revId": "7c884547beab8658996aee209ab81e422b1c6390",
+      "serverId": "1ec6b3db-b2c1-4fa4-84a2-4c7efe89ba71",
+      "unresolved": false
+    },
+    {
+      "key": {
+        "uuid": "bf091321_61646cba",
+        "filename": "src/com/android/calculator2/view/display/AdvancedDisplay.java",
+        "patchSetId": 1
+      },
+      "lineNbr": 567,
+      "author": {
+        "id": 3134
+      },
+      "writtenOn": "2015-07-28T03:33:54Z",
+      "side": 1,
+      "message": "return splitString[splitString.length - 1].contains(getContext().getString(R.id.dec_point)));",
+      "range": {
+        "startLine": 567,
+        "startChar": 12,
+        "endLine": 567,
+        "endChar": 97
+      },
+      "revId": "7c884547beab8658996aee209ab81e422b1c6390",
+      "serverId": "1ec6b3db-b2c1-4fa4-84a2-4c7efe89ba71",
+      "unresolved": false
     }
   ]
 }
