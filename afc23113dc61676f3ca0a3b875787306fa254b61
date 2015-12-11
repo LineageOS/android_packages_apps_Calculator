@@ -1,0 +1,21 @@
+{
+  "comments": [
+    {
+      "key": {
+        "uuid": "5f93b717_12d71ac2",
+        "filename": "src/com/android/calculator2/widget/CalculatorWidget.java",
+        "patchSetId": 2
+      },
+      "lineNbr": 217,
+      "author": {
+        "id": 7841
+      },
+      "writtenOn": "2015-12-11T07:30:15Z",
+      "side": 1,
+      "message": "Please convert tabs to spaces before committing...",
+      "revId": "afc23113dc61676f3ca0a3b875787306fa254b61",
+      "serverId": "1ec6b3db-b2c1-4fa4-84a2-4c7efe89ba71",
+      "unresolved": false
+    }
+  ]
+}
