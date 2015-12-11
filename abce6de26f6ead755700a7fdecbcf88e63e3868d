@@ -53,6 +53,24 @@
     },
     {
       "key": {
+        "uuid": "5f93b717_d21d32be",
+        "filename": "src/com/android/calculator2/widget/CalculatorWidget.java",
+        "patchSetId": 1
+      },
+      "lineNbr": 237,
+      "author": {
+        "id": 14113
+      },
+      "writtenOn": "2015-12-11T07:07:21Z",
+      "side": 1,
+      "message": "Done",
+      "parentUuid": "5f93b717_f2a14e97",
+      "revId": "abce6de26f6ead755700a7fdecbcf88e63e3868d",
+      "serverId": "1ec6b3db-b2c1-4fa4-84a2-4c7efe89ba71",
+      "unresolved": false
+    },
+    {
+      "key": {
         "uuid": "5f93b717_b2abc673",
         "filename": "src/com/android/calculator2/widget/CalculatorWidget.java",
         "patchSetId": 1
@@ -64,6 +82,41 @@
       "writtenOn": "2015-12-11T06:14:13Z",
       "side": 1,
       "message": "Why is this in an exception block? If the purpose is to deal with a null value or something, I\u0027d prefer an explicit check.",
+      "revId": "abce6de26f6ead755700a7fdecbcf88e63e3868d",
+      "serverId": "1ec6b3db-b2c1-4fa4-84a2-4c7efe89ba71",
+      "unresolved": false
+    },
+    {
+      "key": {
+        "uuid": "5f93b717_b220a6f9",
+        "filename": "src/com/android/calculator2/widget/CalculatorWidget.java",
+        "patchSetId": 1
+      },
+      "lineNbr": 238,
+      "author": {
+        "id": 14113
+      },
+      "writtenOn": "2015-12-11T07:07:21Z",
+      "side": 1,
+      "message": "Done",
+      "parentUuid": "5f93b717_b2abc673",
+      "revId": "abce6de26f6ead755700a7fdecbcf88e63e3868d",
+      "serverId": "1ec6b3db-b2c1-4fa4-84a2-4c7efe89ba71",
+      "unresolved": false
+    },
+    {
+      "key": {
+        "uuid": "5f93b717_7278def7",
+        "filename": "src/com/android/calculator2/widget/CalculatorWidget.java",
+        "patchSetId": 1
+      },
+      "lineNbr": 243,
+      "author": {
+        "id": 14113
+      },
+      "writtenOn": "2015-12-11T07:07:21Z",
+      "side": 1,
+      "message": "The catch should not be left empty, need to handle the exception somehow. But in general, what is the point of the try/catch here?",
       "revId": "abce6de26f6ead755700a7fdecbcf88e63e3868d",
       "serverId": "1ec6b3db-b2c1-4fa4-84a2-4c7efe89ba71",
       "unresolved": false
