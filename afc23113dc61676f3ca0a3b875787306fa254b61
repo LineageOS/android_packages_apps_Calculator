@@ -51,6 +51,24 @@
       "revId": "afc23113dc61676f3ca0a3b875787306fa254b61",
       "serverId": "1ec6b3db-b2c1-4fa4-84a2-4c7efe89ba71",
       "unresolved": false
+    },
+    {
+      "key": {
+        "uuid": "5f93b717_f2870eb6",
+        "filename": "src/com/android/calculator2/widget/CalculatorWidget.java",
+        "patchSetId": 2
+      },
+      "lineNbr": 240,
+      "author": {
+        "id": 7841
+      },
+      "writtenOn": "2015-12-11T07:52:19Z",
+      "side": 1,
+      "message": "Yup, after further pondering, I agree.",
+      "parentUuid": "5f93b717_b2fc263f",
+      "revId": "afc23113dc61676f3ca0a3b875787306fa254b61",
+      "serverId": "1ec6b3db-b2c1-4fa4-84a2-4c7efe89ba71",
+      "unresolved": false
     }
   ]
 }
