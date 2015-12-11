@@ -1,0 +1,72 @@
+{
+  "comments": [
+    {
+      "key": {
+        "uuid": "5f93b717_92932a50",
+        "filename": "src/com/android/calculator2/widget/CalculatorWidget.java",
+        "patchSetId": 1
+      },
+      "lineNbr": 216,
+      "author": {
+        "id": 7841
+      },
+      "writtenOn": "2015-12-11T06:14:13Z",
+      "side": 1,
+      "message": "looks like most of these line have tabs instead of spaces",
+      "revId": "abce6de26f6ead755700a7fdecbcf88e63e3868d",
+      "serverId": "1ec6b3db-b2c1-4fa4-84a2-4c7efe89ba71",
+      "unresolved": false
+    },
+    {
+      "key": {
+        "uuid": "5f93b717_32981669",
+        "filename": "src/com/android/calculator2/widget/CalculatorWidget.java",
+        "patchSetId": 1
+      },
+      "lineNbr": 228,
+      "author": {
+        "id": 7841
+      },
+      "writtenOn": "2015-12-11T06:14:13Z",
+      "side": 1,
+      "message": "This line is long enough to make viewing in the gerrit web interface awkward... might want to split.",
+      "revId": "abce6de26f6ead755700a7fdecbcf88e63e3868d",
+      "serverId": "1ec6b3db-b2c1-4fa4-84a2-4c7efe89ba71",
+      "unresolved": false
+    },
+    {
+      "key": {
+        "uuid": "5f93b717_f2a14e97",
+        "filename": "src/com/android/calculator2/widget/CalculatorWidget.java",
+        "patchSetId": 1
+      },
+      "lineNbr": 237,
+      "author": {
+        "id": 7841
+      },
+      "writtenOn": "2015-12-11T06:14:13Z",
+      "side": 1,
+      "message": "If the meaning of \"addDecimal\" is always \"an operator was found\" maybe it should be named something like \"foundOperator\"?",
+      "revId": "abce6de26f6ead755700a7fdecbcf88e63e3868d",
+      "serverId": "1ec6b3db-b2c1-4fa4-84a2-4c7efe89ba71",
+      "unresolved": false
+    },
+    {
+      "key": {
+        "uuid": "5f93b717_b2abc673",
+        "filename": "src/com/android/calculator2/widget/CalculatorWidget.java",
+        "patchSetId": 1
+      },
+      "lineNbr": 238,
+      "author": {
+        "id": 7841
+      },
+      "writtenOn": "2015-12-11T06:14:13Z",
+      "side": 1,
+      "message": "Why is this in an exception block? If the purpose is to deal with a null value or something, I\u0027d prefer an explicit check.",
+      "revId": "abce6de26f6ead755700a7fdecbcf88e63e3868d",
+      "serverId": "1ec6b3db-b2c1-4fa4-84a2-4c7efe89ba71",
+      "unresolved": false
+    }
+  ]
+}
