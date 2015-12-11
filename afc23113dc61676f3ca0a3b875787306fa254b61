@@ -16,6 +16,23 @@
       "revId": "afc23113dc61676f3ca0a3b875787306fa254b61",
       "serverId": "1ec6b3db-b2c1-4fa4-84a2-4c7efe89ba71",
       "unresolved": false
+    },
+    {
+      "key": {
+        "uuid": "5f93b717_f202ae3e",
+        "filename": "src/com/android/calculator2/widget/CalculatorWidget.java",
+        "patchSetId": 2
+      },
+      "lineNbr": 240,
+      "author": {
+        "id": 7841
+      },
+      "writtenOn": "2015-12-11T07:41:33Z",
+      "side": 1,
+      "message": "I\u0027m not sure if this is an actual scenario in the code, but should we be appending a decimal to the empty string?",
+      "revId": "afc23113dc61676f3ca0a3b875787306fa254b61",
+      "serverId": "1ec6b3db-b2c1-4fa4-84a2-4c7efe89ba71",
+      "unresolved": false
     }
   ]
 }
