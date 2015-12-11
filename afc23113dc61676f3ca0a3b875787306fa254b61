@@ -33,6 +33,24 @@
       "revId": "afc23113dc61676f3ca0a3b875787306fa254b61",
       "serverId": "1ec6b3db-b2c1-4fa4-84a2-4c7efe89ba71",
       "unresolved": false
+    },
+    {
+      "key": {
+        "uuid": "5f93b717_b2fc263f",
+        "filename": "src/com/android/calculator2/widget/CalculatorWidget.java",
+        "patchSetId": 2
+      },
+      "lineNbr": 240,
+      "author": {
+        "id": 14113
+      },
+      "writtenOn": "2015-12-11T07:43:04Z",
+      "side": 1,
+      "message": "I think it\u0027s a valid case, if the very first character that is entered is a decimal separator.",
+      "parentUuid": "5f93b717_f202ae3e",
+      "revId": "afc23113dc61676f3ca0a3b875787306fa254b61",
+      "serverId": "1ec6b3db-b2c1-4fa4-84a2-4c7efe89ba71",
+      "unresolved": false
     }
   ]
 }
