@@ -1,0 +1,27 @@
+{
+  "comments": [
+    {
+      "key": {
+        "uuid": "3fa0c359_fc512964",
+        "filename": "src/com/android/calculator2/widget/CalculatorWidget.java",
+        "patchSetId": 5
+      },
+      "lineNbr": 240,
+      "author": {
+        "id": 4550
+      },
+      "writtenOn": "2015-12-12T02:01:28Z",
+      "side": 1,
+      "message": "Need to wrap this at 100 chars per line too",
+      "range": {
+        "startLine": 238,
+        "startChar": 0,
+        "endLine": 240,
+        "endChar": 102
+      },
+      "revId": "01c9014048ac962e9e759a8d40b7306072275f0d",
+      "serverId": "1ec6b3db-b2c1-4fa4-84a2-4c7efe89ba71",
+      "unresolved": false
+    }
+  ]
+}
