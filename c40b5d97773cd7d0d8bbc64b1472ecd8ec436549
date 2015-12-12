@@ -1,0 +1,72 @@
+{
+  "comments": [
+    {
+      "key": {
+        "uuid": "3fa0c359_7cbc39bb",
+        "filename": "src/com/android/calculator2/widget/CalculatorWidget.java",
+        "patchSetId": 3
+      },
+      "lineNbr": 210,
+      "author": {
+        "id": 7841
+      },
+      "writtenOn": "2015-12-12T00:57:34Z",
+      "side": 1,
+      "message": "Argh... this line now has a trailing space. We prefer to avoid those.  Use can use \"git diff --check\" to detect these before submitting.",
+      "revId": "c40b5d97773cd7d0d8bbc64b1472ecd8ec436549",
+      "serverId": "1ec6b3db-b2c1-4fa4-84a2-4c7efe89ba71",
+      "unresolved": false
+    },
+    {
+      "key": {
+        "uuid": "3fa0c359_1cb175e2",
+        "filename": "src/com/android/calculator2/widget/CalculatorWidget.java",
+        "patchSetId": 3
+      },
+      "lineNbr": 224,
+      "author": {
+        "id": 7841
+      },
+      "writtenOn": "2015-12-12T00:57:34Z",
+      "side": 1,
+      "message": "trailing space",
+      "revId": "c40b5d97773cd7d0d8bbc64b1472ecd8ec436549",
+      "serverId": "1ec6b3db-b2c1-4fa4-84a2-4c7efe89ba71",
+      "unresolved": false
+    },
+    {
+      "key": {
+        "uuid": "3fa0c359_3cb6b1db",
+        "filename": "src/com/android/calculator2/widget/CalculatorWidget.java",
+        "patchSetId": 3
+      },
+      "lineNbr": 229,
+      "author": {
+        "id": 7841
+      },
+      "writtenOn": "2015-12-12T00:57:34Z",
+      "side": 1,
+      "message": "trailing space",
+      "revId": "c40b5d97773cd7d0d8bbc64b1472ecd8ec436549",
+      "serverId": "1ec6b3db-b2c1-4fa4-84a2-4c7efe89ba71",
+      "unresolved": false
+    },
+    {
+      "key": {
+        "uuid": "3fa0c359_dcca2d4e",
+        "filename": "src/com/android/calculator2/widget/CalculatorWidget.java",
+        "patchSetId": 3
+      },
+      "lineNbr": 238,
+      "author": {
+        "id": 7841
+      },
+      "writtenOn": "2015-12-12T00:57:34Z",
+      "side": 1,
+      "message": "trailing space",
+      "revId": "c40b5d97773cd7d0d8bbc64b1472ecd8ec436549",
+      "serverId": "1ec6b3db-b2c1-4fa4-84a2-4c7efe89ba71",
+      "unresolved": false
+    }
+  ]
+}
