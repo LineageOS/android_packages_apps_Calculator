@@ -2,6 +2,29 @@
   "comments": [
     {
       "key": {
+        "uuid": "3fa0c359_bcc16131",
+        "filename": "src/com/android/calculator2/widget/CalculatorWidget.java",
+        "patchSetId": 3
+      },
+      "lineNbr": 208,
+      "author": {
+        "id": 4550
+      },
+      "writtenOn": "2015-12-12T01:03:04Z",
+      "side": 1,
+      "message": "Only one newline needed.",
+      "range": {
+        "startLine": 208,
+        "startChar": 0,
+        "endLine": 208,
+        "endChar": 0
+      },
+      "revId": "c40b5d97773cd7d0d8bbc64b1472ecd8ec436549",
+      "serverId": "1ec6b3db-b2c1-4fa4-84a2-4c7efe89ba71",
+      "unresolved": false
+    },
+    {
+      "key": {
         "uuid": "3fa0c359_7cbc39bb",
         "filename": "src/com/android/calculator2/widget/CalculatorWidget.java",
         "patchSetId": 3
@@ -13,6 +36,52 @@
       "writtenOn": "2015-12-12T00:57:34Z",
       "side": 1,
       "message": "Argh... this line now has a trailing space. We prefer to avoid those.  Use can use \"git diff --check\" to detect these before submitting.",
+      "revId": "c40b5d97773cd7d0d8bbc64b1472ecd8ec436549",
+      "serverId": "1ec6b3db-b2c1-4fa4-84a2-4c7efe89ba71",
+      "unresolved": false
+    },
+    {
+      "key": {
+        "uuid": "3fa0c359_1ce655ea",
+        "filename": "src/com/android/calculator2/widget/CalculatorWidget.java",
+        "patchSetId": 3
+      },
+      "lineNbr": 217,
+      "author": {
+        "id": 4550
+      },
+      "writtenOn": "2015-12-12T01:03:04Z",
+      "side": 1,
+      "message": "if (",
+      "range": {
+        "startLine": 217,
+        "startChar": 8,
+        "endLine": 217,
+        "endChar": 11
+      },
+      "revId": "c40b5d97773cd7d0d8bbc64b1472ecd8ec436549",
+      "serverId": "1ec6b3db-b2c1-4fa4-84a2-4c7efe89ba71",
+      "unresolved": false
+    },
+    {
+      "key": {
+        "uuid": "3fa0c359_3ceb11b1",
+        "filename": "src/com/android/calculator2/widget/CalculatorWidget.java",
+        "patchSetId": 3
+      },
+      "lineNbr": 222,
+      "author": {
+        "id": 4550
+      },
+      "writtenOn": "2015-12-12T01:03:04Z",
+      "side": 1,
+      "message": "while (index \u003e\u003d 0) {",
+      "range": {
+        "startLine": 222,
+        "startChar": 12,
+        "endLine": 222,
+        "endChar": 30
+      },
       "revId": "c40b5d97773cd7d0d8bbc64b1472ecd8ec436549",
       "serverId": "1ec6b3db-b2c1-4fa4-84a2-4c7efe89ba71",
       "unresolved": false
@@ -36,6 +105,29 @@
     },
     {
       "key": {
+        "uuid": "3fa0c359_dccf8d55",
+        "filename": "src/com/android/calculator2/widget/CalculatorWidget.java",
+        "patchSetId": 3
+      },
+      "lineNbr": 227,
+      "author": {
+        "id": 4550
+      },
+      "writtenOn": "2015-12-12T01:03:04Z",
+      "side": 1,
+      "message": "if (currChar \u003d\u003d decimal) {",
+      "range": {
+        "startLine": 227,
+        "startChar": 16,
+        "endLine": 227,
+        "endChar": 40
+      },
+      "revId": "c40b5d97773cd7d0d8bbc64b1472ecd8ec436549",
+      "serverId": "1ec6b3db-b2c1-4fa4-84a2-4c7efe89ba71",
+      "unresolved": false
+    },
+    {
+      "key": {
         "uuid": "3fa0c359_3cb6b1db",
         "filename": "src/com/android/calculator2/widget/CalculatorWidget.java",
         "patchSetId": 3
@@ -53,6 +145,29 @@
     },
     {
       "key": {
+        "uuid": "3fa0c359_fcccc962",
+        "filename": "src/com/android/calculator2/widget/CalculatorWidget.java",
+        "patchSetId": 3
+      },
+      "lineNbr": 232,
+      "author": {
+        "id": 4550
+      },
+      "writtenOn": "2015-12-12T01:03:04Z",
+      "side": 1,
+      "message": "Wrap to 100 chars per line, also spaces around parenthesis like above.",
+      "range": {
+        "startLine": 232,
+        "startChar": 16,
+        "endLine": 232,
+        "endChar": 141
+      },
+      "revId": "c40b5d97773cd7d0d8bbc64b1472ecd8ec436549",
+      "serverId": "1ec6b3db-b2c1-4fa4-84a2-4c7efe89ba71",
+      "unresolved": false
+    },
+    {
+      "key": {
         "uuid": "3fa0c359_dcca2d4e",
         "filename": "src/com/android/calculator2/widget/CalculatorWidget.java",
         "patchSetId": 3
@@ -64,6 +179,52 @@
       "writtenOn": "2015-12-12T00:57:34Z",
       "side": 1,
       "message": "trailing space",
+      "revId": "c40b5d97773cd7d0d8bbc64b1472ecd8ec436549",
+      "serverId": "1ec6b3db-b2c1-4fa4-84a2-4c7efe89ba71",
+      "unresolved": false
+    },
+    {
+      "key": {
+        "uuid": "3fa0c359_9cd90524",
+        "filename": "src/com/android/calculator2/widget/CalculatorWidget.java",
+        "patchSetId": 3
+      },
+      "lineNbr": 242,
+      "author": {
+        "id": 4550
+      },
+      "writtenOn": "2015-12-12T01:03:04Z",
+      "side": 1,
+      "message": "Spaces around parenthesis.",
+      "range": {
+        "startLine": 242,
+        "startChar": 12,
+        "endLine": 242,
+        "endChar": 43
+      },
+      "revId": "c40b5d97773cd7d0d8bbc64b1472ecd8ec436549",
+      "serverId": "1ec6b3db-b2c1-4fa4-84a2-4c7efe89ba71",
+      "unresolved": false
+    },
+    {
+      "key": {
+        "uuid": "3fa0c359_9cc4a542",
+        "filename": "src/com/android/calculator2/widget/CalculatorWidget.java",
+        "patchSetId": 3
+      },
+      "lineNbr": 249,
+      "author": {
+        "id": 4550
+      },
+      "writtenOn": "2015-12-12T01:03:04Z",
+      "side": 1,
+      "message": "Only one newline needed.",
+      "range": {
+        "startLine": 248,
+        "startChar": 0,
+        "endLine": 249,
+        "endChar": 0
+      },
       "revId": "c40b5d97773cd7d0d8bbc64b1472ecd8ec436549",
       "serverId": "1ec6b3db-b2c1-4fa4-84a2-4c7efe89ba71",
       "unresolved": false
