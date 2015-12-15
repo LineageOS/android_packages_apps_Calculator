@@ -45,6 +45,54 @@
       "revId": "41fd1b7c0eee9146cae86c98a2472af9d2796f35",
       "serverId": "1ec6b3db-b2c1-4fa4-84a2-4c7efe89ba71",
       "unresolved": false
+    },
+    {
+      "key": {
+        "uuid": "ff6b8bd7_5ac61519",
+        "filename": "src/com/android/calculator2/widget/CalculatorWidget.java",
+        "patchSetId": 6
+      },
+      "lineNbr": 209,
+      "author": {
+        "id": 14463
+      },
+      "writtenOn": "2015-12-15T08:38:50Z",
+      "side": 1,
+      "message": "Done",
+      "parentUuid": "ff6b8bd7_1a5bbd87",
+      "range": {
+        "startLine": 209,
+        "startChar": 18,
+        "endLine": 209,
+        "endChar": 25
+      },
+      "revId": "41fd1b7c0eee9146cae86c98a2472af9d2796f35",
+      "serverId": "1ec6b3db-b2c1-4fa4-84a2-4c7efe89ba71",
+      "unresolved": false
+    },
+    {
+      "key": {
+        "uuid": "ff6b8bd7_1ad09dc9",
+        "filename": "src/com/android/calculator2/widget/CalculatorWidget.java",
+        "patchSetId": 6
+      },
+      "lineNbr": 209,
+      "author": {
+        "id": 14463
+      },
+      "writtenOn": "2015-12-15T08:38:50Z",
+      "side": 1,
+      "message": "Done",
+      "parentUuid": "ff6b8bd7_3a600133",
+      "range": {
+        "startLine": 209,
+        "startChar": 84,
+        "endLine": 209,
+        "endChar": 91
+      },
+      "revId": "41fd1b7c0eee9146cae86c98a2472af9d2796f35",
+      "serverId": "1ec6b3db-b2c1-4fa4-84a2-4c7efe89ba71",
+      "unresolved": false
     }
   ]
 }
