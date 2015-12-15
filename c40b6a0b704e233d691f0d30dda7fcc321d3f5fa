@@ -22,6 +22,30 @@
       "revId": "c40b6a0b704e233d691f0d30dda7fcc321d3f5fa",
       "serverId": "1ec6b3db-b2c1-4fa4-84a2-4c7efe89ba71",
       "unresolved": false
+    },
+    {
+      "key": {
+        "uuid": "ff6b8bd7_fa7289e3",
+        "filename": "src/com/android/calculator2/widget/CalculatorWidget.java",
+        "patchSetId": 7
+      },
+      "lineNbr": 230,
+      "author": {
+        "id": 14463
+      },
+      "writtenOn": "2015-12-15T09:22:30Z",
+      "side": 1,
+      "message": "This fix is specific for Calculator Widget, which only offers basic operations. It does not have any other operators besides these four.",
+      "parentUuid": "ff6b8bd7_7a675927",
+      "range": {
+        "startLine": 230,
+        "startChar": 25,
+        "endLine": 230,
+        "endChar": 33
+      },
+      "revId": "c40b6a0b704e233d691f0d30dda7fcc321d3f5fa",
+      "serverId": "1ec6b3db-b2c1-4fa4-84a2-4c7efe89ba71",
+      "unresolved": false
     }
   ]
 }
