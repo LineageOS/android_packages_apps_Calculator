@@ -1,0 +1,119 @@
+{
+  "comments": [
+    {
+      "key": {
+        "uuid": "1fcbff3d_4cedf2ed",
+        "filename": "res/layout/pad_numeric.xml",
+        "patchSetId": 3
+      },
+      "lineNbr": 72,
+      "author": {
+        "id": 11035
+      },
+      "writtenOn": "2016-01-26T06:26:13Z",
+      "side": 1,
+      "message": "maybe decimal_point was a good enough descriptive name ?",
+      "range": {
+        "startLine": 72,
+        "startChar": 25,
+        "endLine": 72,
+        "endChar": 28
+      },
+      "revId": "d706e4b0657da6db9a82204017aa0e007c229fa9",
+      "serverId": "1ec6b3db-b2c1-4fa4-84a2-4c7efe89ba71",
+      "unresolved": false
+    },
+    {
+      "key": {
+        "uuid": "1fcbff3d_0c0a8ad1",
+        "filename": "src/com/android/calculator2/util/CalculatorDigitHelper.java",
+        "patchSetId": 3
+      },
+      "lineNbr": 10,
+      "author": {
+        "id": 11035
+      },
+      "writtenOn": "2016-01-26T06:26:13Z",
+      "side": 1,
+      "message": "call it DigitLabelHelper instead ?",
+      "range": {
+        "startLine": 10,
+        "startChar": 19,
+        "endLine": 10,
+        "endChar": 40
+      },
+      "revId": "d706e4b0657da6db9a82204017aa0e007c229fa9",
+      "serverId": "1ec6b3db-b2c1-4fa4-84a2-4c7efe89ba71",
+      "unresolved": false
+    },
+    {
+      "key": {
+        "uuid": "1fcbff3d_0cd84a51",
+        "filename": "src/com/android/calculator2/util/CalculatorDigitHelper.java",
+        "patchSetId": 3
+      },
+      "lineNbr": 26,
+      "author": {
+        "id": 11035
+      },
+      "writtenOn": "2016-01-26T06:26:13Z",
+      "side": 1,
+      "message": "maybe rename this as well depending on what you decide above",
+      "range": {
+        "startLine": 26,
+        "startChar": 21,
+        "endLine": 26,
+        "endChar": 40
+      },
+      "revId": "d706e4b0657da6db9a82204017aa0e007c229fa9",
+      "serverId": "1ec6b3db-b2c1-4fa4-84a2-4c7efe89ba71",
+      "unresolved": false
+    },
+    {
+      "key": {
+        "uuid": "1fcbff3d_0c336aad",
+        "filename": "src/com/android/calculator2/util/CalculatorDigitHelper.java",
+        "patchSetId": 3
+      },
+      "lineNbr": 36,
+      "author": {
+        "id": 11035
+      },
+      "writtenOn": "2016-01-26T06:26:13Z",
+      "side": 1,
+      "message": "nu ?\nand maybe extract the constants into fields",
+      "range": {
+        "startLine": 36,
+        "startChar": 45,
+        "endLine": 36,
+        "endChar": 58
+      },
+      "revId": "d706e4b0657da6db9a82204017aa0e007c229fa9",
+      "serverId": "1ec6b3db-b2c1-4fa4-84a2-4c7efe89ba71",
+      "unresolved": false
+    },
+    {
+      "key": {
+        "uuid": "1fcbff3d_cce1e200",
+        "filename": "src/com/android/calculator2/util/CalculatorDigitHelper.java",
+        "patchSetId": 3
+      },
+      "lineNbr": 43,
+      "author": {
+        "id": 11035
+      },
+      "writtenOn": "2016-01-26T06:26:13Z",
+      "side": 1,
+      "message": "maybe have this be a stateful class rather than a static one to avoid the \u0027Locale\u0027 allocations or cache the \"default locale\"",
+      "range": {
+        "startLine": 43,
+        "startChar": 45,
+        "endLine": 43,
+        "endChar": 87
+      },
+      "revId": "d706e4b0657da6db9a82204017aa0e007c229fa9",
+      "serverId": "1ec6b3db-b2c1-4fa4-84a2-4c7efe89ba71",
+      "unresolved": false
+    }
+  ]
+}
