@@ -1,0 +1,50 @@
+{
+  "comments": [
+    {
+      "key": {
+        "uuid": "1fcbff3d_87e65044",
+        "filename": "src/com/android/calculator2/util/DigitLabelHelper.java",
+        "patchSetId": 5
+      },
+      "lineNbr": 29,
+      "author": {
+        "id": 11035
+      },
+      "writtenOn": "2016-01-27T07:06:10Z",
+      "side": 1,
+      "message": "cachedLocaleHash ?",
+      "range": {
+        "startLine": 29,
+        "startChar": 16,
+        "endLine": 29,
+        "endChar": 31
+      },
+      "revId": "def09441d564ace92f2a7e948692f29f8f59f4c9",
+      "serverId": "1ec6b3db-b2c1-4fa4-84a2-4c7efe89ba71",
+      "unresolved": false
+    },
+    {
+      "key": {
+        "uuid": "1fcbff3d_0741000c",
+        "filename": "src/com/android/calculator2/util/DigitLabelHelper.java",
+        "patchSetId": 5
+      },
+      "lineNbr": 58,
+      "author": {
+        "id": 11035
+      },
+      "writtenOn": "2016-01-27T07:06:10Z",
+      "side": 1,
+      "message": "can\u0027t you get away w/ not defining this temp local var",
+      "range": {
+        "startLine": 58,
+        "startChar": 15,
+        "endLine": 58,
+        "endChar": 35
+      },
+      "revId": "def09441d564ace92f2a7e948692f29f8f59f4c9",
+      "serverId": "1ec6b3db-b2c1-4fa4-84a2-4c7efe89ba71",
+      "unresolved": false
+    }
+  ]
+}
