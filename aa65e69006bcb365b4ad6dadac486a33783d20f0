@@ -1,0 +1,21 @@
+{
+  "comments": [
+    {
+      "key": {
+        "uuid": "5faad753_a737beb0",
+        "filename": "src/com/xlythe/math/Solver.java",
+        "patchSetId": 1
+      },
+      "lineNbr": 25,
+      "author": {
+        "id": 15007
+      },
+      "writtenOn": "2016-05-09T16:57:04Z",
+      "side": 1,
+      "message": "Nice but I would have created a static constant (with a good name) and assigned it here.",
+      "revId": "aa65e69006bcb365b4ad6dadac486a33783d20f0",
+      "serverId": "1ec6b3db-b2c1-4fa4-84a2-4c7efe89ba71",
+      "unresolved": false
+    }
+  ]
+}
