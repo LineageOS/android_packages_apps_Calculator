@@ -1,0 +1,21 @@
+{
+  "comments": [
+    {
+      "key": {
+        "uuid": "5faad753_8744021d",
+        "filename": "src/com/xlythe/math/Solver.java",
+        "patchSetId": 1
+      },
+      "lineNbr": 25,
+      "author": {
+        "id": 15007
+      },
+      "writtenOn": "2016-05-09T16:57:42Z",
+      "side": 1,
+      "message": "Ditto, same comment as the one on the other patch",
+      "revId": "88ab5fa94453e1e1d96afc776058ce0f377eea5f",
+      "serverId": "1ec6b3db-b2c1-4fa4-84a2-4c7efe89ba71",
+      "unresolved": false
+    }
+  ]
+}
