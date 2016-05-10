@@ -16,6 +16,24 @@
       "revId": "aa65e69006bcb365b4ad6dadac486a33783d20f0",
       "serverId": "1ec6b3db-b2c1-4fa4-84a2-4c7efe89ba71",
       "unresolved": false
+    },
+    {
+      "key": {
+        "uuid": "5faad753_c5dd0d15",
+        "filename": "src/com/xlythe/math/Solver.java",
+        "patchSetId": 1
+      },
+      "lineNbr": 25,
+      "author": {
+        "id": 14463
+      },
+      "writtenOn": "2016-05-10T21:33:38Z",
+      "side": 1,
+      "message": "Thanks for the feedback. The patch had already been merged when I got this feedback. I can create a new patch if you feel this must be done.",
+      "parentUuid": "5faad753_a737beb0",
+      "revId": "aa65e69006bcb365b4ad6dadac486a33783d20f0",
+      "serverId": "1ec6b3db-b2c1-4fa4-84a2-4c7efe89ba71",
+      "unresolved": false
     }
   ]
 }
