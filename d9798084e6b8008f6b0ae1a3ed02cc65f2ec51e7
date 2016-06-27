@@ -1,0 +1,21 @@
+{
+  "comments": [
+    {
+      "key": {
+        "uuid": "3fa7e38b_6d51ed0e",
+        "filename": "src/com/android/calculator2/widget/CalculatorWidget.java",
+        "patchSetId": 3
+      },
+      "lineNbr": 203,
+      "author": {
+        "id": 13956
+      },
+      "writtenOn": "2016-06-27T21:37:20Z",
+      "side": 1,
+      "message": "shall we allow double minus ?\nIt is not allowed in full-UI and previous implementation.\nSince I cannot replace the double minus with * or /  or +, must delete the additional minus by del.",
+      "revId": "d9798084e6b8008f6b0ae1a3ed02cc65f2ec51e7",
+      "serverId": "1ec6b3db-b2c1-4fa4-84a2-4c7efe89ba71",
+      "unresolved": false
+    }
+  ]
+}
