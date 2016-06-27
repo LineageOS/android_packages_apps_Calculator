@@ -16,6 +16,24 @@
       "revId": "d9798084e6b8008f6b0ae1a3ed02cc65f2ec51e7",
       "serverId": "1ec6b3db-b2c1-4fa4-84a2-4c7efe89ba71",
       "unresolved": false
+    },
+    {
+      "key": {
+        "uuid": "3fa7e38b_2d5bf52e",
+        "filename": "src/com/android/calculator2/widget/CalculatorWidget.java",
+        "patchSetId": 3
+      },
+      "lineNbr": 203,
+      "author": {
+        "id": 10094
+      },
+      "writtenOn": "2016-06-27T21:40:53Z",
+      "side": 1,
+      "message": "Double minus (subtracting a negative operand) wasn\u0027t supported, but it does allow lhs negative operands.  IMO, we should have full support for negative operands, or no support.  The previous behavior was not consistent.",
+      "parentUuid": "3fa7e38b_6d51ed0e",
+      "revId": "d9798084e6b8008f6b0ae1a3ed02cc65f2ec51e7",
+      "serverId": "1ec6b3db-b2c1-4fa4-84a2-4c7efe89ba71",
+      "unresolved": false
     }
   ]
 }
