@@ -1,0 +1,27 @@
+{
+  "comments": [
+    {
+      "key": {
+        "uuid": "3fa7e38b_bdaa8f82",
+        "filename": "src/com/android/calculator2/floating/FloatingCalculatorOpenShortCutActivity.java",
+        "patchSetId": 2
+      },
+      "lineNbr": 17,
+      "author": {
+        "id": 9199
+      },
+      "writtenOn": "2016-07-15T14:24:42Z",
+      "side": 1,
+      "message": "interesting request value ;)",
+      "range": {
+        "startLine": 17,
+        "startChar": 58,
+        "endLine": 17,
+        "endChar": 60
+      },
+      "revId": "a389badbbec8ef8e16bc52b4d00f07df941ac40d",
+      "serverId": "1ec6b3db-b2c1-4fa4-84a2-4c7efe89ba71",
+      "unresolved": false
+    }
+  ]
+}
