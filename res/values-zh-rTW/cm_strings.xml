@@ -40,23 +40,23 @@
   <!-- (Hidden) Displayed on buttons on screen for the integral function. -->
   <string name="dy">dY</string>
   <!-- (Hidden) Displayed on buttons on screen for the modulo function. -->
-  <string name="mod">模組</string>
+  <string name="mod">取餘數</string>
   <!-- Displayed on button on screen for the cube root function. -->
   <!-- Displayed on buttons on screen for parentheses. -->
   <string name="text_copied_toast">已複製。</string>
   <string name="copy">複製「%s」</string>
   <string name="remove_from_history">從紀錄中移除</string>
   <!-- Matrix page text -->
-  <string name="det">det</string>
-  <string name="solve">解決</string>
-  <string name="plus_row">+Row</string>
-  <string name="minus_row">-Row</string>
-  <string name="plus_col">+Col</string>
-  <string name="minus_col">-Col</string>
+  <string name="det">行列式</string>
+  <string name="solve">求解</string>
+  <string name="plus_row">+行</string>
+  <string name="minus_row">-行</string>
+  <string name="plus_col">+列</string>
+  <string name="minus_col">-列</string>
   <string name="matrix_transpose">T</string>
   <!-- Hex page text -->
-  <string name="hex">Hex</string>
-  <string name="bin">Bin</string>
+  <string name="hex">十六進位</string>
+  <string name="bin">二進位</string>
   <string name="dec">十進位</string>
   <string name="desc_hex">十六進位</string>
   <string name="desc_bin">二進位</string>
