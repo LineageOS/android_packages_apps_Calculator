@@ -20,6 +20,7 @@
   <!-- Error displayed when expression evaluates to NaN. [CHAR_LIMIT=14] -->
   <!-- Error displayed when expression contains a syntax error. [CHAR_LIMIT=14] -->
   <!-- Abbrev. name of cosine function (e.g. "cos(π)". [CHAR_LIMIT=3] -->
+  <string name="fun_cos">kos</string>
   <!-- Natural logarithm function (e.g. "ln(2)"). [CHAR_LIMIT=3] -->
   <!-- Logarithm function (e.g. "log(10)"). [CHAR_LIMIT=3] -->
   <!-- Abbrev. name of sine function (e.g. "sin(π)". [CHAR_LIMIT=3] -->
@@ -33,9 +34,11 @@
   <!-- Content description for '(' button. [CHAR_LIMIT=NONE] -->
   <!-- Content description for ')' button. [CHAR_LIMIT=NONE] -->
   <!-- Content description for 'cos' button. [CHAR_LIMIT=NONE] -->
+  <string name="desc_fun_cos">kosinuso</string>
   <!-- Content description for 'ln' button. [CHAR_LIMIT=NONE] -->
   <!-- Content description for 'log' button. [CHAR_LIMIT=NONE] -->
   <!-- Content description for 'sin' button. [CHAR_LIMIT=NONE] -->
+  <string name="desc_fun_sin">sinuso</string>
   <!-- Content description for 'tan' button. [CHAR_LIMIT=NONE] -->
   <!-- Content description for '+' button. [CHAR_LIMIT=NONE] -->
   <!-- Content description for '÷' button. [CHAR_LIMIT=NONE] -->

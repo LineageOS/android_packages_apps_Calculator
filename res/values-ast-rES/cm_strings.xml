@@ -43,12 +43,12 @@
   <string name="mod">mod</string>
   <!-- Displayed on button on screen for the cube root function. -->
   <!-- Displayed on buttons on screen for parentheses. -->
-  <string name="text_copied_toast">Testu copiáu.</string>
-  <string name="copy">\u00AB%s\u00BB copiáu</string>
+  <string name="text_copied_toast">Copióse\'l testu.</string>
+  <string name="copy">Copiar «%s»</string>
   <string name="remove_from_history">Desaniciar del historial</string>
   <!-- Matrix page text -->
   <string name="det">determ</string>
-  <string name="solve">Resolv</string>
+  <string name="solve">Resolver</string>
   <string name="plus_row">Fil+</string>
   <string name="minus_row">Fil-</string>
   <string name="plus_col">Col+</string>
@@ -61,5 +61,5 @@
   <string name="desc_hex">Hexadecimal</string>
   <string name="desc_bin">Binariu</string>
   <string name="desc_dec">Decimal</string>
-  <string name="text_max_chars">Introduxesti milenta caráuteres - por favor, desanicia dalgunos caráuteres pa resolver la to ecuación pa siguir</string>
+  <string name="text_max_chars">Introduxéronse milenta caráuteres. Desanicia dellos o resolvi la to ecuación pa siguir, por favor</string>
 </resources>

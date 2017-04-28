@@ -61,5 +61,5 @@
   <string name="desc_hex">Hexadecimal</string>
   <string name="desc_bin">Binario</string>
   <string name="desc_dec">Decimal</string>
-  <string name="text_max_chars">Se introdujeron demasiados caracteres. Elimina algunos caracteres o resuelve la ecuación para continuar</string>
+  <string name="text_max_chars">Se ingresaron demasiados caracteres. Borra algunos caracteres o resuelve la ecuación para continuar</string>
 </resources>
