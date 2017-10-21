@@ -44,7 +44,7 @@
   <!-- Displayed on button on screen for the cube root function. -->
   <!-- Displayed on buttons on screen for parentheses. -->
   <string name="text_copied_toast">Texto copiado.</string>
-  <string name="copy">Copiar \'%s\'</string>
+  <string name="copy">Copiar «%s»</string>
   <string name="remove_from_history">Borrar del historial</string>
   <!-- Matrix page text -->
   <string name="det">det</string>
